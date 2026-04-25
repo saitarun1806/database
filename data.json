@@ -1,3 +1,442 @@
 {
-  "students": []
+  "students": [
+    {
+      "roll": "12316001",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem2": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316003",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316005",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316008",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316011",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316014",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316017",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316019",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316022",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316026",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316029",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316032",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316034",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316036",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316038",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316040",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316043",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316045",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316047",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316049",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316051",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316053",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316055",
+      "name": "GRADE",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316002",
+      "name": "GRADE",
+      "semesters": {
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316004",
+      "name": "GRADE",
+      "semesters": {
+        "sem3": {
+          "subjects": []
+        },
+        "sem2": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316006",
+      "name": "GRADE",
+      "semesters": {
+        "sem3": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316007",
+      "name": "GRADE",
+      "semesters": {
+        "sem2": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316015",
+      "name": "GRADE",
+      "semesters": {
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316025",
+      "name": "GRADE",
+      "semesters": {
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316033",
+      "name": "GRADE",
+      "semesters": {
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316039",
+      "name": "GRADE",
+      "semesters": {
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316046",
+      "name": "GRADE",
+      "semesters": {
+        "sem2": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316010",
+      "name": "GRADE",
+      "semesters": {
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316018",
+      "name": "GRADE",
+      "semesters": {
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316027",
+      "name": "GRADE",
+      "semesters": {
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316035",
+      "name": "GRADE",
+      "semesters": {
+        "sem1": {
+          "subjects": []
+        }
+      }
+    },
+    {
+      "roll": "12316041",
+      "name": "GRADE",
+      "semesters": {
+        "sem1": {
+          "subjects": []
+        }
+      }
+    }
+  ]
 }
