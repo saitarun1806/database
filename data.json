@@ -1,3 +1,22 @@
 {
-  "students": []
+  "students": [
+    {
+      "roll": "12316001",
+      "name": "UNKNOWN",
+      "semesters": {
+        "sem4": {
+          "subjects": []
+        },
+        "sem3": {
+          "subjects": []
+        },
+        "sem2": {
+          "subjects": []
+        },
+        "sem1": {
+          "subjects": []
+        }
+      }
+    }
+  ]
 }
