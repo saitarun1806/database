@@ -62,7 +62,6 @@ def parse_text(text):
                     parts = line.split()
 
                     code = parts[0]
-
                     internal = parts[-6]
                     external = parts[-5]
                     total = parts[-4]
@@ -98,7 +97,7 @@ def parse_text(text):
 
 
 # =========================
-# 🔹 MAIN FUNCTION (SAFE MERGE)
+# 🔹 MAIN FUNCTION (FIXED)
 # =========================
 def main():
     pdf_folder = "pdfs"
@@ -117,38 +116,48 @@ def main():
         all_students = {}
 
     # =========================
-    # 🔹 Process all PDFs
+    # 🔹 Process ALL PDFs (including subfolders)
     # =========================
-    for file in os.listdir(pdf_folder):
-        if file.endswith(".pdf"):
+    for root, dirs, files in os.walk(pdf_folder):
+        for file in files:
+            if file.endswith(".pdf"):
 
-            semester = file.replace(".pdf", "")
-            file_path = os.path.join(pdf_folder, file)
+                # 🔥 detect section (folder name)
+                section = os.path.basename(root)
+                if root == pdf_folder:
+                    section = "MAIN"
 
-            print(f"📄 Processing {file}...")
+                # 🔥 unique semester name (prevents collision)
+                semester = f"{section}_{file.replace('.pdf', '')}"
 
-            text = extract_text_from_pdf(file_path)
-            students = parse_text(text)
+                file_path = os.path.join(root, file)
 
-            for student in students:
-                roll = student["roll"]
+                print(f"📄 Processing {file_path} as {semester}...")
 
-                # create student if not exists
-                if roll not in all_students:
-                    all_students[roll] = {
-                        "roll": roll,
-                        "name": student["name"],
-                        "semesters": {}
-                    }
+                text = extract_text_from_pdf(file_path)
+                students = parse_text(text)
 
-                # 🔥 DO NOT OVERWRITE EXISTING SEM DATA
-                if semester not in all_students[roll]["semesters"]:
-                    all_students[roll]["semesters"][semester] = {
-                        "subjects": student["subjects"]
-                    }
-                    print(f"✅ Added {roll} {semester}")
-                else:
-                    print(f"⏭ Skipped {roll} {semester} (already exists)")
+                for student in students:
+                    roll = student["roll"]
+
+                    # create student if not exists
+                    if roll not in all_students:
+                        all_students[roll] = {
+                            "roll": roll,
+                            "name": student["name"],
+                            "semesters": {}
+                        }
+
+                    # =========================
+                    # 🔥 SAFE MERGE
+                    # =========================
+                    if semester not in all_students[roll]["semesters"]:
+                        all_students[roll]["semesters"][semester] = {
+                            "subjects": student["subjects"]
+                        }
+                        print(f"✅ Added {roll} {semester}")
+                    else:
+                        print(f"⏭ Skipped {roll} {semester}")
 
     # =========================
     # 💾 Save final JSON
@@ -156,7 +165,7 @@ def main():
     with open(data_file, "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("\n🎉 Data updated safely without overwriting!")
+    print("\n🎉 All PDFs processed correctly (including AI)!")
 
 
 # =========================
