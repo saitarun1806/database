@@ -80,6 +80,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "33",
+              "external": "51",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "38",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "27",
+              "external": "33",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "30",
+              "external": "36",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "31",
+              "external": "34",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "51",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "68",
+              "external": "0",
+              "total": "68",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -278,6 +354,82 @@
               "internal": "32",
               "external": "48",
               "total": "80",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "21",
+              "external": "25",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "22",
+              "external": "31",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "21",
+              "external": "33",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "12",
+              "external": "18",
+              "total": "30",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "20",
+              "external": "41",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "31",
+              "external": "49",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "44",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
               "result": "P"
             }
           ]
@@ -484,6 +636,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "19",
+              "external": "49",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "37",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "23",
+              "external": "42",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "14",
+              "external": "19",
+              "total": "33",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "23",
+              "external": "24",
+              "total": "47",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "24",
+              "external": "45",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "48",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "51",
+              "external": "0",
+              "total": "51",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -682,6 +910,82 @@
               "internal": "35",
               "external": "48",
               "total": "83",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "29",
+              "external": "14",
+              "total": "43",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "38",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "21",
+              "external": "43",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "26",
+              "external": "26",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "31",
+              "external": "33",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "45",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
               "result": "P"
             }
           ]
@@ -888,6 +1192,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "28",
+              "external": "48",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "27",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "22",
+              "external": "29",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "25",
+              "external": "24",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "21",
+              "external": "24",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "33",
+              "external": "49",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "43",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "79",
+              "external": "0",
+              "total": "79",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -1086,6 +1466,82 @@
               "internal": "32",
               "external": "56",
               "total": "88",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "22",
+              "external": "49",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "31",
+              "external": "35",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "27",
+              "external": "35",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "21",
+              "external": "10",
+              "total": "31",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "22",
+              "external": "27",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "34",
+              "external": "49",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "37",
+              "external": "48",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "71",
+              "external": "0",
+              "total": "71",
               "result": "P"
             }
           ]
@@ -1292,6 +1748,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "38",
+              "external": "54",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "34",
+              "external": "28",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "30",
+              "external": "40",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "37",
+              "external": "38",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "50",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "38",
+              "external": "40",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "69",
+              "external": "0",
+              "total": "69",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -1490,6 +2022,82 @@
               "internal": "35",
               "external": "46",
               "total": "81",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "30",
+              "external": "54",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "52",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "23",
+              "external": "33",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "24",
+              "external": "35",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "35",
+              "external": "39",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "42",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "75",
+              "external": "0",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -1696,6 +2304,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "15",
+              "total": "31",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "28",
+              "external": "26",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "16",
+              "external": "29",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "19",
+              "external": "19",
+              "total": "38",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "13",
+              "external": "27",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "30",
+              "external": "52",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "40",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "64",
+              "external": "0",
+              "total": "64",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -1894,6 +2578,82 @@
               "internal": "33",
               "external": "48",
               "total": "81",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "26",
+              "external": "40",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "33",
+              "external": "32",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "20",
+              "external": "33",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "14",
+              "external": "30",
+              "total": "44",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "36",
+              "external": "25",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "48",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "65",
+              "external": "0",
+              "total": "65",
               "result": "P"
             }
           ]
@@ -2100,6 +2860,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "21",
+              "external": "32",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "43",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "23",
+              "external": "48",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "23",
+              "external": "29",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "29",
+              "external": "40",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "45",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "69",
+              "external": "0",
+              "total": "69",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -2298,6 +3134,82 @@
               "internal": "32",
               "external": "50",
               "total": "82",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "18",
+              "external": "40",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "24",
+              "external": "40",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "24",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "16",
+              "external": "17",
+              "total": "33",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "24",
+              "external": "26",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "30",
+              "external": "53",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "45",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "71",
+              "external": "0",
+              "total": "71",
               "result": "P"
             }
           ]
@@ -2504,6 +3416,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "25",
+              "external": "42",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "46",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "16",
+              "external": "45",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "18",
+              "external": "26",
+              "total": "44",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "33",
+              "external": "33",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "33",
+              "external": "50",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "40",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "72",
+              "external": "0",
+              "total": "72",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -2702,6 +3690,82 @@
               "internal": "28",
               "external": "49",
               "total": "77",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "22",
+              "external": "50",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "28",
+              "external": "43",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "45",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "14",
+              "external": "16",
+              "total": "30",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "11",
+              "external": "24",
+              "total": "35",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "30",
+              "external": "52",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "32",
+              "external": "40",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "62",
+              "external": "0",
+              "total": "62",
               "result": "P"
             }
           ]
@@ -2908,6 +3972,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "9",
+              "external": "34",
+              "total": "43",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "14",
+              "external": "35",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "7",
+              "external": "35",
+              "total": "42",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "2",
+              "external": "38",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "14",
+              "external": "2",
+              "total": "16",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "28",
+              "external": "46",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "45",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "51",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "52",
+              "external": "0",
+              "total": "52",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -3106,6 +4246,82 @@
               "internal": "34",
               "external": "51",
               "total": "85",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "43",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "46",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "26",
+              "external": "33",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "29",
+              "external": "46",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "24",
+              "external": "45",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "38",
+              "external": "47",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "68",
+              "external": "0",
+              "total": "68",
               "result": "P"
             }
           ]
@@ -3312,6 +4528,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "29",
+              "external": "48",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "41",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "31",
+              "external": "48",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "19",
+              "external": "24",
+              "total": "43",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "28",
+              "external": "43",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "49",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "48",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "59",
+              "total": "97",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "65",
+              "external": "0",
+              "total": "65",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -3514,6 +4806,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "19",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "28",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "13",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "10",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "21",
+              "external": "0",
+              "total": "21",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "30",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "37",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "57",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -3712,6 +5080,82 @@
               "internal": "33",
               "external": "46",
               "total": "79",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "21",
+              "external": "46",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "27",
+              "external": "33",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "18",
+              "external": "47",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "16",
+              "external": "35",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "26",
+              "external": "28",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "30",
+              "external": "48",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "47",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "53",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "49",
+              "external": "0",
+              "total": "49",
               "result": "P"
             }
           ]
@@ -3918,6 +5362,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "20",
+              "external": "50",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "45",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "48",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "13",
+              "external": "41",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "26",
+              "external": "24",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "32",
+              "external": "40",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "51",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "70",
+              "external": "0",
+              "total": "70",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -4116,6 +5636,82 @@
               "internal": "28",
               "external": "50",
               "total": "78",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "26",
+              "external": "24",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "38",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "20",
+              "external": "35",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "21",
+              "external": "25",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "26",
+              "external": "31",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "33",
+              "external": "52",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "48",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "51",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "54",
+              "external": "0",
+              "total": "54",
               "result": "P"
             }
           ]
@@ -4322,6 +5918,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "29",
+              "external": "36",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "33",
+              "external": "49",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "53",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "23",
+              "external": "46",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "33",
+              "external": "46",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "34",
+              "external": "50",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -4520,6 +6192,82 @@
               "internal": "34",
               "external": "54",
               "total": "88",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "23",
+              "external": "27",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "44",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "30",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "22",
+              "external": "26",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "28",
+              "external": "31",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "51",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "70",
+              "external": "0",
+              "total": "70",
               "result": "P"
             }
           ]
@@ -4726,6 +6474,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "20",
+              "external": "47",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "33",
+              "external": "44",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "44",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "24",
+              "external": "28",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "14",
+              "external": "34",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "50",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "51",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "71",
+              "external": "0",
+              "total": "71",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -4924,6 +6748,82 @@
               "internal": "34",
               "external": "50",
               "total": "84",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "9",
+              "external": "4",
+              "total": "13",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "18",
+              "external": "AB",
+              "total": "18",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "15",
+              "external": "36",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "1",
+              "external": "24",
+              "total": "25",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "4",
+              "external": "0",
+              "total": "4",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "28",
+              "external": "55",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "50",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "0",
+              "external": "57",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "52",
+              "external": "0",
+              "total": "52",
               "result": "P"
             }
           ]
@@ -5130,6 +7030,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "18",
+              "external": "24",
+              "total": "42",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "49",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "20",
+              "external": "38",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "12",
+              "external": "28",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "23",
+              "external": "45",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "52",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "58",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "70",
+              "external": "0",
+              "total": "70",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -5328,6 +7304,82 @@
               "internal": "38",
               "external": "50",
               "total": "88",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "21",
+              "external": "26",
+              "total": "47",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "31",
+              "external": "50",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "51",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "21",
+              "external": "24",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "26",
+              "external": "24",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "33",
+              "external": "50",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "51",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "51",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "61",
+              "external": "0",
+              "total": "61",
               "result": "P"
             }
           ]
@@ -5534,6 +7586,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "28",
+              "external": "43",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "53",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "36",
+              "external": "47",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "23",
+              "external": "38",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "32",
+              "external": "34",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "37",
+              "external": "50",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "51",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "65",
+              "external": "0",
+              "total": "65",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -5732,6 +7860,82 @@
               "internal": "32",
               "external": "50",
               "total": "82",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "22",
+              "external": "45",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "33",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "28",
+              "external": "44",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "17",
+              "external": "35",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "27",
+              "external": "24",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "51",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "64",
+              "external": "0",
+              "total": "64",
               "result": "P"
             }
           ]
@@ -5938,6 +8142,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "22",
+              "external": "29",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "42",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "25",
+              "external": "32",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "33",
+              "external": "30",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "38",
+              "external": "50",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "57",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "67",
+              "external": "0",
+              "total": "67",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -6136,6 +8416,82 @@
               "internal": "32",
               "external": "52",
               "total": "84",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "23",
+              "external": "32",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "26",
+              "external": "26",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "30",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "21",
+              "external": "16",
+              "total": "37",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "17",
+              "external": "13",
+              "total": "30",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "32",
+              "external": "53",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "51",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "52",
+              "external": "0",
+              "total": "52",
               "result": "P"
             }
           ]
@@ -6342,6 +8698,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "13",
+              "external": "11",
+              "total": "24",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "24",
+              "external": "40",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "13",
+              "external": "36",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "20",
+              "external": "27",
+              "total": "47",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "26",
+              "external": "35",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "30",
+              "external": "51",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "51",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "57",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -6540,6 +8972,82 @@
               "internal": "35",
               "external": "50",
               "total": "85",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "31",
+              "external": "46",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "32",
+              "external": "39",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "27",
+              "external": "44",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "34",
+              "external": "40",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "49",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "37",
+              "external": "49",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "69",
+              "external": "0",
+              "total": "69",
               "result": "P"
             }
           ]
@@ -6746,6 +9254,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "11",
+              "total": "27",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "29",
+              "external": "47",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "21",
+              "external": "49",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "20",
+              "external": "16",
+              "total": "36",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "25",
+              "external": "27",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "32",
+              "external": "53",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "50",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "57",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "51",
+              "external": "0",
+              "total": "51",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -6944,6 +9528,82 @@
               "internal": "34",
               "external": "50",
               "total": "84",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "27",
+              "external": "34",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "46",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "20",
+              "external": "51",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "24",
+              "external": "24",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "27",
+              "external": "31",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "51",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "54",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
               "result": "P"
             }
           ]
@@ -7150,6 +9810,82 @@
             }
           ]
         },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "19",
+              "external": "43",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "39",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "42",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "23",
+              "external": "24",
+              "total": "47",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "31",
+              "external": "39",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "49",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "49",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "71",
+              "external": "0",
+              "total": "71",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
@@ -7348,6 +10084,82 @@
               "internal": "30",
               "external": "48",
               "total": "78",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "17",
+              "external": "52",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "31",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "27",
+              "external": "35",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "13",
+              "external": "27",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "29",
+              "external": "35",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "48",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
               "result": "P"
             }
           ]
@@ -7553,6 +10365,82 @@
               "result": "P"
             }
           ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "12",
+              "external": "19",
+              "total": "31",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "38",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "18",
+              "external": "7",
+              "total": "25",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "7",
+              "external": "11",
+              "total": "18",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "19",
+              "external": "27",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "33",
+              "external": "50",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "48",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "55",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "66",
+              "external": "0",
+              "total": "66",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -7632,6 +10520,82 @@
               "internal": "28",
               "external": "52",
               "total": "80",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "28",
+              "total": "44",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "18",
+              "external": "25",
+              "total": "43",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "11",
+              "external": "29",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "8",
+              "external": "18",
+              "total": "26",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "23",
+              "external": "29",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "27",
+              "external": "50",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "47",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "50",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "55",
+              "external": "0",
+              "total": "55",
               "result": "P"
             }
           ]
@@ -7717,6 +10681,82 @@
               "result": "P"
             }
           ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "20",
+              "external": "44",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "41",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "20",
+              "external": "36",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "17",
+              "external": "24",
+              "total": "41",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "29",
+              "external": "34",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "51",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "65",
+              "external": "0",
+              "total": "65",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -7796,6 +10836,82 @@
               "internal": "34",
               "external": "49",
               "total": "83",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "15",
+              "total": "31",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "46",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "21",
+              "external": "52",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "18",
+              "external": "28",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "33",
+              "external": "41",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "52",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "40",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "57",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "73",
+              "external": "0",
+              "total": "73",
               "result": "P"
             }
           ]
@@ -7881,6 +10997,82 @@
               "result": "P"
             }
           ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "22",
+              "external": "35",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "35",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "37",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "16",
+              "external": "28",
+              "total": "44",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "28",
+              "external": "41",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -7960,6 +11152,82 @@
               "internal": "29",
               "external": "48",
               "total": "77",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "11",
+              "external": "32",
+              "total": "43",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "29",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "18",
+              "external": "41",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "13",
+              "external": "27",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "24",
+              "external": "33",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "33",
+              "external": "52",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "50",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "52",
+              "external": "0",
+              "total": "52",
               "result": "P"
             }
           ]
@@ -8045,6 +11313,82 @@
               "result": "P"
             }
           ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "11",
+              "external": "16",
+              "total": "27",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "43",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "16",
+              "external": "34",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "11",
+              "external": "9",
+              "total": "20",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "27",
+              "external": "34",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "50",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "62",
+              "external": "0",
+              "total": "62",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -8124,6 +11468,82 @@
               "internal": "30",
               "external": "53",
               "total": "83",
+              "result": "P"
+            }
+          ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "11",
+              "external": "17",
+              "total": "28",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "25",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "15",
+              "external": "30",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "10",
+              "external": "12",
+              "total": "22",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "23",
+              "external": "27",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "33",
+              "external": "49",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "65",
+              "external": "0",
+              "total": "65",
               "result": "P"
             }
           ]
@@ -8209,6 +11629,82 @@
               "result": "P"
             }
           ]
+        },
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "22",
+              "external": "16",
+              "total": "38",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "44",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "27",
+              "external": "29",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "15",
+              "external": "31",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "33",
+              "external": "43",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "76",
+              "external": "0",
+              "total": "76",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -8216,6 +11712,82 @@
       "roll": "12316006",
       "name": "BEKKAM VARUN KUMAR SINGH",
       "semesters": {
+        "sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "17",
+              "external": "32",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-02R20",
+              "name": "DATABASE MANAGEMENT SYSTEMS",
+              "internal": "28",
+              "external": "28",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "27",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-04R20",
+              "name": "BASIC ELECTRICAL ENGINEERING",
+              "internal": "11",
+              "external": "29",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-05R20",
+              "name": "ELEMENTS OF ELECTRONICS AND COMMUNICATION",
+              "internal": "17",
+              "external": "16",
+              "total": "33",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-R20P1",
+              "name": "DATABASE MANAGEMENT SYSTEMS LAB",
+              "internal": "30",
+              "external": "50",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20P2",
+              "name": "ELECTRONICS AND COMMUNICATION ENGINEERING LAB",
+              "internal": "33",
+              "external": "48",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "62",
+              "external": "0",
+              "total": "62",
+              "result": "P"
+            }
+          ]
+        },
         "sem2": {
           "subjects": [
             {
