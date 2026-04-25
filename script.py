@@ -97,22 +97,29 @@ def parse_text(text):
 
 
 # =========================
-# 🔹 MAIN FUNCTION (SECTION-WISE SAFE MERGE)
+# 🔹 MAIN FUNCTION
 # =========================
 def main():
     pdf_folder = "pdfs"
     data_file = "data.json"
 
     # =========================
-    # 🔹 Load existing JSON
+    # 🔹 Load existing JSON (SAFE for old + new)
     # =========================
     if os.path.exists(data_file):
         with open(data_file, "r") as f:
             existing_data = json.load(f)
-            all_students = {
-                f"{s['section']}_{s['roll']}": s
-                for s in existing_data.get("students", [])
-            }
+
+        all_students = {}
+
+        for s in existing_data.get("students", []):
+            section = s.get("section", "MAIN")  # ✅ fallback
+            key = f"{section}_{s['roll']}"
+
+            # ensure section exists
+            s["section"] = section
+
+            all_students[key] = s
     else:
         all_students = {}
 
@@ -126,10 +133,8 @@ def main():
                 semester = file.replace(".pdf", "")
                 file_path = os.path.join(root, file)
 
-                # 🔥 detect section from folder
+                # 🔥 detect section
                 section = os.path.basename(root)
-
-                # if file directly inside pdfs/, name it MAIN
                 if section == "pdfs":
                     section = "MAIN"
 
@@ -141,7 +146,9 @@ def main():
                 for student in students:
                     key = f"{section}_{student['roll']}"
 
-                    # create student if not exists
+                    # =========================
+                    # 🔹 Create student if not exists
+                    # =========================
                     if key not in all_students:
                         all_students[key] = {
                             "roll": student["roll"],
@@ -176,12 +183,12 @@ def main():
                             print(f"⏭ Skipped {student['roll']} ({section}) {semester}")
 
     # =========================
-    # 💾 Save final JSON
+    # 💾 Save JSON
     # =========================
     with open(data_file, "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("\n🎉 Data updated with section separation!")
+    print("\n🎉 Data updated successfully with section support!")
 
 
 # =========================
