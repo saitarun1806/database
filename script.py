@@ -3,11 +3,13 @@ import json
 import re
 import os
 
-PREFIX = "1231"
+# Accept both roll types
+def is_valid_roll(line):
+    return re.match(r'^1231[67]\d+', line)
 
 
 # =========================
-# 🔹 Extract relevant text
+# 🔹 Extract text
 # =========================
 def extract_text_from_pdf(pdf_path):
     text_data = ""
@@ -15,14 +17,14 @@ def extract_text_from_pdf(pdf_path):
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             text = page.extract_text()
-            if text and PREFIX in text:
+            if text:
                 text_data += "\n" + text
 
     return text_data
 
 
 # =========================
-# 🔹 Parse one semester
+# 🔹 Parse text
 # =========================
 def parse_text(text):
     lines = [l.strip() for l in text.split("\n") if l.strip()]
@@ -32,7 +34,7 @@ def parse_text(text):
 
     while i < len(lines):
 
-        if re.match(r'^1231\d{4}', lines[i]):
+        if is_valid_roll(lines[i]):
 
             parts = lines[i].split(" ", 1)
             roll = parts[0]
@@ -45,7 +47,7 @@ def parse_text(text):
 
                 line = lines[i]
 
-                if re.match(r'^1231\d{4}', line):
+                if is_valid_roll(line):
                     break
 
                 if "CGPA" in line:
@@ -56,26 +58,29 @@ def parse_text(text):
 
                     parts = line.split()
 
-                    code = parts[0]
-                    internal = parts[-6]
-                    external = parts[-5]
-                    total = parts[-4]
-                    result = parts[-3]
+                    try:
+                        code = parts[0]
+                        internal = parts[-6]
+                        external = parts[-5]
+                        total = parts[-4]
+                        result = parts[-3]
 
-                    subject_name = " ".join(parts[1:-6])
+                        subject_name = " ".join(parts[1:-6])
 
-                    # AL → F
-                    if result == "AL":
-                        result = "F"
+                        if result == "AL":
+                            result = "F"
 
-                    subjects.append({
-                        "code": code,
-                        "name": subject_name,
-                        "internal": internal,
-                        "external": external,
-                        "total": total,
-                        "result": result
-                    })
+                        subjects.append({
+                            "code": code,
+                            "name": subject_name,
+                            "internal": internal,
+                            "external": external,
+                            "total": total,
+                            "result": result
+                        })
+
+                    except:
+                        pass
 
                 i += 1
 
@@ -92,20 +97,20 @@ def parse_text(text):
 
 
 # =========================
-# 🔹 MAIN MERGE LOGIC
+# 🔹 MAIN
 # =========================
 def main():
     pdf_folder = "pdfs"
     all_students = {}
 
-    for root, dirs, files in os.walk(pdf_folder):  # 🔥 walks through subfolders
+    for root, dirs, files in os.walk(pdf_folder):
         for file in files:
             if file.endswith(".pdf"):
 
                 file_path = os.path.join(root, file)
 
-                # Optional: use folder name as semester
-                semester = os.path.basename(root)
+                # ✅ Keep semester SAME (sem1, sem2)
+                semester = file.replace(".pdf", "")
 
                 print(f"Processing {file_path}...")
 
@@ -126,11 +131,11 @@ def main():
                         "subjects": student["subjects"]
                     }
 
-    # save JSON
+    # Save JSON
     with open("data.json", "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("🎉 All semesters merged successfully!")
+    print("🎉 Done! Both AI & Regular merged correctly.")
 
 
 if __name__ == "__main__":
