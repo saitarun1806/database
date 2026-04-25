@@ -9,54 +9,64 @@ def is_valid_roll(roll):
     return re.match(r'^1231\d+$', roll)
 
 def parse_pdf(file_path, semester):
+    from pdfminer.high_level import extract_text
+    import re
+
     text = extract_text(file_path)
-    lines = text.split("\n")
+    lines = [l.strip() for l in text.split("\n") if l.strip()]
 
     students = []
     current_student = None
 
-    i = 0
-    while i < len(lines):
-        line = lines[i].strip()
+    for i, line in enumerate(lines):
 
         # =========================
-        # 🎓 STUDENT DETECTION
+        # 🎓 CASE 1: NAME + ROLL SAME LINE
         # =========================
-        if re.match(r'^[A-Z ]+$', line) and len(line) > 3:
+        match = re.match(r'^([A-Z ]+)\s+(1231\d+)$', line)
+        if match:
+            current_student = {
+                "name": match.group(1).strip(),
+                "roll": match.group(2),
+                "subjects": []
+            }
+            students.append(current_student)
+            continue
+
+        # =========================
+        # 🎓 CASE 2: NAME + NEXT LINE ROLL
+        # =========================
+        if re.match(r'^[A-Z ]+$', line):
             if i + 1 < len(lines):
-                roll = lines[i+1].strip()
+                next_line = lines[i+1]
 
-                if is_valid_roll(roll):
+                if re.match(r'^1231\d+$', next_line):
                     current_student = {
                         "name": line,
-                        "roll": roll,
+                        "roll": next_line,
                         "subjects": []
                     }
                     students.append(current_student)
-                    i += 2
                     continue
 
         # =========================
         # 📘 SUBJECT DETECTION
         # =========================
-        match = re.search(
+        subject_match = re.search(
             r'(\d+-\d+-\d+-\w+)\s+(.*?)\s+(\d+)\s+(\d+)\s+(\d+)\s+([PF])\s+([\d.]+)\s+([A-Z+]+)',
             line
         )
 
-        if match and current_student:
+        if subject_match and current_student:
             current_student["subjects"].append({
-                "code": match.group(1),
-                "name": match.group(2),
-                "internal": int(match.group(3)),
-                "external": int(match.group(4)),
-                "credits": float(match.group(7))
+                "code": subject_match.group(1),
+                "name": subject_match.group(2),
+                "internal": int(subject_match.group(3)),
+                "external": int(subject_match.group(4)),
+                "credits": float(subject_match.group(7))
             })
 
-        i += 1
-
     return students
-
 
 def main():
     all_students = {}
