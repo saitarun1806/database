@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-PREFIX = "1231"
+PREFIX = "12316"   # ✅ ONLY this series
 
 
 # =========================
@@ -33,8 +33,8 @@ def parse_text(text):
 
     while i < len(lines):
 
-        # 🎓 detect student
-        if re.match(r'^1231\d{4}', lines[i]):
+        # 🎓 detect ONLY 12316 students
+        if re.match(rf'^{PREFIX}\d{{4}}', lines[i]):
 
             parts = lines[i].split(" ", 1)
             roll = parts[0]
@@ -47,8 +47,8 @@ def parse_text(text):
 
                 line = lines[i]
 
-                # next student
-                if re.match(r'^1231\d{4}', line):
+                # next student (only 12316)
+                if re.match(rf'^{PREFIX}\d{{4}}', line):
                     break
 
                 # stop at summary
@@ -104,7 +104,7 @@ def main():
     data_file = "data.json"
 
     # =========================
-    # 🔹 Load existing JSON (SAFE for old + new)
+    # 🔹 Load existing JSON (safe for old data)
     # =========================
     if os.path.exists(data_file):
         with open(data_file, "r") as f:
@@ -113,12 +113,10 @@ def main():
         all_students = {}
 
         for s in existing_data.get("students", []):
-            section = s.get("section", "MAIN")  # ✅ fallback
+            section = s.get("section", "MAIN")  # fallback for old data
             key = f"{section}_{s['roll']}"
 
-            # ensure section exists
             s["section"] = section
-
             all_students[key] = s
     else:
         all_students = {}
@@ -146,9 +144,7 @@ def main():
                 for student in students:
                     key = f"{section}_{student['roll']}"
 
-                    # =========================
-                    # 🔹 Create student if not exists
-                    # =========================
+                    # create student if not exists
                     if key not in all_students:
                         all_students[key] = {
                             "roll": student["roll"],
@@ -158,7 +154,7 @@ def main():
                         }
 
                     # =========================
-                    # 🔥 SAFE SEMESTER MERGE
+                    # 🔥 SAFE MERGE
                     # =========================
                     if semester not in all_students[key]["semesters"]:
                         all_students[key]["semesters"][semester] = {
@@ -188,7 +184,7 @@ def main():
     with open(data_file, "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("\n🎉 Data updated successfully with section support!")
+    print("\n🎉 Only 12316 series data updated successfully!")
 
 
 # =========================
