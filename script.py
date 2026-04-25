@@ -98,32 +98,35 @@ def main():
     pdf_folder = "pdfs"
     all_students = {}
 
-    for file in os.listdir(pdf_folder):
-        if file.endswith(".pdf"):
+    for root, dirs, files in os.walk(pdf_folder):  # 🔥 walks through subfolders
+        for file in files:
+            if file.endswith(".pdf"):
 
-            semester = file.replace(".pdf", "")
-            file_path = os.path.join(pdf_folder, file)
+                file_path = os.path.join(root, file)
 
-            print(f"Processing {file}...")
+                # Optional: use folder name as semester
+                semester = os.path.basename(root)
 
-            text = extract_text_from_pdf(file_path)
-            students = parse_text(text)
+                print(f"Processing {file_path}...")
 
-            for student in students:
-                roll = student["roll"]
+                text = extract_text_from_pdf(file_path)
+                students = parse_text(text)
 
-                if roll not in all_students:
-                    all_students[roll] = {
-                        "roll": roll,
-                        "name": student["name"],
-                        "semesters": {}
+                for student in students:
+                    roll = student["roll"]
+
+                    if roll not in all_students:
+                        all_students[roll] = {
+                            "roll": roll,
+                            "name": student["name"],
+                            "semesters": {}
+                        }
+
+                    all_students[roll]["semesters"][semester] = {
+                        "subjects": student["subjects"]
                     }
 
-                all_students[roll]["semesters"][semester] = {
-                    "subjects": student["subjects"]
-                }
-
-    # save final JSON
+    # save JSON
     with open("data.json", "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
