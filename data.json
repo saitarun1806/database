@@ -14455,6 +14455,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "10",
+              "external": "15",
+              "total": "25",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "24",
+              "external": "42",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "18",
+              "external": "29",
+              "total": "47",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "22",
+              "external": "24",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "26",
+              "external": "24",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "28",
+              "external": "49",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "58",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "64",
+              "external": "0",
+              "total": "64",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -14654,6 +14730,82 @@
               "internal": "28",
               "external": "46",
               "total": "74",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "12",
+              "external": "28",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "17",
+              "external": "24",
+              "total": "41",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "11",
+              "external": "31",
+              "total": "42",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "21",
+              "external": "19",
+              "total": "40",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "25",
+              "external": "24",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "28",
+              "external": "49",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "25",
+              "external": "47",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "51",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "52",
+              "external": "0",
+              "total": "52",
               "result": "P"
             }
           ]
@@ -14859,6 +15011,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "12",
+              "total": "28",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "48",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "20",
+              "external": "43",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "32",
+              "external": "36",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "27",
+              "external": "25",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "37",
+              "external": "52",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "30",
+              "external": "48",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "53",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "69",
+              "external": "0",
+              "total": "69",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -15058,6 +15286,82 @@
               "internal": "30",
               "external": "53",
               "total": "83",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "29",
+              "external": "43",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "37",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "32",
+              "external": "31",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "28",
+              "external": "38",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "33",
+              "external": "39",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "33",
+              "external": "56",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "35",
+              "external": "50",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "71",
+              "external": "0",
+              "total": "71",
               "result": "P"
             }
           ]
@@ -15263,6 +15567,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "13",
+              "external": "50",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "41",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "16",
+              "external": "38",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "23",
+              "external": "25",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "32",
+              "external": "24",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "53",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "35",
+              "external": "49",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "63",
+              "external": "0",
+              "total": "63",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -15462,6 +15842,82 @@
               "internal": "34",
               "external": "50",
               "total": "84",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "13",
+              "external": "51",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "18",
+              "external": "25",
+              "total": "43",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "27",
+              "external": "38",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "34",
+              "external": "35",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "33",
+              "external": "48",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "82",
+              "external": "0",
+              "total": "82",
               "result": "P"
             }
           ]
@@ -15667,6 +16123,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "51",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "48",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "17",
+              "external": "37",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "28",
+              "external": "25",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "35",
+              "external": "24",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "48",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "32",
+              "external": "49",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "56",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "63",
+              "external": "0",
+              "total": "63",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -15866,6 +16398,82 @@
               "internal": "32",
               "external": "48",
               "total": "80",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "41",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "22",
+              "external": "25",
+              "total": "47",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "18",
+              "external": "31",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "27",
+              "external": "29",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "30",
+              "external": "28",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "50",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "31",
+              "external": "45",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "53",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "66",
+              "external": "0",
+              "total": "66",
               "result": "P"
             }
           ]
@@ -16071,6 +16679,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "33",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "40",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "24",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "24",
+              "external": "25",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "24",
+              "external": "25",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "52",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "31",
+              "external": "46",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "63",
+              "external": "0",
+              "total": "63",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -16270,6 +16954,82 @@
               "internal": "34",
               "external": "51",
               "total": "85",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "28",
+              "external": "38",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "32",
+              "external": "43",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "28",
+              "external": "34",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "39",
+              "external": "43",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "52",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "36",
+              "external": "51",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "72",
+              "external": "0",
+              "total": "72",
               "result": "P"
             }
           ]
@@ -16475,6 +17235,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "12",
+              "external": "9",
+              "total": "21",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "29",
+              "external": "41",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "18",
+              "external": "38",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "24",
+              "external": "24",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "31",
+              "external": "30",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "50",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "32",
+              "external": "47",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "59",
+              "external": "0",
+              "total": "59",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -16677,6 +17513,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "33",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "45",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "28",
+              "external": "40",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "27",
+              "external": "37",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "33",
+              "external": "31",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "48",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "57",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "61",
+              "external": "0",
+              "total": "61",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -16875,6 +17787,82 @@
               "name": "BASIC WEB DESIGNING",
               "internal": "25",
               "external": "45",
+              "total": "70",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "13",
+              "external": "32",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "42",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "35",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "21",
+              "external": "24",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "25",
+              "external": "24",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "49",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "31",
+              "external": "49",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "70",
+              "external": "0",
               "total": "70",
               "result": "P"
             }
@@ -17081,6 +18069,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "17",
+              "external": "49",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "47",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "42",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "28",
+              "external": "43",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "37",
+              "external": "36",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -17280,6 +18344,82 @@
               "internal": "31",
               "external": "48",
               "total": "79",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "24",
+              "external": "42",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "28",
+              "external": "30",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "22",
+              "external": "36",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "14",
+              "external": "30",
+              "total": "44",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "30",
+              "external": "33",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "50",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "56",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "67",
+              "external": "0",
+              "total": "67",
               "result": "P"
             }
           ]
@@ -17485,6 +18625,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "22",
+              "external": "44",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "47",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "30",
+              "external": "43",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "35",
+              "external": "43",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "37",
+              "external": "52",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "38",
+              "external": "52",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "56",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "77",
+              "external": "0",
+              "total": "77",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -17684,6 +18900,82 @@
               "internal": "32",
               "external": "46",
               "total": "78",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "13",
+              "external": "30",
+              "total": "43",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "45",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "14",
+              "external": "41",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "18",
+              "external": "24",
+              "total": "42",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "34",
+              "external": "26",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "52",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "34",
+              "external": "48",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "56",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "55",
+              "external": "0",
+              "total": "55",
               "result": "P"
             }
           ]
@@ -17889,6 +19181,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "51",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "40",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "33",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "29",
+              "external": "38",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "33",
+              "external": "29",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "37",
+              "external": "52",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "26",
+              "external": "45",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "51",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -18091,6 +19459,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "12",
+              "external": "28",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "40",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "13",
+              "external": "28",
+              "total": "41",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "15",
+              "external": "11",
+              "total": "26",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "23",
+              "external": "24",
+              "total": "47",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "49",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "28",
+              "external": "45",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "29",
+              "external": "51",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "50",
+              "external": "0",
+              "total": "50",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -18214,6 +19658,82 @@
               "internal": "68",
               "external": "0",
               "total": "68",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "36",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "32",
+              "external": "47",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "22",
+              "external": "35",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "26",
+              "external": "24",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "34",
+              "external": "39",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "33",
+              "external": "50",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "30",
+              "external": "49",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
               "result": "P"
             }
           ]
@@ -18419,6 +19939,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "18",
+              "external": "48",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "43",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "25",
+              "external": "36",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "28",
+              "external": "49",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "34",
+              "external": "47",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "59",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "84",
+              "external": "0",
+              "total": "84",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -18618,6 +20214,82 @@
               "internal": "32",
               "external": "53",
               "total": "85",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "24",
+              "external": "38",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "49",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "26",
+              "external": "33",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "27",
+              "external": "28",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "32",
+              "external": "35",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "30",
+              "external": "55",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "75",
+              "external": "0",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -18823,6 +20495,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "25",
+              "external": "33",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "47",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "27",
+              "external": "45",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "28",
+              "external": "31",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "70",
+              "external": "0",
+              "total": "70",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -19022,6 +20770,82 @@
               "internal": "28",
               "external": "53",
               "total": "81",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "19",
+              "external": "30",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "51",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "47",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "26",
+              "external": "50",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "35",
+              "external": "48",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "31",
+              "external": "54",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "78",
+              "external": "0",
+              "total": "78",
               "result": "P"
             }
           ]
@@ -19227,6 +21051,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "27",
+              "total": "43",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "27",
+              "external": "53",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "30",
+              "external": "42",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "39",
+              "external": "53",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "38",
+              "external": "56",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "58",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "90",
+              "external": "0",
+              "total": "90",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -19426,6 +21326,82 @@
               "internal": "28",
               "external": "47",
               "total": "75",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "10",
+              "external": "5",
+              "total": "15",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "25",
+              "external": "37",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "11",
+              "external": "29",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "18",
+              "external": "33",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "20",
+              "external": "24",
+              "total": "44",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "46",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "30",
+              "external": "51",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "31",
+              "external": "53",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "50",
+              "external": "0",
+              "total": "50",
               "result": "P"
             }
           ]
@@ -19631,6 +21607,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "24",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "34",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "20",
+              "external": "28",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "22",
+              "external": "27",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "29",
+              "external": "27",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "31",
+              "external": "49",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "28",
+              "external": "54",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -19830,6 +21882,82 @@
               "internal": "28",
               "external": "49",
               "total": "77",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "18",
+              "external": "36",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "44",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "18",
+              "external": "31",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "26",
+              "external": "26",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "34",
+              "external": "41",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "37",
+              "external": "49",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "30",
+              "external": "55",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "81",
+              "external": "0",
+              "total": "81",
               "result": "P"
             }
           ]
@@ -20035,6 +22163,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "25",
+              "total": "41",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "49",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "24",
+              "external": "42",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "33",
+              "external": "39",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "34",
+              "external": "45",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "34",
+              "external": "53",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "65",
+              "external": "0",
+              "total": "65",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -20234,6 +22438,82 @@
               "internal": "32",
               "external": "47",
               "total": "79",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "12",
+              "external": "16",
+              "total": "28",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "28",
+              "external": "42",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "12",
+              "external": "32",
+              "total": "44",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "18",
+              "external": "24",
+              "total": "42",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "26",
+              "external": "28",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "52",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "30",
+              "external": "50",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "28",
+              "external": "50",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
               "result": "P"
             }
           ]
@@ -20439,6 +22719,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "10",
+              "external": "10",
+              "total": "20",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "24",
+              "external": "24",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "12",
+              "external": "6",
+              "total": "18",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "12",
+              "external": "14",
+              "total": "26",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "25",
+              "external": "24",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "28",
+              "external": "51",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "32",
+              "external": "50",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "28",
+              "external": "50",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -20587,6 +22943,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "16",
+              "external": "30",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "53",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "27",
+              "external": "35",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "30",
+              "external": "41",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "40",
+              "external": "47",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "39",
+              "external": "58",
+              "total": "97",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -20666,6 +23098,82 @@
               "internal": "28",
               "external": "50",
               "total": "78",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "12",
+              "external": "8",
+              "total": "20",
+              "result": "F"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "47",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "19",
+              "external": "55",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "26",
+              "external": "41",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "32",
+              "external": "39",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "37",
+              "external": "50",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "56",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "75",
+              "external": "0",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -20751,6 +23259,82 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "10",
+              "external": "51",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "26",
+              "external": "51",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "11",
+              "external": "29",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "17",
+              "external": "34",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "32",
+              "external": "34",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "30",
+              "external": "48",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "33",
+              "external": "48",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "50",
+              "external": "0",
+              "total": "50",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -20830,6 +23414,82 @@
               "internal": "25",
               "external": "56",
               "total": "81",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-1-3-01R20",
+              "name": "MATHEMATICS-III",
+              "internal": "21",
+              "external": "45",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-06R20",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "34",
+              "external": "47",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-03R20",
+              "name": "DISCRETE MATHEMATICAL STRUCTURES",
+              "internal": "29",
+              "external": "40",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-07R20",
+              "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+              "internal": "28",
+              "external": "32",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-3-08R20",
+              "name": "ELEMENTS OF ELECTRONICS AND DIGITAL LOGIC DESIGN",
+              "internal": "35",
+              "external": "38",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P1",
+              "name": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+              "internal": "35",
+              "external": "48",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20P2",
+              "name": "ELECTRONICS AND DIGITAL LOGIC DESIGN LAB",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-3-R20S1",
+              "name": "BASIC PYTHON PROGRAMMING",
+              "internal": "39",
+              "external": "59",
+              "total": "98",
+              "result": "P"
+            },
+            {
+              "code": "7-1-3-R20A1",
+              "name": "CONSTITUTION OF INDIA",
+              "internal": "70",
+              "external": "0",
+              "total": "70",
               "result": "P"
             }
           ]
