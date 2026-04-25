@@ -7,7 +7,7 @@ PREFIX = "1231"
 
 
 # =========================
-# 🔹 Extract relevant text
+# 🔹 Extract only relevant pages
 # =========================
 def extract_text_from_pdf(pdf_path):
     text_data = ""
@@ -15,6 +15,7 @@ def extract_text_from_pdf(pdf_path):
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             text = page.extract_text()
+
             if text and PREFIX in text:
                 text_data += "\n" + text
 
@@ -22,7 +23,7 @@ def extract_text_from_pdf(pdf_path):
 
 
 # =========================
-# 🔹 Parse one semester
+# 🔹 Parse text → students
 # =========================
 def parse_text(text):
     lines = [l.strip() for l in text.split("\n") if l.strip()]
@@ -32,6 +33,7 @@ def parse_text(text):
 
     while i < len(lines):
 
+        # 🎓 detect student
         if re.match(r'^1231\d{4}', lines[i]):
 
             parts = lines[i].split(" ", 1)
@@ -45,18 +47,22 @@ def parse_text(text):
 
                 line = lines[i]
 
+                # next student
                 if re.match(r'^1231\d{4}', line):
                     break
 
+                # stop at summary
                 if "CGPA" in line:
                     i += 1
                     break
 
+                # subject row
                 if re.match(r'\d+-\d+-\d+-', line):
 
                     parts = line.split()
 
                     code = parts[0]
+
                     internal = parts[-6]
                     external = parts[-5]
                     total = parts[-4]
@@ -64,7 +70,7 @@ def parse_text(text):
 
                     subject_name = " ".join(parts[1:-6])
 
-                    # AL → F
+                    # 🔥 AL → F
                     if result == "AL":
                         result = "F"
 
@@ -92,19 +98,34 @@ def parse_text(text):
 
 
 # =========================
-# 🔹 MAIN MERGE LOGIC
+# 🔹 MAIN FUNCTION (SAFE MERGE)
 # =========================
 def main():
     pdf_folder = "pdfs"
-    all_students = {}
+    data_file = "data.json"
 
+    # =========================
+    # 🔹 Load existing JSON
+    # =========================
+    if os.path.exists(data_file):
+        with open(data_file, "r") as f:
+            existing_data = json.load(f)
+            all_students = {
+                s["roll"]: s for s in existing_data.get("students", [])
+            }
+    else:
+        all_students = {}
+
+    # =========================
+    # 🔹 Process all PDFs
+    # =========================
     for file in os.listdir(pdf_folder):
         if file.endswith(".pdf"):
 
             semester = file.replace(".pdf", "")
             file_path = os.path.join(pdf_folder, file)
 
-            print(f"Processing {file}...")
+            print(f"📄 Processing {file}...")
 
             text = extract_text_from_pdf(file_path)
             students = parse_text(text)
@@ -112,6 +133,7 @@ def main():
             for student in students:
                 roll = student["roll"]
 
+                # create student if not exists
                 if roll not in all_students:
                     all_students[roll] = {
                         "roll": roll,
@@ -119,16 +141,26 @@ def main():
                         "semesters": {}
                     }
 
-                all_students[roll]["semesters"][semester] = {
-                    "subjects": student["subjects"]
-                }
+                # 🔥 DO NOT OVERWRITE EXISTING SEM DATA
+                if semester not in all_students[roll]["semesters"]:
+                    all_students[roll]["semesters"][semester] = {
+                        "subjects": student["subjects"]
+                    }
+                    print(f"✅ Added {roll} {semester}")
+                else:
+                    print(f"⏭ Skipped {roll} {semester} (already exists)")
 
-    # save final JSON
-    with open("data.json", "w") as f:
+    # =========================
+    # 💾 Save final JSON
+    # =========================
+    with open(data_file, "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("🎉 All semesters merged successfully!")
+    print("\n🎉 Data updated safely without overwriting!")
 
 
+# =========================
+# 🔹 RUN
+# =========================
 if __name__ == "__main__":
     main()
