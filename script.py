@@ -5,6 +5,120 @@ from pdfminer.high_level import extract_text
 
 PREFIX = "1231"
 
+# =========================
+# 🔹 Parser A: Two-student structure
+# =========================
+def parse_type_a(lines, i):
+    students = []
+
+    roll1 = lines[i]
+    i += 1
+
+    block = []
+    while i < len(lines) and not re.match(r'^1231\d{4}$', lines[i]):
+        block.append(lines[i])
+        i += 1
+
+    # detect subject codes
+    codes = [l for l in block if re.match(r'\d+-\d+-\d+-', l)]
+    n = len(codes)
+
+    # names
+    names = [
+        l for l in block
+        if re.match(r'^[A-Z .]+$', l)
+        and len(l.split()) >= 2
+        and "CGPA" not in l
+    ]
+
+    # values
+    values = [l for l in block if l.isdigit() or l in ["AL", "-"]]
+    results = [l for l in block if l in ["P", "F"]]
+
+    # subjects
+    subjects = [
+        l for l in block
+        if re.match(r'^[A-Z ]+$', l)
+        and l not in names
+        and "CGPA" not in l
+        and "GRADE" not in l
+    ]
+
+    if not names:
+        return [], i
+
+    name = names[0]
+
+    im = values[:n]
+    em = values[n:2*n]
+    total = values[2*n:3*n]
+
+    subs = []
+    for j in range(n):
+        subs.append({
+            "code": codes[j] if j < len(codes) else "",
+            "name": subjects[j] if j < len(subjects) else "",
+            "internal": im[j] if j < len(im) else "",
+            "external": em[j] if j < len(em) else "",
+            "total": total[j] if j < len(total) else "",
+            "result": results[j] if j < len(results) else ""
+        })
+
+    students.append({
+        "roll": roll1,
+        "name": name,
+        "subjects": subs
+    })
+
+    return students, i
+
+
+# =========================
+# 🔹 Parser B: Clean single student
+# =========================
+def parse_type_b(lines, i):
+    roll = lines[i]
+    i += 1
+
+    name = "UNKNOWN"
+    subjects = []
+
+    if i < len(lines):
+        name = lines[i]
+        i += 1
+
+    while i < len(lines) and not re.match(r'^1231\d{4}$', lines[i]):
+        if re.match(r'\d+-\d+-\d+-', lines[i]):
+            code = lines[i]
+            sub = lines[i+1] if i+1 < len(lines) else ""
+            im = lines[i+2] if i+2 < len(lines) else ""
+            em = lines[i+3] if i+3 < len(lines) else ""
+            total = lines[i+4] if i+4 < len(lines) else ""
+            res = lines[i+5] if i+5 < len(lines) else ""
+
+            subjects.append({
+                "code": code,
+                "name": sub,
+                "internal": im,
+                "external": em,
+                "total": total,
+                "result": res
+            })
+
+            i += 6
+        else:
+            i += 1
+
+    return [{
+        "roll": roll,
+        "name": name,
+        "subjects": subjects
+    }], i
+
+
+# =========================
+# 🔹 MAIN PARSER (AUTO DETECT)
+# =========================
 def parse_pdf(file_path, semester):
     text = extract_text(file_path)
     lines = [l.strip() for l in text.split("\n") if l.strip()]
@@ -14,85 +128,19 @@ def parse_pdf(file_path, semester):
 
     while i < len(lines):
 
-        # =========================
-        # 🎯 Detect two students
-        # =========================
-        if (
-            i + 1 < len(lines)
-            and lines[i].startswith(PREFIX)
-            and lines[i+1].startswith(PREFIX)
-        ):
-            roll1 = lines[i]
-            roll2 = lines[i+1]
-            i += 2
+        if re.match(r'^1231\d{4}$', lines[i]):
 
-            # =========================
-            # 📘 Detect SUBJECT COUNT dynamically
-            # =========================
-            codes1 = []
-            while i < len(lines) and re.match(r'\d+-\d+-\d+-\w+', lines[i]):
-                codes1.append(lines[i])
-                i += 1
+            # 🔍 Detect structure
+            next_lines = lines[i:i+20]
 
-            subject_count = len(codes1)
+            # if many codes ahead → Type A
+            if sum(1 for l in next_lines if re.match(r'\d+-\d+-\d+-', l)) > 3:
+                parsed, i = parse_type_a(lines, i)
+                students.extend(parsed)
 
-            # next same count belongs to student 2
-            codes2 = lines[i:i+subject_count]
-            i += subject_count
-
-            # =========================
-            # 🧑‍🎓 NAME + SUBJECTS
-            # =========================
-            name1 = lines[i]; i += 1
-            subjects1 = lines[i:i+subject_count]; i += subject_count
-
-            name2 = lines[i]; i += 1
-            subjects2 = lines[i:i+subject_count]; i += subject_count
-
-            # =========================
-            # 🔢 STUDENT 1 MARKS
-            # =========================
-            im1 = lines[i:i+subject_count]; i += subject_count
-            em1 = lines[i:i+subject_count]; i += subject_count
-            total1 = lines[i:i+subject_count]; i += subject_count
-            res1 = lines[i:i+subject_count]; i += subject_count
-
-            # =========================
-            # ⏭️ SKIP TOTAL BLOCK
-            # =========================
-            while i < len(lines) and not lines[i].isdigit():
-                i += 1
-
-            # =========================
-            # 🔢 STUDENT 2 MARKS
-            # =========================
-            im2 = lines[i:i+subject_count]; i += subject_count
-            em2 = lines[i:i+subject_count]; i += subject_count
-            total2 = lines[i:i+subject_count]; i += subject_count
-            res2 = lines[i:i+subject_count]; i += subject_count
-
-            # =========================
-            # 🔗 BUILD FUNCTION
-            # =========================
-            def build(roll, name, codes, subjects, im, em, total, res):
-                subs = []
-                for j in range(subject_count):
-                    subs.append({
-                        "code": codes[j] if j < len(codes) else "",
-                        "name": subjects[j] if j < len(subjects) else "",
-                        "internal": im[j] if j < len(im) else "",
-                        "external": em[j] if j < len(em) else "",
-                        "total": total[j] if j < len(total) else "",
-                        "result": res[j] if j < len(res) else ""
-                    })
-                return {
-                    "roll": roll,
-                    "name": name,
-                    "subjects": subs
-                }
-
-            students.append(build(roll1, name1, codes1, subjects1, im1, em1, total1, res1))
-            students.append(build(roll2, name2, codes2, subjects2, im2, em2, total2, res2))
+            else:
+                parsed, i = parse_type_b(lines, i)
+                students.extend(parsed)
 
         else:
             i += 1
@@ -100,6 +148,9 @@ def parse_pdf(file_path, semester):
     return students
 
 
+# =========================
+# 🔹 MAIN FUNCTION
+# =========================
 def main():
     all_students = {}
     pdf_folder = "pdfs"
@@ -130,7 +181,7 @@ def main():
     with open("data.json", "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("✅ data.json generated successfully!")
+    print("✅ FINAL multi-structure parsing complete!")
 
 
 if __name__ == "__main__":
