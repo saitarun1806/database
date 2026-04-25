@@ -1,165 +1,30 @@
+import pdfplumber
 import json
 import re
 import os
-from pdfminer.high_level import extract_text
 
 PREFIX = "1231"
 
+
 # =========================
-# 🔹 TYPE A PARSER (MAIN FORMAT)
+# 🔹 Extract relevant text
 # =========================
-def parse_type_a(lines, i):
-    students = []
+def extract_text_from_pdf(pdf_path):
+    text_data = ""
 
-    roll = lines[i]
-    i += 1
+    with pdfplumber.open(pdf_path) as pdf:
+        for page in pdf.pages:
+            text = page.extract_text()
+            if text and PREFIX in text:
+                text_data += "\n" + text
 
-    block = []
-    while i < len(lines) and not re.match(r'^1231\d{4}$', lines[i]):
-        block.append(lines[i])
-        i += 1
-
-    # -------------------------
-    # SUBJECT CODES
-    # -------------------------
-    codes = [l for l in block if re.match(r'\d+-\d+-\d+-', l)]
-    n = len(codes)
-
-    # -------------------------
-    # STUDENT NAME
-    # -------------------------
-    name = "UNKNOWN"
-    for l in block:
-        if re.match(r'^[A-Z .]+$', l) and len(l.split()) >= 2:
-            if not any(x in l for x in ["CGPA", "SGPA", "TOTAL", "GRADE"]):
-                name = l
-                break
-
-    # -------------------------
-    # SUBJECT NAMES
-    # -------------------------
-    subjects = []
-    found_name = False
-
-    for l in block:
-        if l == name:
-            found_name = True
-            continue
-
-        if found_name and len(subjects) < n:
-            if re.match(r'^[A-Z ]+$', l):
-                subjects.append(l)
-
-    # -------------------------
-    # VALUES (IM, EM, TOTAL)
-    # -------------------------
-    values = [l for l in block if l.isdigit() or l in ["AL", "-"]]
-
-    im = values[:n]
-    em = values[n:2*n]
-    total = values[2*n:3*n]
-
-    # -------------------------
-    # RESULTS (P/F)
-    # -------------------------
-    results = [l for l in block if l in ["P", "F"]]
-
-    # -------------------------
-    # BUILD SUBJECT DATA
-    # -------------------------
-    subs = []
-
-    for j in range(n):
-
-        internal = im[j] if j < len(im) else ""
-        external = em[j] if j < len(em) else ""
-        tot = total[j] if j < len(total) else ""
-
-        # 🔥 RESULT LOGIC
-        if j < len(results):
-            result = results[j]
-        else:
-            if internal == "AL" or external == "AL":
-                result = "F"
-            else:
-                try:
-                    if int(tot) < 40:
-                        result = "F"
-                    else:
-                        result = "P"
-                except:
-                    result = ""
-
-        subs.append({
-            "code": codes[j] if j < len(codes) else "",
-            "name": subjects[j] if j < len(subjects) else "",
-            "internal": internal,
-            "external": external,
-            "total": tot,
-            "result": result
-        })
-
-    students.append({
-        "roll": roll,
-        "name": name,
-        "subjects": subs
-    })
-
-    return students, i
+    return text_data
 
 
 # =========================
-# 🔹 TYPE B PARSER (fallback)
+# 🔹 Parse one semester
 # =========================
-def parse_type_b(lines, i):
-    roll = lines[i]
-    i += 1
-
-    name = "UNKNOWN"
-    subjects = []
-
-    if i < len(lines):
-        name = lines[i]
-        i += 1
-
-    while i < len(lines) and not re.match(r'^1231\d{4}$', lines[i]):
-        if re.match(r'\d+-\d+-\d+-', lines[i]):
-            code = lines[i]
-            sub = lines[i+1] if i+1 < len(lines) else ""
-            im = lines[i+2] if i+2 < len(lines) else ""
-            em = lines[i+3] if i+3 < len(lines) else ""
-            total = lines[i+4] if i+4 < len(lines) else ""
-            res = lines[i+5] if i+5 < len(lines) else ""
-
-            # handle AL
-            if im == "AL" or em == "AL":
-                res = "F"
-
-            subjects.append({
-                "code": code,
-                "name": sub,
-                "internal": im,
-                "external": em,
-                "total": total,
-                "result": res
-            })
-
-            i += 6
-        else:
-            i += 1
-
-    return [{
-        "roll": roll,
-        "name": name,
-        "subjects": subjects
-    }], i
-
-
-# =========================
-# 🔹 MAIN PARSER
-# =========================
-def parse_pdf(file_path, semester):
-    text = extract_text(file_path)
+def parse_text(text):
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 
     students = []
@@ -167,18 +32,58 @@ def parse_pdf(file_path, semester):
 
     while i < len(lines):
 
-        if re.match(r'^1231\d{4}$', lines[i]):
+        if re.match(r'^1231\d{4}', lines[i]):
 
-            # detect structure
-            next_lines = lines[i:i+20]
+            parts = lines[i].split(" ", 1)
+            roll = parts[0]
+            name = parts[1] if len(parts) > 1 else "UNKNOWN"
 
-            # if many subject codes → type A
-            if sum(1 for l in next_lines if re.match(r'\d+-\d+-\d+-', l)) > 3:
-                parsed, i = parse_type_a(lines, i)
-                students.extend(parsed)
-            else:
-                parsed, i = parse_type_b(lines, i)
-                students.extend(parsed)
+            i += 1
+            subjects = []
+
+            while i < len(lines):
+
+                line = lines[i]
+
+                if re.match(r'^1231\d{4}', line):
+                    break
+
+                if "CGPA" in line:
+                    i += 1
+                    break
+
+                if re.match(r'\d+-\d+-\d+-', line):
+
+                    parts = line.split()
+
+                    code = parts[0]
+                    internal = parts[-6]
+                    external = parts[-5]
+                    total = parts[-4]
+                    result = parts[-3]
+
+                    subject_name = " ".join(parts[1:-6])
+
+                    # AL → F
+                    if result == "AL":
+                        result = "F"
+
+                    subjects.append({
+                        "code": code,
+                        "name": subject_name,
+                        "internal": internal,
+                        "external": external,
+                        "total": total,
+                        "result": result
+                    })
+
+                i += 1
+
+            students.append({
+                "roll": roll,
+                "name": name,
+                "subjects": subjects
+            })
 
         else:
             i += 1
@@ -187,22 +92,24 @@ def parse_pdf(file_path, semester):
 
 
 # =========================
-# 🔹 MAIN FUNCTION
+# 🔹 MAIN MERGE LOGIC
 # =========================
 def main():
-    all_students = {}
     pdf_folder = "pdfs"
+    all_students = {}
 
     for file in os.listdir(pdf_folder):
         if file.endswith(".pdf"):
+
             semester = file.replace(".pdf", "")
             file_path = os.path.join(pdf_folder, file)
 
             print(f"Processing {file}...")
 
-            parsed = parse_pdf(file_path, semester)
+            text = extract_text_from_pdf(file_path)
+            students = parse_text(text)
 
-            for student in parsed:
+            for student in students:
                 roll = student["roll"]
 
                 if roll not in all_students:
@@ -216,11 +123,11 @@ def main():
                     "subjects": student["subjects"]
                 }
 
-    # SAVE JSON
+    # save final JSON
     with open("data.json", "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("✅ FINAL data.json generated successfully!")
+    print("🎉 All semesters merged successfully!")
 
 
 if __name__ == "__main__":
