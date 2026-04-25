@@ -3,9 +3,11 @@ import json
 import re
 import os
 
+PREFIX = "1231"
+
 
 # =========================
-# 🔹 Extract text (no filter now)
+# 🔹 Extract relevant text
 # =========================
 def extract_text_from_pdf(pdf_path):
     text_data = ""
@@ -13,26 +15,24 @@ def extract_text_from_pdf(pdf_path):
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             text = page.extract_text()
-            if text:
+            if text and PREFIX in text:
                 text_data += "\n" + text
 
     return text_data
 
 
 # =========================
-# 🔹 Generic parser (prefix-based)
+# 🔹 Parse one semester
 # =========================
-def parse_text_by_prefix(text, prefix):
+def parse_text(text):
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 
     students = []
     i = 0
 
-    pattern = rf'^{prefix}\d+'
-
     while i < len(lines):
 
-        if re.match(pattern, lines[i]):
+        if re.match(r'^1231\d{4}', lines[i]):
 
             parts = lines[i].split(" ", 1)
             roll = parts[0]
@@ -45,43 +45,37 @@ def parse_text_by_prefix(text, prefix):
 
                 line = lines[i]
 
-                # next student
-                if re.match(pattern, line):
+                if re.match(r'^1231\d{4}', line):
                     break
 
-                # end block
                 if "CGPA" in line:
                     i += 1
                     break
 
-                # subject line
                 if re.match(r'\d+-\d+-\d+-', line):
 
                     parts = line.split()
 
-                    try:
-                        code = parts[0]
-                        internal = parts[-6]
-                        external = parts[-5]
-                        total = parts[-4]
-                        result = parts[-3]
+                    code = parts[0]
+                    internal = parts[-6]
+                    external = parts[-5]
+                    total = parts[-4]
+                    result = parts[-3]
 
-                        subject_name = " ".join(parts[1:-6])
+                    subject_name = " ".join(parts[1:-6])
 
-                        if result == "AL":
-                            result = "F"
+                    # AL → F
+                    if result == "AL":
+                        result = "F"
 
-                        subjects.append({
-                            "code": code,
-                            "name": subject_name,
-                            "internal": internal,
-                            "external": external,
-                            "total": total,
-                            "result": result
-                        })
-
-                    except:
-                        pass
+                    subjects.append({
+                        "code": code,
+                        "name": subject_name,
+                        "internal": internal,
+                        "external": external,
+                        "total": total,
+                        "result": result
+                    })
 
                 i += 1
 
@@ -98,32 +92,11 @@ def parse_text_by_prefix(text, prefix):
 
 
 # =========================
-# 🔹 Merge helper
-# =========================
-def merge_students(all_students, students, semester):
-    for student in students:
-        roll = student["roll"]
-
-        if roll not in all_students:
-            all_students[roll] = {
-                "roll": roll,
-                "name": student["name"],
-                "semesters": {}
-            }
-
-        all_students[roll]["semesters"][semester] = {
-            "subjects": student["subjects"]
-        }
-
-
-# =========================
-# 🔹 MAIN
+# 🔹 MAIN MERGE LOGIC
 # =========================
 def main():
     pdf_folder = "pdfs"
-
-    data1 = {}  # for 12316
-    data2 = {}  # for 12317
+    all_students = {}
 
     for file in os.listdir(pdf_folder):
         if file.endswith(".pdf"):
@@ -134,26 +107,28 @@ def main():
             print(f"Processing {file}...")
 
             text = extract_text_from_pdf(file_path)
+            students = parse_text(text)
 
-            # 🔹 Parse separately
-            students_12316 = parse_text_by_prefix(text, "12316")
-            students_12317 = parse_text_by_prefix(text, "12317")
+            for student in students:
+                roll = student["roll"]
 
-            merge_students(data1, students_12316, semester)
-            merge_students(data2, students_12317, semester)
+                if roll not in all_students:
+                    all_students[roll] = {
+                        "roll": roll,
+                        "name": student["name"],
+                        "semesters": {}
+                    }
 
-    # 🔹 Final merge
-    final_students = list(data1.values()) + list(data2.values())
+                all_students[roll]["semesters"][semester] = {
+                    "subjects": student["subjects"]
+                }
 
-    # 🔹 Save
+    # save final JSON
     with open("data.json", "w") as f:
-        json.dump({"students": final_students}, f, indent=2)
+        json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("🎉 Done! Both datasets merged into data.json")
+    print("🎉 All semesters merged successfully!")
 
 
-# =========================
-# 🔹 RUN
-# =========================
 if __name__ == "__main__":
     main()
