@@ -199,6 +199,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "30",
+              "external": "28",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "40",
+              "external": "41",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "29",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "26",
+              "external": "32",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "30",
+              "external": "38",
+              "total": "68",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -398,6 +458,66 @@
               "internal": "69",
               "external": "0",
               "total": "69",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "33",
+              "external": "46",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "21",
+              "external": "35",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "25",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "21",
+              "external": "24",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "33",
+              "external": "55",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "37",
+              "external": "50",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "32",
+              "external": "39",
+              "total": "71",
               "result": "P"
             }
           ]
@@ -603,6 +723,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "24",
+              "external": "37",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "24",
+              "external": "30",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "30",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "28",
+              "external": "35",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "33",
+              "external": "47",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "18",
+              "external": "55",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "30",
+              "external": "42",
+              "total": "72",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -802,6 +982,66 @@
               "internal": "90",
               "external": "0",
               "total": "90",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "24",
+              "external": "41",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "19",
+              "external": "34",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "37",
+              "external": "26",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "24",
+              "external": "32",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "24",
+              "external": "17",
+              "total": "41",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "28",
+              "external": "46",
+              "total": "74",
               "result": "P"
             }
           ]
@@ -1007,6 +1247,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "21",
+              "external": "28",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "32",
+              "external": "26",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "37",
+              "external": "32",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "28",
+              "external": "28",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "30",
+              "external": "29",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "28",
+              "external": "49",
+              "total": "77",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -1206,6 +1506,66 @@
               "internal": "73",
               "external": "0",
               "total": "73",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "23",
+              "external": "30",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "18",
+              "external": "32",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "24",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "29",
+              "external": "26",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "25",
+              "external": "49",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "26",
+              "external": "43",
+              "total": "69",
               "result": "P"
             }
           ]
@@ -1411,6 +1771,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "33",
+              "external": "60",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "40",
+              "external": "51",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "29",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "30",
+              "external": "28",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "37",
+              "external": "47",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "32",
+              "external": "45",
+              "total": "77",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -1613,6 +2033,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "17",
+              "external": "AB",
+              "total": "17",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "26",
+              "external": "AB",
+              "total": "26",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "AB",
+              "total": "36",
+              "result": "F"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "19",
+              "external": "AB",
+              "total": "19",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "14",
+              "external": "AB",
+              "total": "14",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "AB",
+              "total": "35",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "25",
+              "external": "AB",
+              "total": "25",
+              "result": "F"
+            }
+          ]
         }
       }
     },
@@ -1812,6 +2292,66 @@
               "internal": "66",
               "external": "0",
               "total": "66",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "16",
+              "external": "17",
+              "total": "33",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "21",
+              "external": "18",
+              "total": "39",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "38",
+              "external": "11",
+              "total": "49",
+              "result": "F"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "20",
+              "external": "24",
+              "total": "44",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "16",
+              "external": "6",
+              "total": "22",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "33",
+              "external": "43",
+              "total": "76",
               "result": "P"
             }
           ]
@@ -2017,6 +2557,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "25",
+              "external": "42",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "32",
+              "external": "43",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "38",
+              "external": "24",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "17",
+              "external": "24",
+              "total": "41",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "31",
+              "external": "46",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "56",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "27",
+              "external": "46",
+              "total": "73",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -2216,6 +2816,66 @@
               "internal": "81",
               "external": "0",
               "total": "81",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "18",
+              "external": "27",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "28",
+              "external": "34",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "37",
+              "external": "25",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "26",
+              "external": "26",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "24",
+              "external": "25",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "54",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "27",
+              "external": "48",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -2421,6 +3081,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "22",
+              "external": "31",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "30",
+              "external": "44",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "38",
+              "external": "29",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "26",
+              "external": "24",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "20",
+              "external": "35",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "58",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "26",
+              "external": "47",
+              "total": "73",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -2620,6 +3340,66 @@
               "internal": "85",
               "external": "0",
               "total": "85",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "17",
+              "external": "30",
+              "total": "47",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "20",
+              "external": "28",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "37",
+              "external": "25",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "28",
+              "external": "31",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "27",
+              "external": "44",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "56",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "26",
+              "external": "49",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -2825,6 +3605,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "23",
+              "external": "26",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "23",
+              "external": "34",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "28",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "21",
+              "external": "30",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "13",
+              "external": "27",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "27",
+              "external": "43",
+              "total": "70",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -3024,6 +3864,66 @@
               "internal": "75",
               "external": "0",
               "total": "75",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "6",
+              "external": "3",
+              "total": "9",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "2",
+              "external": "2",
+              "total": "4",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "9",
+              "total": "44",
+              "result": "F"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "17",
+              "external": "2",
+              "total": "19",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "17",
+              "external": "34",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "56",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "25",
+              "external": "46",
+              "total": "71",
               "result": "P"
             }
           ]
@@ -3229,6 +4129,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "36",
+              "external": "47",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "24",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "35",
+              "external": "40",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "31",
+              "external": "42",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "54",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "32",
+              "external": "50",
+              "total": "82",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -3428,6 +4388,66 @@
               "internal": "85",
               "external": "0",
               "total": "85",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "29",
+              "external": "53",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "32",
+              "external": "40",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "27",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "29",
+              "external": "34",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "33",
+              "external": "52",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "37",
+              "external": "57",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "32",
+              "external": "43",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -3633,6 +4653,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "13",
+              "external": "16",
+              "total": "29",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "20",
+              "external": "19",
+              "total": "39",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "39",
+              "external": "14",
+              "total": "53",
+              "result": "F"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "22",
+              "external": "28",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "14",
+              "external": "27",
+              "total": "41",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "29",
+              "external": "42",
+              "total": "71",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -3832,6 +4912,66 @@
               "internal": "76",
               "external": "0",
               "total": "76",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "25",
+              "external": "44",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "29",
+              "external": "26",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "27",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "21",
+              "external": "31",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "25",
+              "external": "48",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "30",
+              "external": "54",
+              "total": "84",
               "result": "P"
             }
           ]
@@ -4037,6 +5177,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "20",
+              "external": "34",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "22",
+              "external": "27",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "38",
+              "external": "33",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "19",
+              "external": "40",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "24",
+              "external": "41",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "30",
+              "external": "48",
+              "total": "78",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -4236,6 +5436,66 @@
               "internal": "69",
               "external": "0",
               "total": "69",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "21",
+              "external": "32",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "25",
+              "external": "33",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "18",
+              "total": "53",
+              "result": "F"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "20",
+              "external": "36",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "25",
+              "external": "35",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "26",
+              "external": "46",
+              "total": "72",
               "result": "P"
             }
           ]
@@ -4441,6 +5701,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "30",
+              "external": "53",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "26",
+              "external": "36",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "29",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "32",
+              "external": "38",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "29",
+              "external": "33",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "27",
+              "external": "43",
+              "total": "70",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -4640,6 +5960,66 @@
               "internal": "84",
               "external": "0",
               "total": "84",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "16",
+              "external": "34",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "23",
+              "external": "40",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "29",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "26",
+              "external": "35",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "27",
+              "external": "48",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "28",
+              "external": "41",
+              "total": "69",
               "result": "P"
             }
           ]
@@ -4845,6 +6225,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            }
+          ]
         }
       }
     },
@@ -5047,6 +6487,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "2",
+              "external": "AB",
+              "total": "2",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "2",
+              "external": "AB",
+              "total": "2",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "AB",
+              "total": "35",
+              "result": "F"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "6",
+              "external": "AB",
+              "total": "6",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "24",
+              "external": "AB",
+              "total": "24",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "17",
+              "external": "AB",
+              "total": "17",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            }
+          ]
         }
       }
     },
@@ -5246,6 +6746,66 @@
               "internal": "89",
               "external": "0",
               "total": "89",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "19",
+              "external": "40",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "16",
+              "external": "32",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "41",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "14",
+              "external": "26",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "22",
+              "external": "49",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "29",
+              "external": "40",
+              "total": "69",
               "result": "P"
             }
           ]
@@ -5451,6 +7011,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "11",
+              "external": "13",
+              "total": "24",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "16",
+              "external": "10",
+              "total": "26",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "38",
+              "external": "26",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "22",
+              "external": "29",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "22",
+              "external": "18",
+              "total": "40",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "38",
+              "external": "54",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "33",
+              "external": "44",
+              "total": "77",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -5650,6 +7270,66 @@
               "internal": "85",
               "external": "0",
               "total": "85",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "36",
+              "external": "59",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "39",
+              "external": "48",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "27",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "31",
+              "external": "45",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "30",
+              "external": "45",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -5855,6 +7535,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "18",
+              "external": "40",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "11",
+              "external": "12",
+              "total": "23",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "24",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "24",
+              "external": "28",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "19",
+              "external": "48",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "29",
+              "external": "39",
+              "total": "68",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -6054,6 +7794,66 @@
               "internal": "89",
               "external": "0",
               "total": "89",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "29",
+              "external": "26",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "23",
+              "external": "32",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "26",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "30",
+              "external": "43",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "28",
+              "external": "33",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "36",
+              "external": "58",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "31",
+              "external": "36",
+              "total": "67",
               "result": "P"
             }
           ]
@@ -6259,6 +8059,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "23",
+              "external": "40",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "25",
+              "external": "31",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "24",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "18",
+              "external": "33",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "36",
+              "external": "47",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "30",
+              "external": "43",
+              "total": "73",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -6458,6 +8318,66 @@
               "internal": "81",
               "external": "0",
               "total": "81",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "10",
+              "external": "14",
+              "total": "24",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "16",
+              "external": "37",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "29",
+              "external": "32",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "12",
+              "external": "29",
+              "total": "41",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "11",
+              "external": "4",
+              "total": "15",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "18",
+              "external": "56",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "25",
+              "external": "35",
+              "total": "60",
               "result": "P"
             }
           ]
@@ -6663,6 +8583,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "31",
+              "external": "41",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "31",
+              "external": "48",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "24",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "31",
+              "external": "52",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "29",
+              "external": "41",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "26",
+              "external": "34",
+              "total": "60",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -6862,6 +8842,66 @@
               "internal": "80",
               "external": "0",
               "total": "80",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "19",
+              "external": "15",
+              "total": "34",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "16",
+              "external": "16",
+              "total": "32",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "19",
+              "total": "55",
+              "result": "F"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "22",
+              "external": "27",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "25",
+              "external": "6",
+              "total": "31",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "27",
+              "external": "38",
+              "total": "65",
               "result": "P"
             }
           ]
@@ -7067,6 +9107,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "20",
+              "external": "26",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "27",
+              "external": "27",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "27",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "24",
+              "external": "42",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "22",
+              "external": "16",
+              "total": "38",
+              "result": "F"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "35",
+              "external": "58",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "28",
+              "external": "42",
+              "total": "70",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -7269,6 +9369,66 @@
               "result": "P"
             }
           ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "24",
+              "external": "24",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "23",
+              "external": "35",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "35",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "24",
+              "external": "28",
+              "total": "52",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "25",
+              "external": "44",
+              "total": "69",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -7468,6 +9628,66 @@
               "internal": "75",
               "external": "0",
               "total": "75",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "21",
+              "external": "25",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "19",
+              "external": "41",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "36",
+              "external": "33",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "28",
+              "external": "37",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "32",
+              "external": "37",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "36",
+              "external": "58",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "26",
+              "external": "54",
+              "total": "80",
               "result": "P"
             }
           ]
@@ -8332,6 +10552,66 @@
               "internal": "86",
               "external": "0",
               "total": "86",
+              "result": "P"
+            }
+          ]
+        },
+        "Sem3": {
+          "subjects": [
+            {
+              "code": "7-0-2-01R20",
+              "name": "MATHEMATICS - II",
+              "internal": "22",
+              "external": "24",
+              "total": "46",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-06R20",
+              "name": "ENGINEERING CHEMISTRY",
+              "internal": "30",
+              "external": "25",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-03R20",
+              "name": "ENGLISH",
+              "internal": "35",
+              "external": "31",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-0-2-10R20",
+              "name": "DATA STRUCTURES",
+              "internal": "24",
+              "external": "27",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-05R20",
+              "name": "ENGINEERING GRAPHICS AND DESIGN",
+              "internal": "37",
+              "external": "45",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P1",
+              "name": "ENGLISH COMMUNICATION LAB",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-0-1-R20P4",
+              "name": "DATA STRUCTURES LAB",
+              "internal": "28",
+              "external": "51",
+              "total": "79",
               "result": "P"
             }
           ]
