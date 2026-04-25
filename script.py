@@ -5,121 +5,98 @@ from pdfminer.high_level import extract_text
 
 PREFIX = "1231"
 
+# ✅ Keep AL / - and convert numbers only
+def clean_value(x):
+    x = x.strip()
+
+    if x in ["AL", "-"]:
+        return x
+
+    if x.isdigit():
+        return int(x)
+
+    return x
+
+
 def parse_pdf(file_path, semester):
     text = extract_text(file_path)
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 
+    # 🔍 Find all roll numbers (only 1231)
+    roll_indices = []
+    for i, line in enumerate(lines):
+        if line.startswith(PREFIX) and line.isdigit():
+            roll_indices.append(i)
+
     students = []
-    i = 0
 
-    while i < len(lines):
+    # =========================
+    # 🔄 Process each student block
+    # =========================
+    for idx in range(len(roll_indices)):
+        start = roll_indices[idx]
+        end = roll_indices[idx + 1] if idx + 1 < len(roll_indices) else len(lines)
+
+        block = lines[start:end]
+        roll = block[0]
 
         # =========================
-        # 🎓 Detect TWO rolls (1231 series)
+        # 🧑‍🎓 Extract name
         # =========================
-        if (
-            i + 1 < len(lines)
-            and lines[i].startswith(PREFIX)
-            and lines[i+1].startswith(PREFIX)
-        ):
-            roll1 = lines[i]
-            roll2 = lines[i+1]
-            i += 2
+        name = "UNKNOWN"
+        for l in block:
+            if re.match(r'^[A-Z .]+$', l) and len(l.split()) >= 2:
+                if not any(x in l for x in ["CGPA", "SGPA", "TOTAL", "GRADE"]):
+                    name = l
+                    break
 
-            block = []
-
-            # =========================
-            # 📦 Collect full block
-            # =========================
-            while i < len(lines) and not lines[i].startswith(PREFIX):
-                block.append(lines[i])
-                i += 1
-
-            # =========================
-            # 🧑‍🎓 Extract Names
-            # =========================
-            names = [
-                l for l in block
-                if re.match(r'^[A-Z ]+$', l)
-                and len(l.split()) >= 2
-                and "CGPA" not in l
-                and "SGPA" not in l
-            ]
-
-            if len(names) < 2:
-                continue
-
-            name1, name2 = names[0], names[1]
-
-            # =========================
-            # 📘 Subject Names
-            # =========================
-            subjects = []
-            for l in block:
-                if (
-                    re.match(r'^[A-Z ]+$', l)
-                    and l not in names
-                    and "CGPA" not in l
-                    and "SGPA" not in l
-                ):
+        # =========================
+        # 📘 Extract subjects
+        # =========================
+        subjects = []
+        for l in block:
+            if re.match(r'^[A-Z ]+$', l) and l != name:
+                if not any(x in l for x in ["CGPA", "SGPA", "TOTAL", "GRADE"]):
                     subjects.append(l)
 
-            n = len(subjects)
+        n = len(subjects)
 
-            # =========================
-            # 🔢 Extract Numbers
-            # =========================
-            numbers = [int(l) for l in block if l.isdigit()]
+        # =========================
+        # 🔢 Extract values (IM, EM, TOTAL)
+        # =========================
+        values = [
+            clean_value(l)
+            for l in block
+            if l.isdigit() or l in ["AL", "-"]
+        ]
 
-            if len(numbers) < n * 6:
-                continue
+        im = values[:n]
+        em = values[n:2*n]
+        total = values[2*n:3*n]
 
-            half = len(numbers) // 2
+        # =========================
+        # 🔤 Extract results
+        # =========================
+        results = [l for l in block if l in ["P", "F"]]
 
-            nums1 = numbers[:half]
-            nums2 = numbers[half:]
+        # =========================
+        # 🔗 Combine everything
+        # =========================
+        subs = []
+        for i in range(n):
+            subs.append({
+                "name": subjects[i] if i < len(subjects) else "",
+                "internal": im[i] if i < len(im) else "",
+                "external": em[i] if i < len(em) else "",
+                "total": total[i] if i < len(total) else "",
+                "result": results[i] if i < len(results) else ""
+            })
 
-            im1 = nums1[:n]
-            em1 = nums1[n:2*n]
-            total1 = nums1[2*n:3*n]
-
-            im2 = nums2[:n]
-            em2 = nums2[n:2*n]
-            total2 = nums2[2*n:3*n]
-
-            # =========================
-            # 🔤 Results (P/F)
-            # =========================
-            results = [l for l in block if l in ["P", "F"]]
-
-            rhalf = len(results) // 2
-            res1 = results[:rhalf]
-            res2 = results[rhalf:]
-
-            # =========================
-            # 🔗 Build student data
-            # =========================
-            def build_student(roll, name, im, em, total, res):
-                subs = []
-                for j in range(n):
-                    subs.append({
-                        "name": subjects[j],
-                        "internal": im[j] if j < len(im) else 0,
-                        "external": em[j] if j < len(em) else 0,
-                        "total": total[j] if j < len(total) else 0,
-                        "result": res[j] if j < len(res) else ""
-                    })
-                return {
-                    "roll": roll,
-                    "name": name,
-                    "subjects": subs
-                }
-
-            students.append(build_student(roll1, name1, im1, em1, total1, res1))
-            students.append(build_student(roll2, name2, im2, em2, total2, res2))
-
-        else:
-            i += 1
+        students.append({
+            "roll": roll,
+            "name": name,
+            "subjects": subs
+        })
 
     return students
 
@@ -136,9 +113,9 @@ def main():
 
             print(f"Processing {file}...")
 
-            parsed_students = parse_pdf(file_path, semester)
+            parsed = parse_pdf(file_path, semester)
 
-            for student in parsed_students:
+            for student in parsed:
                 roll = student["roll"]
 
                 if roll not in all_students:
@@ -152,13 +129,11 @@ def main():
                     "subjects": student["subjects"]
                 }
 
-    # =========================
-    # 💾 Save JSON
-    # =========================
+    # 💾 Save final JSON
     with open("data.json", "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("✅ data.json generated successfully!")
+    print("✅ FINAL data.json generated successfully!")
 
 
 if __name__ == "__main__":
