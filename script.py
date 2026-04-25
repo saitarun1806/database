@@ -117,38 +117,56 @@ def main():
         all_students = {}
 
     # =========================
-    # 🔹 Process all PDFs
+    # 🔹 Process ALL PDFs (including subfolders like pdfs/ai)
     # =========================
-    for file in os.listdir(pdf_folder):
-        if file.endswith(".pdf"):
+    for root, dirs, files in os.walk(pdf_folder):
+        for file in files:
+            if file.endswith(".pdf"):
 
-            semester = file.replace(".pdf", "")
-            file_path = os.path.join(pdf_folder, file)
+                semester = file.replace(".pdf", "")
+                file_path = os.path.join(root, file)
 
-            print(f"📄 Processing {file}...")
+                print(f"📄 Processing {file_path}...")
 
-            text = extract_text_from_pdf(file_path)
-            students = parse_text(text)
+                text = extract_text_from_pdf(file_path)
+                students = parse_text(text)
 
-            for student in students:
-                roll = student["roll"]
+                for student in students:
+                    roll = student["roll"]
 
-                # create student if not exists
-                if roll not in all_students:
-                    all_students[roll] = {
-                        "roll": roll,
-                        "name": student["name"],
-                        "semesters": {}
-                    }
+                    # create student if not exists
+                    if roll not in all_students:
+                        all_students[roll] = {
+                            "roll": roll,
+                            "name": student["name"],
+                            "semesters": {}
+                        }
 
-                # 🔥 DO NOT OVERWRITE EXISTING SEM DATA
-                if semester not in all_students[roll]["semesters"]:
-                    all_students[roll]["semesters"][semester] = {
-                        "subjects": student["subjects"]
-                    }
-                    print(f"✅ Added {roll} {semester}")
-                else:
-                    print(f"⏭ Skipped {roll} {semester} (already exists)")
+                    # =========================
+                    # 🔥 SAFE SEMESTER MERGE
+                    # =========================
+                    if semester not in all_students[roll]["semesters"]:
+                        all_students[roll]["semesters"][semester] = {
+                            "subjects": student["subjects"]
+                        }
+                        print(f"✅ Added {roll} {semester}")
+
+                    else:
+                        # 🔥 merge subjects safely
+                        existing_subjects = all_students[roll]["semesters"][semester]["subjects"]
+
+                        existing_codes = {sub["code"] for sub in existing_subjects}
+
+                        new_subjects = [
+                            sub for sub in student["subjects"]
+                            if sub["code"] not in existing_codes
+                        ]
+
+                        if new_subjects:
+                            existing_subjects.extend(new_subjects)
+                            print(f"🔄 Updated {roll} {semester}")
+                        else:
+                            print(f"⏭ Skipped {roll} {semester} (no new data)")
 
     # =========================
     # 💾 Save final JSON
