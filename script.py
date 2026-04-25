@@ -1,7 +1,7 @@
-import pdfplumber
 import json
 import re
 import os
+from pdfminer.high_level import extract_text
 
 PREFIX = "1231"
 
@@ -9,16 +9,11 @@ def is_valid_roll(roll):
     return re.match(r'^1231\d+$', roll)
 
 def parse_pdf(file_path, semester):
+    text = extract_text(file_path)
+    lines = text.split("\n")
+
     students = []
     current_student = None
-    last_subject = None
-
-    with pdfplumber.open(file_path) as pdf:
-        lines = []
-        for page in pdf.pages:
-            text = page.extract_text()
-            if text:
-                lines.extend(text.split("\n"))
 
     i = 0
     while i < len(lines):
@@ -31,57 +26,32 @@ def parse_pdf(file_path, semester):
             if i + 1 < len(lines):
                 roll = lines[i+1].strip()
 
-                if not is_valid_roll(roll):
+                if is_valid_roll(roll):
+                    current_student = {
+                        "name": line,
+                        "roll": roll,
+                        "subjects": []
+                    }
+                    students.append(current_student)
                     i += 2
                     continue
-
-                current_student = {
-                    "name": line,
-                    "roll": roll,
-                    "semester": semester,
-                    "subjects": []
-                }
-
-                students.append(current_student)
-                i += 2
-                continue
 
         # =========================
         # 📘 SUBJECT DETECTION
         # =========================
-        subject_match = re.match(
+        match = re.search(
             r'(\d+-\d+-\d+-\w+)\s+(.*?)\s+(\d+)\s+(\d+)\s+(\d+)\s+([PF])\s+([\d.]+)\s+([A-Z+]+)',
             line
         )
 
-        if subject_match and current_student:
-            code = subject_match.group(1)
-            name = subject_match.group(2)
-            internal = int(subject_match.group(3))
-            external = int(subject_match.group(4))
-            total = int(subject_match.group(5))
-            result = subject_match.group(6)
-            credits = float(subject_match.group(7))
-
-            sub = {
-                "code": code,
-                "name": name,
-                "internal": internal,
-                "external": external,
-                "credits": credits
-            }
-
-            current_student["subjects"].append(sub)
-            last_subject = sub
-
-        else:
-            # =========================
-            # 🔗 MULTI-LINE SUBJECT FIX
-            # =========================
-            if current_student and last_subject:
-                # If line doesn't look like marks, append to subject name
-                if not re.search(r'\d+\s+\d+\s+\d+', line):
-                    last_subject["name"] += " " + line
+        if match and current_student:
+            current_student["subjects"].append({
+                "code": match.group(1),
+                "name": match.group(2),
+                "internal": int(match.group(3)),
+                "external": int(match.group(4)),
+                "credits": float(match.group(7))
+            })
 
         i += 1
 
@@ -91,18 +61,16 @@ def parse_pdf(file_path, semester):
 def main():
     all_students = {}
 
-    pdf_folder = "pdfs"
-
-    for file in os.listdir(pdf_folder):
+    for file in os.listdir("pdfs"):
         if file.endswith(".pdf"):
             semester = file.replace(".pdf", "")
-            file_path = os.path.join(pdf_folder, file)
+            file_path = os.path.join("pdfs", file)
 
             print(f"Processing {file}...")
 
-            parsed_students = parse_pdf(file_path, semester)
+            parsed = parse_pdf(file_path, semester)
 
-            for student in parsed_students:
+            for student in parsed:
                 roll = student["roll"]
 
                 if roll not in all_students:
@@ -116,14 +84,10 @@ def main():
                     "subjects": student["subjects"]
                 }
 
-    output = {
-        "students": list(all_students.values())
-    }
-
     with open("data.json", "w") as f:
-        json.dump(output, f, indent=2)
+        json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("✅ data.json generated successfully!")
+    print("✅ data.json generated")
 
 
 if __name__ == "__main__":
