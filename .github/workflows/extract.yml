@@ -23,7 +23,6 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install pdfplumber
-        run: |
           pip install pdfminer.six
 
       - name: Run Extraction Script
