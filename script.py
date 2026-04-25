@@ -62,7 +62,6 @@ def parse_text(text):
                     parts = line.split()
 
                     code = parts[0]
-
                     internal = parts[-6]
                     external = parts[-5]
                     total = parts[-4]
@@ -98,7 +97,7 @@ def parse_text(text):
 
 
 # =========================
-# 🔹 MAIN FUNCTION (SAFE MERGE)
+# 🔹 MAIN FUNCTION (SECTION-WISE SAFE MERGE)
 # =========================
 def main():
     pdf_folder = "pdfs"
@@ -111,13 +110,14 @@ def main():
         with open(data_file, "r") as f:
             existing_data = json.load(f)
             all_students = {
-                s["roll"]: s for s in existing_data.get("students", [])
+                f"{s['section']}_{s['roll']}": s
+                for s in existing_data.get("students", [])
             }
     else:
         all_students = {}
 
     # =========================
-    # 🔹 Process ALL PDFs (including subfolders like pdfs/ai)
+    # 🔹 Process ALL PDFs
     # =========================
     for root, dirs, files in os.walk(pdf_folder):
         for file in files:
@@ -126,34 +126,41 @@ def main():
                 semester = file.replace(".pdf", "")
                 file_path = os.path.join(root, file)
 
-                print(f"📄 Processing {file_path}...")
+                # 🔥 detect section from folder
+                section = os.path.basename(root)
+
+                # if file directly inside pdfs/, name it MAIN
+                if section == "pdfs":
+                    section = "MAIN"
+
+                print(f"📄 Processing {file_path} (Section: {section})")
 
                 text = extract_text_from_pdf(file_path)
                 students = parse_text(text)
 
                 for student in students:
-                    roll = student["roll"]
+                    key = f"{section}_{student['roll']}"
 
                     # create student if not exists
-                    if roll not in all_students:
-                        all_students[roll] = {
-                            "roll": roll,
+                    if key not in all_students:
+                        all_students[key] = {
+                            "roll": student["roll"],
                             "name": student["name"],
+                            "section": section,
                             "semesters": {}
                         }
 
                     # =========================
                     # 🔥 SAFE SEMESTER MERGE
                     # =========================
-                    if semester not in all_students[roll]["semesters"]:
-                        all_students[roll]["semesters"][semester] = {
+                    if semester not in all_students[key]["semesters"]:
+                        all_students[key]["semesters"][semester] = {
                             "subjects": student["subjects"]
                         }
-                        print(f"✅ Added {roll} {semester}")
+                        print(f"✅ Added {student['roll']} ({section}) {semester}")
 
                     else:
-                        # 🔥 merge subjects safely
-                        existing_subjects = all_students[roll]["semesters"][semester]["subjects"]
+                        existing_subjects = all_students[key]["semesters"][semester]["subjects"]
 
                         existing_codes = {sub["code"] for sub in existing_subjects}
 
@@ -164,9 +171,9 @@ def main():
 
                         if new_subjects:
                             existing_subjects.extend(new_subjects)
-                            print(f"🔄 Updated {roll} {semester}")
+                            print(f"🔄 Updated {student['roll']} ({section}) {semester}")
                         else:
-                            print(f"⏭ Skipped {roll} {semester} (no new data)")
+                            print(f"⏭ Skipped {student['roll']} ({section}) {semester}")
 
     # =========================
     # 💾 Save final JSON
@@ -174,7 +181,7 @@ def main():
     with open(data_file, "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("\n🎉 Data updated safely without overwriting!")
+    print("\n🎉 Data updated with section separation!")
 
 
 # =========================
