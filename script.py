@@ -3,7 +3,8 @@ import json
 import re
 import os
 
-PREFIX = "1231"
+# Only these prefixes
+PREFIXES = ["12316", "12317"]
 
 
 # =========================
@@ -15,10 +16,19 @@ def extract_text_from_pdf(pdf_path):
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             text = page.extract_text()
-            if text and PREFIX in text:
+
+            if text and any(prefix in text for prefix in PREFIXES):
                 text_data += "\n" + text
 
     return text_data
+
+
+# =========================
+# 🔹 Check valid roll
+# =========================
+def is_valid_roll(line):
+    return re.match(r'^(12316\d{3}|12317\d{3})', line)
+    # total = 8 digits (5 prefix + 3 digits)
 
 
 # =========================
@@ -32,7 +42,7 @@ def parse_text(text):
 
     while i < len(lines):
 
-        if re.match(r'^1231\d{4}', lines[i]):
+        if is_valid_roll(lines[i]):
 
             parts = lines[i].split(" ", 1)
             roll = parts[0]
@@ -45,37 +55,44 @@ def parse_text(text):
 
                 line = lines[i]
 
-                if re.match(r'^1231\d{4}', line):
+                # Next student
+                if is_valid_roll(line):
                     break
 
+                # End of student block
                 if "CGPA" in line:
                     i += 1
                     break
 
+                # Subject row
                 if re.match(r'\d+-\d+-\d+-', line):
 
                     parts = line.split()
 
-                    code = parts[0]
-                    internal = parts[-6]
-                    external = parts[-5]
-                    total = parts[-4]
-                    result = parts[-3]
+                    try:
+                        code = parts[0]
+                        internal = parts[-6]
+                        external = parts[-5]
+                        total = parts[-4]
+                        result = parts[-3]
 
-                    subject_name = " ".join(parts[1:-6])
+                        subject_name = " ".join(parts[1:-6])
 
-                    # AL → F
-                    if result == "AL":
-                        result = "F"
+                        # AL → F
+                        if result == "AL":
+                            result = "F"
 
-                    subjects.append({
-                        "code": code,
-                        "name": subject_name,
-                        "internal": internal,
-                        "external": external,
-                        "total": total,
-                        "result": result
-                    })
+                        subjects.append({
+                            "code": code,
+                            "name": subject_name,
+                            "internal": internal,
+                            "external": external,
+                            "total": total,
+                            "result": result
+                        })
+
+                    except:
+                        pass  # skip bad lines
 
                 i += 1
 
@@ -123,12 +140,15 @@ def main():
                     "subjects": student["subjects"]
                 }
 
-    # save final JSON
+    # Save JSON
     with open("data.json", "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("🎉 All semesters merged successfully!")
+    print("🎉 Done! Both classes merged correctly.")
 
 
+# =========================
+# 🔹 RUN
+# =========================
 if __name__ == "__main__":
     main()
