@@ -1,0 +1,22318 @@
+
+
+==============================
+FILE: sem4.pdf
+==============================
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12116035
+
+7-8-4-01R20
+
+7-8-4-05R20
+
+KOTRAMANGALAM DIL VENKAT SAI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+COMPUTER ORGANIZATION
+
+5
+21
+
+0
+24
+
+5
+45
+
+F
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+26
+
+24
+
+50
+
+12216004
+
+BANDELA JYOTHI RAO
+
+7-8-4-05R20
+
+COMPUTER ORGANIZATION
+
+28
+
+34
+
+62
+
+F
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+28
+
+34
+
+62
+
+12216007
+
+7-8-4-02R20
+
+7-8-4-05R20
+
+CHADUVULA RAHUL
+
+SIMULATION AND MODELING
+COMPUTER ORGANIZATION
+
+32
+24
+
+28
+24
+
+60
+48
+
+P
+
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+56
+
+52
+
+108
+
+12216009
+
+GALISETTY JAYAPRAKASH VENKAT NARAYAN
+
+7-8-4-05R20
+
+COMPUTER ORGANIZATION
+
+22
+
+33
+
+55
+
+P
+
+P
+
+***** ***** ***** ******
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+22
+
+33
+
+55
+
+12216011
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+GURUDAPURI KEERTHI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+12216015
+
+KAVANURU CHANDISHKUMAR
+
+7-8-4-05R20
+
+COMPUTER ORGANIZATION
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+P
+
+F
+P
+P
+P
+P
+P
+
+3
+15
+24
+16
+20
+27
+
+12
+26
+28
+55
+52
+44
+
+15
+41
+52
+71
+72
+71
+
+***** ***** ***** ******
+105
+
+217
+
+322
+
+F
+
+22
+
+37
+
+59
+
+P
+
+***** ***** ***** ******
+
+22
+
+37
+
+59
+
+P
+
+3
+******
+3
+
+B
+******
+
+F
+C
+******
+
+0
+3
+******
+3
+
+B+
+******
+
+3
+******
+3
+
+B
+C
+******
+
+3
+3
+******
+6
+
+B
+******
+
+3
+******
+3
+
+F
+C
+B
+A
+A
+A
+******
+
+0
+3
+3
+3
+3
+3
+******
+15
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 1 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12216016
+
+7-8-4-01R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+KOLLATHURU MUNI VISHNU
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+
+5
+22
+23
+
+2
+25
+28
+
+7
+47
+51
+
+F
+P
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+50
+
+55
+
+105
+
+12216019
+
+M NIKHIL
+
+7-8-4-05R20
+
+COMPUTER ORGANIZATION
+
+28
+
+28
+
+56
+
+F
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+28
+
+28
+
+56
+
+12216020
+
+MALLARAPU SASHANKITHA
+
+7-8-4-05R20
+
+COMPUTER ORGANIZATION
+
+31
+
+52
+
+83
+
+P
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+31
+
+52
+
+83
+
+12216024
+
+7-8-4-01R20
+
+7-8-4-05R20
+
+RISHIL SREE P
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+COMPUTER ORGANIZATION
+
+9
+23
+
+10
+25
+
+19
+48
+
+P
+
+F
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+32
+
+35
+
+67
+
+12216028
+
+THATIGUTLA ROHITH KUMAR REDDY
+
+7-8-4-05R20
+
+COMPUTER ORGANIZATION
+
+24
+
+50
+
+74
+
+F
+
+P
+
+***** ***** ***** ******
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+24
+
+50
+
+74
+
+12216031
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+VULLIPAYALA PREM
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+P
+
+F
+P
+F
+P
+P
+P
+
+19
+34
+22
+27
+27
+33
+
+18
+35
+18
+42
+25
+36
+
+37
+69
+40
+69
+52
+69
+
+***** ***** ***** ******
+162
+
+174
+
+336
+
+F
+
+F
+C
+B
+******
+
+0
+3
+3
+******
+6
+
+B
+******
+
+3
+******
+3
+
+A+
+******
+
+3
+******
+3
+
+F
+C
+******
+
+0
+3
+******
+3
+
+A
+******
+
+3
+******
+3
+
+F
+B+
+F
+B+
+B
+B+
+******
+
+0
+3
+0
+3
+3
+3
+******
+12
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 2 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316001
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316002
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+ADIBOINA MANISH
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 8.41                **TOTAL**
+
+ANJURU UMESH CHANDRA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+21
+36
+31
+34
+36
+36
+35
+29
+33
+
+48
+52
+29
+56
+57
+48
+50
+49
+53
+
+69
+88
+60
+90
+93
+84
+85
+78
+86
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+291
+
+733
+
+442
+
+P
+
+20
+30
+20
+24
+25
+32
+32
+30
+32
+
+17
+30
+24
+52
+40
+32
+52
+50
+48
+
+37
+60
+44
+76
+65
+64
+84
+80
+80
+
+F
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+245
+
+590
+
+345
+
+F
+
+B+
+A+
+B
+A+
+O
+A+
+A+
+A
+A+
+******
+
+F
+B
+C
+A
+B+
+B+
+A+
+A
+A
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+0
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+20.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 3 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316003
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316004
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+ARIGALA JAGRUTHI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+ARLA YASWITHA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+24
+37
+20
+30
+30
+35
+35
+28
+35
+
+-
+-
+0
+-
+-
+-
+47
+49
+47
+
+-
+-
+20
+-
+-
+-
+82
+77
+82
+
+AL
+AL
+F
+AL
+AL
+AL
+P
+P
+P
+
+***** ***** ***** ******
+274
+
+143
+
+261
+
+AL
+
+17
+33
+28
+21
+32
+33
+35
+28
+35
+
+13
+46
+32
+54
+55
+45
+47
+48
+48
+
+30
+79
+60
+75
+87
+78
+82
+76
+83
+
+F
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+262
+
+388
+
+650
+
+F
+
+-
+-
+-
+-
+-
+-
+A+
+A
+A+
+******
+
+F
+A
+B
+A
+A+
+A
+A+
+A
+A+
+******
+
+0
+0
+0
+0
+0
+0
+1.5
+1.5
+2
+******
+5.0
+
+0
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+20.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 4 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316005
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316007
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+BAVISETTI AKHIL
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.76                **TOTAL**
+
+BODIPEDDA ANAND BLESSON
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.50                **TOTAL**
+
+23
+32
+40
+27
+32
+34
+34
+30
+34
+
+35
+36
+29
+54
+40
+39
+48
+49
+51
+
+58
+68
+69
+81
+72
+73
+82
+79
+85
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+286
+
+667
+
+381
+
+P
+
+21
+29
+20
+21
+32
+32
+32
+29
+32
+
+40
+35
+28
+54
+41
+43
+54
+49
+56
+
+61
+64
+48
+75
+73
+75
+86
+78
+88
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+248
+
+400
+
+648
+
+P
+
+B
+B+
+B+
+A+
+A
+A
+A+
+A
+A+
+******
+
+B+
+B+
+C
+A
+A
+A
+A+
+A
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 5 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316008
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316009
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+BOKAM HARI CHARAN
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 8.41                **TOTAL**
+
+C G ABHAY KRISHNA NAIDU
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.57                **TOTAL**
+
+27
+38
+30
+34
+36
+36
+32
+32
+32
+
+38
+45
+33
+55
+46
+47
+47
+50
+51
+
+65
+83
+63
+89
+82
+83
+79
+82
+83
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+297
+
+412
+
+709
+
+P
+
+17
+34
+20
+24
+32
+36
+36
+34
+35
+
+25
+45
+24
+55
+41
+45
+46
+52
+46
+
+42
+79
+44
+79
+73
+81
+82
+86
+81
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+268
+
+379
+
+647
+
+P
+
+B+
+A+
+B+
+A+
+A+
+A+
+A
+A+
+A+
+******
+
+C
+A
+C
+A
+A
+A+
+A+
+A+
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 6 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316011
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316012
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+CHINNATAMBI ASWITHA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+CIRANDUR SARATH CHANDRA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.11                **TOTAL**
+
+12
+20
+16
+12
+32
+29
+35
+34
+35
+
+15
+24
+13
+28
+24
+24
+47
+53
+47
+
+27
+44
+29
+40
+56
+53
+82
+87
+82
+
+F
+P
+F
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+225
+
+500
+
+275
+
+F
+
+20
+33
+20
+20
+36
+36
+35
+28
+33
+
+25
+31
+26
+50
+36
+37
+46
+48
+48
+
+45
+64
+46
+70
+72
+73
+81
+76
+81
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+261
+
+608
+
+347
+
+P
+
+F
+C
+F
+P
+B
+B
+A+
+A+
+A+
+******
+
+C
+B+
+C
+B+
+A
+A
+A+
+A
+A+
+******
+
+0
+3
+0
+3
+3
+3
+1.5
+1.5
+2
+******
+17.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 7 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316014
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316015
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+ELLELCHERU MUBASSHIRA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.54                **TOTAL**
+
+ENDLA JAYAPRAKASH
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.24                **TOTAL**
+
+19
+31
+27
+21
+35
+36
+33
+28
+33
+
+24
+48
+26
+55
+54
+36
+52
+49
+45
+
+43
+79
+53
+76
+89
+72
+85
+77
+78
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+263
+
+389
+
+652
+
+P
+
+20
+32
+24
+25
+36
+32
+32
+29
+32
+
+24
+36
+26
+55
+36
+39
+50
+49
+50
+
+44
+68
+50
+80
+72
+71
+82
+78
+82
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+262
+
+365
+
+627
+
+P
+
+C
+A
+B
+A
+A+
+A
+A+
+A
+A
+******
+
+C
+B+
+C
+A
+A
+A
+A+
+A
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 8 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316017
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316018
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+HASAVATH MADHU MOHAN NAIK
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.30                **TOTAL**
+
+JANJARAPU ALBERT JUSTIN
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+21
+26
+24
+23
+36
+36
+32
+28
+32
+
+26
+43
+25
+55
+45
+44
+48
+48
+50
+
+47
+69
+49
+78
+81
+80
+80
+76
+82
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+258
+
+384
+
+642
+
+P
+
+13
+13
+16
+18
+19
+26
+33
+28
+28
+
+1
+28
+24
+49
+25
+24
+47
+48
+49
+
+14
+41
+40
+67
+44
+50
+80
+76
+77
+
+F
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+194
+
+295
+
+489
+
+F
+
+C
+B+
+C
+A
+A+
+A
+A
+A
+A+
+******
+
+F
+C
+P
+B+
+C
+C
+A
+A
+A
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+0
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+20.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 9 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316019
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316021
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+JARUGU VENKATA HEMANTH REDDY
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KANDUKURI HARINI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 8.35                **TOTAL**
+
+4
+17
+20
+11
+18
+31
+28
+18
+28
+
+5
+14
+25
+48
+31
+28
+47
+40
+48
+
+9
+31
+45
+59
+49
+59
+75
+58
+76
+
+F
+F
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+175
+
+461
+
+286
+
+F
+
+26
+35
+31
+36
+32
+36
+34
+34
+34
+
+42
+52
+38
+55
+48
+43
+54
+54
+51
+
+68
+87
+69
+91
+80
+79
+88
+88
+85
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+298
+
+735
+
+437
+
+P
+
+F
+F
+C
+B
+C
+B
+A
+B
+A
+******
+
+B+
+A+
+B+
+O
+A
+A
+A+
+A+
+A+
+******
+
+0
+0
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+17.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 10 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316022
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316025
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+KATARU RAM SAI CHARAN
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.96                **TOTAL**
+
+KUDICHETI YOGEESWAR PRASAD
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+24
+33
+24
+29
+32
+36
+33
+33
+33
+
+39
+42
+33
+55
+42
+41
+51
+53
+51
+
+63
+75
+57
+84
+74
+77
+84
+86
+84
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+277
+
+407
+
+684
+
+P
+
+11
+26
+24
+13
+26
+24
+34
+34
+34
+
+6
+16
+17
+15
+25
+25
+50
+54
+49
+
+17
+42
+41
+28
+51
+49
+84
+88
+83
+
+F
+F
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+226
+
+257
+
+483
+
+F
+
+B+
+A
+B
+A+
+A
+A
+A+
+A+
+A+
+******
+
+F
+F
+F
+F
+B
+C
+A+
+A+
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+0
+0
+0
+0
+3
+3
+1.5
+1.5
+2
+******
+11.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 11 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316026
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316027
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+MATAM DEEKSHITHA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+MATTAM YUKTHA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.76                **TOTAL**
+
+21
+34
+24
+22
+26
+34
+33
+27
+33
+
+-
+-
+-
+-
+0
+-
+48
+49
+46
+
+-
+-
+-
+-
+26
+-
+81
+76
+79
+
+AL
+AL
+AL
+AL
+F
+AL
+P
+P
+P
+
+***** ***** ***** ******
+254
+
+262
+
+143
+
+AL
+
+21
+35
+24
+19
+28
+36
+33
+27
+33
+
+35
+40
+37
+53
+37
+50
+49
+48
+48
+
+56
+75
+61
+72
+65
+86
+82
+75
+81
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+256
+
+397
+
+653
+
+P
+
+-
+-
+-
+-
+-
+-
+A+
+A
+A
+******
+
+B
+A
+B+
+A
+B+
+A+
+A+
+A
+A+
+******
+
+0
+0
+0
+0
+0
+0
+1.5
+1.5
+2
+******
+5.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 12 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316029
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316030
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+MODUGALA LAKSHINYA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 6.96                **TOTAL**
+
+MUSUKU MALLIKARJUNA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 8.09                **TOTAL**
+
+18
+30
+28
+22
+32
+35
+33
+28
+28
+
+27
+30
+24
+52
+40
+34
+47
+49
+50
+
+45
+60
+52
+74
+72
+69
+80
+77
+78
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+254
+
+353
+
+607
+
+P
+
+24
+33
+32
+26
+34
+36
+32
+30
+33
+
+39
+48
+26
+49
+50
+46
+48
+50
+52
+
+63
+81
+58
+75
+84
+82
+80
+80
+85
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+280
+
+408
+
+688
+
+P
+
+C
+B
+B
+A
+A
+B+
+A
+A
+A
+******
+
+B+
+A+
+B
+A
+A+
+A+
+A
+A
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 13 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316032
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316033
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+PALANENI DHANU NAIDU
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.70                **TOTAL**
+
+PEDDA PALLI NIKHILESH
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.43                **TOTAL**
+
+22
+37
+28
+23
+34
+35
+35
+32
+34
+
+34
+40
+32
+57
+45
+42
+48
+52
+54
+
+56
+77
+60
+80
+79
+77
+83
+84
+88
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+280
+
+404
+
+684
+
+P
+
+22
+29
+28
+22
+28
+36
+34
+31
+34
+
+41
+42
+24
+54
+31
+34
+50
+51
+56
+
+63
+71
+52
+76
+59
+70
+84
+82
+90
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+264
+
+647
+
+383
+
+P
+
+B
+A
+B
+A
+A
+A
+A+
+A+
+A+
+******
+
+B+
+A
+B
+A
+B
+B+
+A+
+A+
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 14 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316034
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316035
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+POTHURI ABHISHEK NAIDU
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+PREETHAM VISTHRI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.26                **TOTAL**
+
+13
+15
+24
+9
+2
+4
+35
+30
+34
+
+12
+4
+0
+0
+0
+28
+51
+50
+50
+
+25
+19
+24
+9
+2
+32
+86
+80
+84
+
+F
+F
+F
+F
+F
+F
+P
+P
+P
+
+***** ***** ***** ******
+166
+
+195
+
+361
+
+F
+
+20
+27
+26
+22
+32
+36
+33
+31
+35
+
+25
+35
+33
+44
+24
+48
+53
+51
+56
+
+45
+62
+59
+66
+56
+84
+86
+82
+91
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+262
+
+369
+
+631
+
+P
+
+F
+F
+F
+F
+F
+F
+A+
+A
+A+
+******
+
+C
+B+
+B
+B+
+B
+A+
+A+
+A+
+O
+******
+
+0
+0
+0
+0
+0
+0
+1.5
+1.5
+2
+******
+5.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 15 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316036
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316037
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+PULUGUJJU AJAY KUMAR
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+SAI TARUN KUNANI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 8.22                **TOTAL**
+
+15
+28
+28
+27
+32
+32
+35
+32
+38
+
+14
+31
+30
+55
+38
+26
+51
+52
+50
+
+29
+59
+58
+82
+70
+58
+86
+84
+88
+
+F
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+267
+
+347
+
+614
+
+F
+
+31
+31
+32
+34
+34
+35
+33
+33
+33
+
+43
+45
+28
+55
+50
+45
+52
+53
+56
+
+74
+76
+60
+89
+84
+80
+85
+86
+89
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+296
+
+723
+
+427
+
+P
+
+F
+B
+B
+A+
+B+
+B
+A+
+A+
+A+
+******
+
+A
+A
+B
+A+
+A+
+A
+A+
+A+
+A+
+******
+
+0
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+20.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 16 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316038
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316039
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+SANGU HARI KRISHNA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 6.98                **TOTAL**
+
+SREERAM SIVA HARSHITHA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.43                **TOTAL**
+
+18
+32
+26
+20
+22
+31
+32
+32
+32
+
+28
+30
+24
+56
+48
+33
+48
+52
+50
+
+46
+62
+50
+76
+70
+64
+80
+84
+82
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+245
+
+369
+
+614
+
+P
+
+21
+30
+27
+30
+22
+34
+35
+34
+38
+
+25
+33
+26
+53
+46
+38
+47
+54
+48
+
+46
+63
+53
+83
+68
+72
+82
+88
+86
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+271
+
+641
+
+370
+
+P
+
+C
+B+
+C
+A
+B+
+B+
+A
+A+
+A+
+******
+
+C
+B+
+B
+A+
+B+
+A
+A+
+A+
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 17 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316040
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316041
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+THANDRA MANIKANTA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+UPPARA ACHYUTHA SAI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.02                **TOTAL**
+
+16
+25
+27
+22
+32
+33
+32
+27
+32
+
+27
+36
+18
+55
+38
+44
+50
+47
+52
+
+43
+61
+45
+77
+70
+77
+82
+74
+84
+
+P
+P
+F
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+246
+
+613
+
+367
+
+F
+
+19
+32
+27
+21
+30
+30
+32
+28
+32
+
+24
+37
+33
+44
+47
+33
+54
+48
+48
+
+43
+69
+60
+65
+77
+63
+86
+76
+80
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+251
+
+368
+
+619
+
+P
+
+C
+B+
+F
+A
+B+
+A
+A+
+A
+A+
+******
+
+C
+B+
+B
+B+
+A
+B+
+A+
+A
+A
+******
+
+3
+3
+0
+3
+3
+3
+1.5
+1.5
+2
+******
+20.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 18 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316043
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316044
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+VENKATESWARA RAO AMANCHI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 8.22                **TOTAL**
+
+YEKULA HARSHAVARDHAN
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+25
+36
+28
+29
+34
+36
+35
+33
+35
+
+37
+50
+24
+55
+45
+51
+54
+53
+50
+
+62
+86
+52
+84
+79
+87
+89
+86
+85
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+291
+
+419
+
+710
+
+P
+
+19
+29
+28
+16
+35
+34
+33
+31
+31
+
+14
+44
+24
+52
+37
+45
+48
+51
+51
+
+33
+73
+52
+68
+72
+79
+81
+82
+82
+
+F
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+256
+
+622
+
+366
+
+F
+
+B+
+A+
+B
+A+
+A
+A+
+A+
+A+
+A+
+******
+
+F
+A
+B
+B+
+A
+A
+A+
+A+
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+0
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+20.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 19 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316045
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316046
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+YELLAMPALLI DEVI PRIYANKA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.70                **TOTAL**
+
+MOKATI JAYANTH
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.63                **TOTAL**
+
+24
+37
+26
+23
+32
+32
+32
+30
+34
+
+29
+46
+34
+48
+48
+43
+48
+50
+50
+
+53
+83
+60
+71
+80
+75
+80
+80
+84
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+270
+
+666
+
+396
+
+P
+
+25
+36
+31
+19
+34
+36
+34
+30
+34
+
+30
+41
+24
+54
+37
+43
+50
+50
+50
+
+55
+77
+55
+73
+71
+79
+84
+80
+84
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+279
+
+658
+
+379
+
+P
+
+B
+A+
+B
+A
+A
+A
+A
+A
+A+
+******
+
+B
+A
+B
+A
+A
+A
+A+
+A
+A+
+******
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 20 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316047
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316048
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+G. SANJANA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+GONUGUNTLA ROHITH
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+19
+32
+26
+12
+35
+35
+32
+30
+30
+
+13
+34
+28
+47
+41
+45
+50
+50
+48
+
+32
+66
+54
+59
+76
+80
+82
+80
+78
+
+F
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+251
+
+356
+
+607
+
+F
+
+15
+26
+24
+8
+20
+34
+32
+32
+32
+
+10
+30
+29
+16
+25
+35
+53
+52
+52
+
+25
+56
+53
+24
+45
+69
+85
+84
+84
+
+F
+P
+P
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+223
+
+525
+
+302
+
+F
+
+F
+B+
+B
+B
+A
+A
+A+
+A
+A
+******
+
+F
+B
+B
+F
+C
+B+
+A+
+A+
+A+
+******
+
+0
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+20.0
+
+0
+3
+3
+0
+3
+3
+1.5
+1.5
+2
+******
+17.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 21 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316049
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316050
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+GUNDA NAGESWARA RAO
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KANCHARLA KONDA BABU
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.89                **TOTAL**
+
+18
+21
+20
+12
+32
+20
+28
+28
+28
+
+15
+30
+24
+32
+31
+18
+48
+48
+52
+
+33
+51
+44
+44
+63
+38
+76
+76
+80
+
+F
+P
+P
+P
+P
+F
+P
+P
+P
+
+***** ***** ***** ******
+207
+
+298
+
+505
+
+F
+
+24
+33
+28
+19
+36
+36
+36
+36
+36
+
+28
+36
+40
+51
+45
+49
+49
+56
+53
+
+52
+69
+68
+70
+81
+85
+85
+92
+89
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+284
+
+407
+
+691
+
+P
+
+F
+B
+C
+C
+B+
+F
+A
+A
+A
+******
+
+B
+B+
+B+
+B+
+A+
+A+
+A+
+O
+A+
+******
+
+0
+3
+3
+3
+3
+0
+1.5
+1.5
+2
+******
+17.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 22 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316051
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316052
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+NATTALA AKHIL
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+19
+36
+27
+11
+26
+36
+34
+30
+34
+
+14
+38
+27
+53
+46
+40
+51
+50
+49
+
+33
+74
+54
+64
+72
+76
+85
+80
+83
+
+F
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+253
+
+368
+
+621
+
+F
+
+PENUMARTHI NAGA JAYADEEP KARTHIKEYA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+19
+27
+26
+21
+27
+35
+35
+35
+35
+
+24
+36
+28
+50
+38
+40
+49
+55
+54
+
+43
+63
+54
+71
+65
+75
+84
+90
+89
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.30                **TOTAL**
+
+***** ***** ***** ******
+260
+
+634
+
+374
+
+P
+
+F
+A
+B
+B+
+A
+A
+A+
+A
+A+
+******
+
+C
+B+
+B
+A
+B+
+A
+A+
+A+
+A+
+******
+
+0
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+20.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 23 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316053
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316054
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+V HEMANTH KUMAR
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+VELIVELA JHANSI SRI
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+10
+12
+26
+11
+32
+25
+29
+29
+29
+
+12
+18
+24
+29
+24
+24
+48
+49
+48
+
+22
+30
+50
+40
+56
+49
+77
+78
+77
+
+F
+F
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+203
+
+479
+
+276
+
+F
+
+11
+27
+26
+19
+32
+29
+33
+31
+31
+
+14
+26
+26
+40
+39
+17
+48
+51
+55
+
+25
+53
+52
+59
+71
+46
+81
+82
+86
+
+F
+P
+P
+P
+P
+F
+P
+P
+P
+
+***** ***** ***** ******
+239
+
+316
+
+555
+
+F
+
+F
+F
+C
+P
+B
+C
+A
+A
+A
+******
+
+F
+B
+B
+B
+A
+F
+A+
+A+
+A+
+******
+
+0
+0
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+17.0
+
+0
+3
+3
+3
+3
+0
+1.5
+1.5
+2
+******
+17.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 24 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Fourth Semester(R20) Regular_Supple Examination, July 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316055
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+12316056
+
+7-8-4-01R20
+
+7-8-4-02R20
+
+7-3-4-03R20
+
+7-8-4-04R20
+
+7-8-4-05R20
+
+7-8-4-06R20
+
+7-8-4-R20P1
+
+7-8-4-R20P2
+
+7-8-4-R20S1
+
+VAKA KULADEEP REDDY
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KAMINIKONDA SIRICHANDANA
+
+DIGITAL ELECTRONICS AND LOGIC DESIGN
+SIMULATION AND MODELING
+MANAGERIAL ECONOMICS AND ACCOUNTANCY
+COMPUTER ORIENTED NUMERICAL METHODS
+COMPUTER ORGANIZATION
+DESIGN AND ANALYSIS OF ALGORITHMS
+ASSEMBLY LANGUAGE PROGRAMMING AND VHDL LAB
+ALGORITHMS LAB
+BASIC WEB DESIGNING
+
+CGPA : -
+
+   SGPA : 7.85                **TOTAL**
+
+17
+28
+26
+9
+24
+31
+30
+30
+30
+
+15
+25
+15
+38
+24
+30
+50
+50
+53
+
+32
+53
+41
+47
+48
+61
+80
+80
+83
+
+F
+P
+F
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+225
+
+525
+
+300
+
+F
+
+20
+36
+23
+21
+38
+36
+35
+36
+36
+
+29
+48
+24
+54
+41
+47
+51
+56
+56
+
+49
+84
+47
+75
+79
+83
+86
+92
+92
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+281
+
+687
+
+406
+
+P
+
+F
+B
+F
+C
+C
+B+
+A
+A
+A+
+******
+
+C
+A+
+C
+A
+A
+A+
+A+
+O
+O
+******
+
+0
+3
+0
+3
+3
+3
+1.5
+1.5
+2
+******
+17.0
+
+3
+3
+3
+3
+3
+3
+1.5
+1.5
+2
+******
+23.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Tuesday 31 March 2026
+
+Page 25 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+
+
+==============================
+FILE: sem3.pdf
+==============================
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12116018
+
+G REDDY GANESH
+
+7-8-3-04R20
+
+BASIC ELECTRICAL ENGINEERING
+
+12
+
+30
+
+42
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+12
+
+30
+
+42
+
+12116035
+
+7-1-3-01R20
+
+7-8-3-03R20
+
+KOTRAMANGALAM DIL VENKAT SAI
+
+MATHEMATICS-III
+DISCRETE MATHEMATICAL STRUCTURES
+
+16
+18
+
+7
+24
+
+23
+42
+
+P
+
+F
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+34
+
+31
+
+65
+
+12116050
+
+S NIKHIL KUMAR
+
+7-1-3-01R20
+
+MATHEMATICS-III
+
+31
+
+12
+
+43
+
+F
+
+F
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+31
+
+12
+
+43
+
+12216002
+
+ADIGOUNI VENKAT PARTHIV
+
+7-8-3-03R20
+
+DISCRETE MATHEMATICAL STRUCTURES
+
+18
+
+47
+
+65
+
+F
+
+P
+
+***** ***** ***** ******
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+18
+
+47
+
+65
+
+12216009
+
+GALISETTY JAYAPRAKASH VENKAT NARAYAN
+
+7-1-3-01R20
+
+MATHEMATICS-III
+
+29
+
+44
+
+73
+
+P
+
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+29
+
+44
+
+73
+
+12216015
+
+KAVANURU CHANDISHKUMAR
+
+7-8-3-03R20
+
+DISCRETE MATHEMATICAL STRUCTURES
+
+20
+
+12
+
+32
+
+P
+
+F
+
+***** ***** ***** ******
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+20
+
+12
+
+32
+
+12216016
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+KOLLATHURU MUNI VISHNU
+
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+
+20
+5
+16
+
+24
+4
+24
+
+44
+9
+40
+
+F
+
+P
+F
+P
+
+C
+******
+
+3
+******
+3
+
+F
+C
+******
+
+0
+3
+******
+3
+
+F
+******
+
+0
+******
+0
+
+B+
+******
+
+3
+******
+3
+
+A
+******
+
+3
+******
+3
+
+F
+******
+
+0
+******
+0
+
+3
+0
+3
+
+C
+F
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+
+41
+
+52
+
+93
+
+F
+
+******
+
+******
+6
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 1 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12216017
+
+7-1-3-01R20
+
+7-8-3-04R20
+
+KOTA MAHITHA
+
+MATHEMATICS-III
+BASIC ELECTRICAL ENGINEERING
+
+16
+14
+
+24
+26
+
+40
+40
+
+P
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+30
+
+50
+
+80
+
+12216019
+
+M NIKHIL
+
+7-1-3-01R20
+
+MATHEMATICS-III
+
+20
+
+29
+
+49
+
+P
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+20
+
+29
+
+49
+
+12216020
+
+7-1-3-01R20
+
+7-8-3-04R20
+
+MALLARAPU SASHANKITHA
+
+MATHEMATICS-III
+BASIC ELECTRICAL ENGINEERING
+
+19
+20
+
+26
+24
+
+45
+44
+
+P
+
+P
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+39
+
+50
+
+89
+
+12216024
+
+7-1-3-01R20
+
+7-8-3-04R20
+
+RISHIL SREE P
+
+MATHEMATICS-III
+BASIC ELECTRICAL ENGINEERING
+
+16
+11
+
+17
+15
+
+33
+26
+
+P
+
+F
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+27
+
+32
+
+59
+
+12316001
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+ADIBOINA MANISH
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+33
+32
+27
+30
+31
+
+36
+35
+36
+68
+
+51
+38
+33
+36
+34
+
+49
+51
+57
+0
+
+84
+70
+60
+66
+65
+
+85
+86
+93
+68
+
+F
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.71                **TOTAL**
+
+***** ***** ***** ******
+328
+
+677
+
+349
+
+P
+
+P
+P
+******
+
+3
+3
+******
+6
+
+C
+******
+
+3
+******
+3
+
+C
+C
+******
+
+F
+F
+******
+
+3
+3
+******
+6
+
+0
+0
+******
+0
+
+3
+4
+3
+3
+3
+
+A+
+B+
+B
+B+
+B+
+
+A+
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 2 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316002
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316003
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+ANJURU UMESH CHANDRA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+21
+22
+21
+12
+20
+
+31
+35
+36
+60
+
+25
+31
+33
+18
+41
+
+49
+44
+54
+0
+
+46
+53
+54
+30
+61
+
+80
+79
+90
+60
+
+P
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+ARIGALA JAGRUTHI
+
+***** ***** ***** ******
+258
+
+553
+
+295
+
+F
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+19
+32
+23
+14
+23
+
+24
+35
+38
+51
+
+49
+37
+42
+19
+24
+
+45
+48
+57
+0
+
+68
+69
+65
+33
+47
+
+69
+83
+95
+51
+
+P
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+259
+
+580
+
+321
+
+F
+
+3
+4
+3
+0
+3
+
+C
+B
+B
+F
+B+
+
+A
+A
+A+
+B
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+3
+4
+3
+0
+3
+
+B+
+B+
+B+
+F
+C
+
+B+
+A+
+O
+B
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 3 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316004
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316005
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+ARLA YASWITHA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+29
+34
+21
+26
+31
+
+36
+35
+38
+74
+
+14
+38
+43
+26
+33
+
+50
+45
+57
+0
+
+43
+72
+64
+52
+64
+
+86
+80
+95
+74
+
+F
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+BAVISETTI AKHIL
+
+***** ***** ***** ******
+324
+
+306
+
+630
+
+F
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+28
+32
+22
+25
+21
+
+33
+36
+38
+79
+
+48
+27
+29
+24
+24
+
+49
+43
+57
+0
+
+76
+59
+51
+49
+45
+
+82
+79
+95
+79
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 6.74                **TOTAL**
+
+***** ***** ***** ******
+314
+
+615
+
+301
+
+P
+
+0
+4
+3
+3
+3
+
+F
+A
+B+
+B
+B+
+
+A+
+A
+O
+A
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+3
+4
+3
+3
+3
+
+A
+B
+B
+C
+C
+
+A+
+A
+O
+A
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 4 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316006
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316007
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+BEKKAM VARUN KUMAR SINGH
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+BODIPEDDA ANAND BLESSON
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+17
+28
+26
+11
+17
+
+30
+33
+38
+62
+
+32
+28
+27
+29
+16
+
+50
+48
+57
+0
+
+49
+56
+53
+40
+33
+
+80
+81
+95
+62
+
+P
+P
+P
+P
+F
+
+P
+P
+P
+P
+
+***** ***** ***** ******
+262
+
+287
+
+549
+
+F
+
+22
+31
+27
+21
+22
+
+34
+37
+39
+71
+
+49
+35
+35
+10
+27
+
+49
+48
+59
+0
+
+71
+66
+62
+31
+49
+
+83
+85
+98
+71
+
+P
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+***** ***** ***** ******
+304
+
+616
+
+312
+
+F
+
+3
+4
+3
+3
+0
+
+C
+B
+B
+P
+F
+
+A
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+3
+4
+3
+0
+3
+
+A
+B+
+B+
+F
+C
+
+A+
+A+
+O
+A
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 5 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316008
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316009
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+BOKAM HARI CHARAN
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+38
+36
+34
+30
+37
+
+37
+38
+39
+69
+
+54
+49
+28
+40
+38
+
+50
+40
+59
+0
+
+92
+85
+62
+70
+75
+
+87
+78
+98
+69
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 8.45                **TOTAL**
+
+C G ABHAY KRISHNA NAIDU
+
+***** ***** ***** ******
+358
+
+358
+
+716
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+30
+34
+23
+24
+35
+
+37
+34
+36
+75
+
+54
+52
+33
+35
+39
+
+53
+42
+54
+0
+
+84
+86
+56
+59
+74
+
+90
+76
+90
+75
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.93                **TOTAL**
+
+***** ***** ***** ******
+328
+
+690
+
+362
+
+P
+
+3
+4
+3
+3
+3
+
+O
+A+
+B+
+B+
+A
+
+A+
+A
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+3
+3
+
+A+
+A+
+B
+B
+A
+
+A+
+A
+A+
+A
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 6 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316011
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316012
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+CHINNATAMBI ASWITHA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+16
+28
+16
+19
+13
+
+30
+34
+36
+64
+
+15
+26
+29
+19
+27
+
+52
+40
+54
+0
+
+31
+54
+45
+38
+40
+
+82
+74
+90
+64
+
+F
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+CIRANDUR SARATH CHANDRA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+CGPA : -
+
+   SGPA : 7.14                **TOTAL**
+
+***** ***** ***** ******
+256
+
+262
+
+518
+
+F
+
+26
+33
+20
+14
+36
+
+34
+36
+38
+65
+
+40
+32
+33
+30
+25
+
+54
+48
+57
+0
+
+66
+65
+53
+44
+61
+
+88
+84
+95
+65
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+***** ***** ***** ******
+302
+
+319
+
+621
+
+P
+
+0
+4
+3
+0
+3
+
+F
+B
+C
+F
+P
+
+A+
+A
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+15.0
+
+3
+4
+3
+3
+3
+
+B+
+B+
+B
+C
+B+
+
+A+
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 7 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316014
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316015
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+ELLELCHERU MUBASSHIRA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+21
+36
+23
+23
+29
+
+37
+34
+36
+69
+
+32
+43
+48
+29
+40
+
+51
+45
+57
+0
+
+53
+79
+71
+52
+69
+
+88
+79
+93
+69
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.55                **TOTAL**
+
+ENDLA JAYAPRAKASH
+
+***** ***** ***** ******
+308
+
+653
+
+345
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+18
+24
+24
+16
+24
+
+30
+35
+39
+71
+
+40
+40
+24
+17
+26
+
+53
+45
+59
+0
+
+58
+64
+48
+33
+50
+
+83
+80
+98
+71
+
+P
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+281
+
+585
+
+304
+
+F
+
+3
+4
+3
+3
+3
+
+B
+A
+A
+B
+B+
+
+A+
+A
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+0
+3
+
+B
+B+
+C
+F
+C
+
+A+
+A
+O
+A
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 8 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316017
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316018
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+HASAVATH MADHU MOHAN NAIK
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+25
+30
+16
+18
+33
+
+33
+36
+36
+72
+
+42
+46
+45
+26
+33
+
+50
+40
+54
+0
+
+67
+76
+61
+44
+66
+
+83
+76
+90
+72
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.31                **TOTAL**
+
+JANJARAPU ALBERT JUSTIN
+
+***** ***** ***** ******
+299
+
+336
+
+635
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+22
+28
+24
+14
+11
+
+30
+32
+33
+62
+
+50
+43
+45
+16
+24
+
+52
+40
+54
+0
+
+72
+71
+69
+30
+35
+
+82
+72
+87
+62
+
+P
+P
+P
+F
+F
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+256
+
+324
+
+580
+
+F
+
+3
+4
+3
+3
+3
+
+B+
+A
+B+
+C
+B+
+
+A+
+A
+A+
+A
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+0
+0
+
+A
+A
+B+
+F
+F
+
+A+
+A
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+15.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 9 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316019
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316021
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+JARUGU VENKATA HEMANTH REDDY
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+9
+14
+7
+2
+14
+
+28
+36
+32
+52
+
+34
+35
+35
+38
+2
+
+46
+45
+51
+0
+
+43
+49
+42
+40
+16
+
+74
+81
+83
+52
+
+P
+P
+P
+P
+F
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KANDUKURI HARINI
+
+***** ***** ***** ******
+194
+
+286
+
+480
+
+F
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+36
+36
+26
+26
+29
+
+24
+38
+39
+68
+
+53
+43
+46
+33
+46
+
+45
+47
+59
+0
+
+89
+79
+72
+59
+75
+
+69
+85
+98
+68
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 8.05                **TOTAL**
+
+***** ***** ***** ******
+322
+
+372
+
+694
+
+P
+
+3
+4
+3
+3
+0
+
+C
+C
+C
+P
+F
+
+A
+A+
+A+
+B
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+3
+4
+3
+3
+3
+
+A+
+A
+A
+B
+A
+
+B+
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 10 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316022
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316025
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+KATARU RAM SAI CHARAN
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+29
+34
+31
+19
+28
+
+37
+36
+38
+65
+
+48
+41
+48
+24
+43
+
+49
+48
+59
+0
+
+77
+75
+79
+43
+71
+
+86
+84
+97
+65
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.90                **TOTAL**
+
+KUDICHETI YOGEESWAR PRASAD
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+317
+
+360
+
+677
+
+P
+
+19
+28
+13
+10
+21
+
+30
+37
+32
+57
+
+-
+-
+-
+-
+0
+
+-
+-
+-
+-
+
+-
+-
+-
+-
+21
+
+-
+-
+-
+-
+
+AL
+AL
+AL
+AL
+F
+
+AL
+AL
+AL
+AL
+
+***** ***** ***** ******
+247
+
+21
+
+AL
+
+0
+
+3
+4
+3
+3
+3
+
+A
+A
+A
+C
+A
+
+A+
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+0
+0
+0
+0
+0
+
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+******
+
+0
+0
+0
+0
+******
+0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 11 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316026
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316027
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+MATAM DEEKSHITHA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+21
+27
+18
+16
+26
+
+30
+35
+32
+49
+
+46
+33
+47
+35
+28
+
+48
+47
+53
+0
+
+67
+60
+65
+51
+54
+
+78
+82
+85
+49
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 6.93                **TOTAL**
+
+MATTAM YUKTHA
+
+***** ***** ***** ******
+254
+
+591
+
+337
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+20
+35
+24
+13
+26
+
+36
+32
+30
+70
+
+50
+45
+48
+41
+24
+
+50
+40
+51
+0
+
+70
+80
+72
+54
+50
+
+86
+72
+81
+70
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.31                **TOTAL**
+
+***** ***** ***** ******
+286
+
+635
+
+349
+
+P
+
+3
+4
+3
+3
+3
+
+B+
+B
+B+
+B
+B
+
+A
+A+
+A+
+C
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+3
+3
+
+B+
+A
+A
+B
+C
+
+A+
+A
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 12 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316029
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316030
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+MODUGALA LAKSHINYA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+26
+30
+20
+21
+26
+
+33
+34
+33
+54
+
+24
+38
+35
+25
+31
+
+52
+48
+51
+0
+
+50
+68
+55
+46
+57
+
+85
+82
+84
+54
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 6.62                **TOTAL**
+
+MUSUKU MALLIKARJUNA
+
+***** ***** ***** ******
+277
+
+304
+
+581
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+29
+33
+24
+23
+33
+
+34
+36
+36
+74
+
+36
+49
+53
+46
+46
+
+50
+49
+54
+0
+
+65
+82
+77
+69
+79
+
+84
+85
+90
+74
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 8.14                **TOTAL**
+
+***** ***** ***** ******
+322
+
+383
+
+705
+
+P
+
+3
+4
+3
+3
+3
+
+C
+B+
+B
+C
+B
+
+A+
+A+
+A+
+B
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+3
+3
+
+B+
+A+
+A
+B+
+A
+
+A+
+A+
+A+
+A
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 13 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316032
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316033
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+PALANENI DHANU NAIDU
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+23
+34
+26
+22
+28
+
+36
+37
+33
+70
+
+27
+44
+30
+26
+31
+
+53
+51
+51
+0
+
+50
+78
+56
+48
+59
+
+89
+88
+84
+70
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 6.81                **TOTAL**
+
+PEDDA PALLI NIKHILESH
+
+***** ***** ***** ******
+309
+
+622
+
+313
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+20
+33
+24
+24
+14
+
+34
+35
+33
+71
+
+47
+44
+44
+28
+34
+
+54
+50
+51
+0
+
+67
+77
+68
+52
+48
+
+88
+85
+84
+71
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.24                **TOTAL**
+
+***** ***** ***** ******
+288
+
+640
+
+352
+
+P
+
+3
+4
+3
+3
+3
+
+C
+A
+B
+C
+B
+
+A+
+A+
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+3
+3
+
+B+
+A
+B+
+B
+C
+
+A+
+A+
+A+
+A
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 14 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316034
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316035
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+POTHURI ABHISHEK NAIDU
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+9
+18
+15
+1
+4
+
+28
+35
+0
+52
+
+4
+AB
+36
+24
+0
+
+55
+50
+57
+0
+
+13
+18
+51
+25
+4
+
+83
+85
+57
+52
+
+F
+F
+P
+F
+F
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+PREETHAM VISTHRI
+
+***** ***** ***** ******
+162
+
+226
+
+388
+
+F
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+18
+32
+20
+12
+23
+
+34
+34
+37
+70
+
+24
+49
+38
+28
+45
+
+54
+52
+58
+0
+
+42
+81
+58
+40
+68
+
+88
+86
+95
+70
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.10                **TOTAL**
+
+***** ***** ***** ******
+280
+
+348
+
+628
+
+P
+
+0
+0
+3
+0
+0
+
+F
+Ab
+B
+F
+F
+
+A+
+A+
+B
+B
+******
+
+1.5
+1.5
+2
+0
+******
+8.0
+
+3
+4
+3
+3
+3
+
+C
+A+
+B
+P
+B+
+
+A+
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 15 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316036
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316037
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+PULUGUJJU AJAY KUMAR
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+21
+31
+24
+21
+26
+
+33
+36
+33
+61
+
+26
+50
+51
+24
+24
+
+50
+51
+51
+0
+
+47
+81
+75
+45
+50
+
+83
+87
+84
+61
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.14                **TOTAL**
+
+SAI TARUN KUNANI
+
+***** ***** ***** ******
+286
+
+613
+
+327
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+28
+35
+36
+23
+32
+
+37
+37
+33
+65
+
+43
+53
+47
+38
+34
+
+51
+50
+51
+0
+
+71
+88
+83
+61
+66
+
+88
+87
+84
+65
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 8.29                **TOTAL**
+
+***** ***** ***** ******
+326
+
+693
+
+367
+
+P
+
+3
+4
+3
+3
+3
+
+C
+A+
+A
+C
+C
+
+A+
+A+
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+3
+3
+
+A
+A+
+A+
+B+
+B+
+
+A+
+A+
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 16 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316038
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316039
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+SANGU HARI KRISHNA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+22
+34
+28
+17
+27
+
+36
+36
+33
+64
+
+45
+33
+44
+35
+24
+
+52
+49
+51
+0
+
+67
+67
+72
+52
+51
+
+88
+85
+84
+64
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.33                **TOTAL**
+
+SREERAM SIVA HARSHITHA
+
+***** ***** ***** ******
+297
+
+333
+
+630
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+22
+36
+26
+25
+33
+
+37
+38
+39
+67
+
+29
+52
+42
+32
+30
+
+53
+50
+57
+0
+
+51
+88
+68
+57
+63
+
+90
+88
+96
+67
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.67                **TOTAL**
+
+***** ***** ***** ******
+323
+
+668
+
+345
+
+P
+
+3
+4
+3
+3
+3
+
+B+
+B+
+A
+B
+B
+
+A+
+A+
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+3
+3
+
+B
+A+
+B+
+B
+B+
+
+A+
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 17 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316040
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316041
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+THANDRA MANIKANTA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+23
+26
+26
+21
+17
+
+32
+36
+39
+52
+
+32
+26
+30
+16
+13
+
+53
+51
+59
+0
+
+55
+52
+56
+37
+30
+
+85
+87
+98
+52
+
+P
+P
+P
+F
+F
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+UPPARA ACHYUTHA SAI
+
+***** ***** ***** ******
+272
+
+280
+
+552
+
+F
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+13
+24
+13
+20
+26
+
+30
+35
+33
+60
+
+11
+40
+36
+27
+35
+
+51
+51
+57
+0
+
+24
+64
+49
+47
+61
+
+81
+86
+90
+60
+
+F
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+254
+
+562
+
+308
+
+F
+
+3
+4
+3
+0
+0
+
+B
+B
+B
+F
+F
+
+A+
+A+
+O
+B
+******
+
+1.5
+1.5
+2
+0
+******
+15.0
+
+0
+4
+3
+3
+3
+
+F
+B+
+C
+C
+B+
+
+A+
+A+
+A+
+B
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 18 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316043
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316044
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+VENKATESWARA RAO AMANCHI
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+31
+36
+32
+27
+34
+
+37
+37
+36
+69
+
+46
+52
+39
+44
+40
+
+49
+49
+57
+0
+
+77
+88
+71
+71
+74
+
+86
+86
+93
+69
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 8.52                **TOTAL**
+
+YEKULA HARSHAVARDHAN
+
+***** ***** ***** ******
+339
+
+715
+
+376
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+16
+29
+21
+20
+25
+
+32
+35
+34
+51
+
+11
+47
+49
+16
+27
+
+53
+50
+57
+0
+
+27
+76
+70
+36
+52
+
+85
+85
+91
+51
+
+F
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+263
+
+573
+
+310
+
+F
+
+3
+4
+3
+3
+3
+
+A
+A+
+A
+A
+A
+
+A+
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+0
+4
+3
+0
+3
+
+F
+A
+B+
+F
+B
+
+A+
+A+
+O
+B
+******
+
+1.5
+1.5
+2
+0
+******
+15.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 19 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316045
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316046
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+YELLAMPALLI DEVI PRIYANKA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+27
+34
+20
+24
+27
+
+36
+34
+32
+74
+
+34
+46
+51
+24
+31
+
+53
+51
+54
+0
+
+61
+80
+71
+48
+58
+
+89
+85
+86
+74
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.38                **TOTAL**
+
+MOKATI JAYANTH
+
+***** ***** ***** ******
+308
+
+652
+
+344
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+19
+36
+26
+23
+31
+
+37
+34
+36
+71
+
+43
+39
+42
+24
+39
+
+49
+49
+57
+0
+
+62
+75
+68
+47
+70
+
+86
+83
+93
+71
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.48                **TOTAL**
+
+***** ***** ***** ******
+313
+
+655
+
+342
+
+P
+
+3
+4
+3
+3
+3
+
+B+
+A
+A
+C
+B
+
+A+
+A+
+A+
+A
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+3
+4
+3
+3
+3
+
+B+
+A
+B+
+C
+B+
+
+A+
+A+
+O
+A
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 20 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316047
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316048
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+G. SANJANA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+17
+30
+27
+13
+29
+
+33
+34
+38
+74
+
+52
+31
+35
+27
+35
+
+53
+48
+57
+0
+
+69
+61
+62
+40
+64
+
+86
+82
+95
+74
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.14                **TOTAL**
+
+GONUGUNTLA ROHITH
+
+***** ***** ***** ******
+295
+
+633
+
+338
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+12
+30
+18
+7
+19
+
+33
+35
+32
+66
+
+19
+38
+7
+11
+27
+
+50
+48
+55
+0
+
+31
+68
+25
+18
+46
+
+83
+83
+87
+66
+
+F
+P
+F
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+252
+
+507
+
+255
+
+F
+
+3
+4
+3
+3
+3
+
+B+
+B+
+B+
+P
+B+
+
+A+
+A+
+O
+A
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+0
+4
+0
+0
+3
+
+F
+B+
+F
+F
+C
+
+A+
+A+
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+12.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 21 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316049
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316050
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+GUNDA NAGESWARA RAO
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+16
+18
+11
+8
+23
+
+27
+35
+32
+55
+
+28
+25
+29
+18
+29
+
+50
+47
+50
+0
+
+44
+43
+40
+26
+52
+
+77
+82
+82
+55
+
+P
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KANCHARLA KONDA BABU
+
+***** ***** ***** ******
+225
+
+276
+
+501
+
+F
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+20
+34
+20
+17
+29
+
+36
+36
+36
+65
+
+44
+41
+36
+24
+34
+
+56
+51
+57
+0
+
+64
+75
+56
+41
+63
+
+92
+87
+93
+65
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.40                **TOTAL**
+
+***** ***** ***** ******
+293
+
+636
+
+343
+
+P
+
+3
+4
+3
+0
+3
+
+C
+C
+P
+F
+B
+
+A
+A+
+A+
+B
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+3
+4
+3
+3
+3
+
+B+
+A
+B
+C
+B+
+
+O
+A+
+O
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 22 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316051
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316052
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+NATTALA AKHIL
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+16
+36
+21
+18
+33
+
+37
+36
+32
+73
+
+15
+46
+52
+28
+41
+
+52
+40
+57
+0
+
+31
+82
+73
+46
+74
+
+89
+76
+89
+73
+
+F
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+302
+
+331
+
+633
+
+F
+
+PENUMARTHI NAGA JAYADEEP KARTHIKEYA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+22
+32
+24
+16
+28
+
+34
+36
+36
+60
+
+35
+35
+37
+28
+41
+
+55
+53
+57
+0
+
+57
+67
+61
+44
+69
+
+89
+89
+93
+60
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 7.14                **TOTAL**
+
+***** ***** ***** ******
+288
+
+341
+
+629
+
+P
+
+0
+4
+3
+3
+3
+
+F
+A+
+A
+C
+A
+
+A+
+A
+A+
+A
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+3
+4
+3
+3
+3
+
+B
+B+
+B+
+C
+B+
+
+A+
+A+
+O
+B
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 23 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316053
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316054
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+V HEMANTH KUMAR
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+11
+30
+18
+13
+24
+
+33
+35
+32
+52
+
+32
+29
+41
+27
+33
+
+52
+55
+50
+0
+
+43
+59
+59
+40
+57
+
+85
+90
+82
+52
+
+P
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : 6.29                **TOTAL**
+
+VELIVELA JHANSI SRI
+
+***** ***** ***** ******
+248
+
+319
+
+567
+
+P
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+11
+32
+16
+11
+27
+
+34
+34
+33
+62
+
+16
+43
+34
+9
+34
+
+54
+50
+53
+0
+
+27
+75
+50
+20
+61
+
+88
+84
+86
+62
+
+F
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+260
+
+293
+
+553
+
+F
+
+3
+4
+3
+3
+3
+
+C
+B
+B
+P
+B
+
+A+
+A+
+A+
+B
+******
+
+1.5
+1.5
+2
+0
+******
+21.0
+
+0
+4
+3
+0
+3
+
+F
+A
+C
+F
+B+
+
+A+
+A+
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+15.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 24 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Third Semester(R20) Regular_Supple Examination, January 2025 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316055
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+12316056
+
+7-1-3-01R20
+
+7-8-3-02R20
+
+7-8-3-03R20
+
+7-8-3-04R20
+
+7-8-3-05R20
+
+7-8-3-R20P1
+
+7-8-3-R20P2
+
+7-8-3-R20S1
+
+7-1-3-R20A1
+
+VAKA KULADEEP REDDY
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+11
+34
+15
+10
+23
+
+36
+33
+34
+65
+
+17
+25
+30
+12
+27
+
+50
+49
+55
+0
+
+28
+59
+45
+22
+50
+
+86
+82
+89
+65
+
+F
+P
+P
+F
+P
+
+P
+P
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KAMINIKONDA SIRICHANDANA
+
+MATHEMATICS-III
+DATABASE MANAGEMENT SYSTEMS
+DISCRETE MATHEMATICAL STRUCTURES
+BASIC ELECTRICAL ENGINEERING
+ELEMENTS OF ELECTRONICS AND COMMUNICATION
+ENGINEERING
+DATABASE MANAGEMENT SYSTEMS LAB
+ELECTRONICS AND COMMUNICATION ENGINEERING LAB
+BASIC PYTHON PROGRAMMING
+CONSTITUTION OF INDIA
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+261
+
+265
+
+526
+
+F
+
+22
+36
+27
+15
+33
+
+37
+34
+39
+76
+
+16
+44
+29
+31
+43
+
+56
+54
+59
+0
+
+38
+80
+56
+46
+76
+
+93
+88
+98
+76
+
+F
+P
+P
+P
+P
+
+P
+P
+P
+P
+
+***** ***** ***** ******
+319
+
+651
+
+332
+
+F
+
+0
+4
+3
+0
+3
+
+F
+B
+C
+F
+C
+
+A+
+A+
+A+
+B+
+******
+
+1.5
+1.5
+2
+0
+******
+15.0
+
+0
+4
+3
+3
+3
+
+F
+A
+B
+C
+A
+
+O
+A+
+O
+A
+******
+
+1.5
+1.5
+2
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Saturday 27 September 2025
+
+Page 25 of  25
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+
+
+==============================
+FILE: sem2.pdf
+==============================
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12116001
+
+A M VAISHNAVI
+
+7-0-1-06R20
+
+ENGINEERING CHEMISTRY
+
+23
+
+32
+
+55
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+23
+
+32
+
+55
+
+12216002
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-2-10R20
+
+ADIGOUNI VENKAT PARTHIV
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+DATA STRUCTURES
+
+24
+16
+27
+
+34
+29
+31
+
+58
+45
+58
+
+P
+
+P
+P
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+67
+
+94
+
+161
+
+12216006
+
+BUKKE DEEKSHITH NAIK
+
+7-0-2-10R20
+
+DATA STRUCTURES
+
+24
+
+38
+
+62
+
+P
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+24
+
+38
+
+62
+
+12216011
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+GURUDAPURI KEERTHI
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+
+16
+4
+28
+0
+
+12
+19
+24
+15
+
+28
+23
+52
+15
+
+P
+
+F
+F
+P
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+48
+
+70
+
+118
+
+12216012
+
+INTURU LAKSHMINARAYANA
+
+7-0-2-10R20
+
+DATA STRUCTURES
+
+32
+
+32
+
+64
+
+F
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+32
+
+32
+
+64
+
+12216016
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-2-10R20
+
+KOLLATHURU MUNI VISHNU
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+DATA STRUCTURES
+
+12
+16
+30
+
+11
+31
+24
+
+23
+47
+54
+
+P
+
+F
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+
+58
+
+66
+
+124
+
+F
+
+B
+******
+
+4
+******
+4
+
+B
+C
+B
+******
+
+4
+4
+3
+******
+11
+
+B+
+******
+
+3
+******
+3
+
+F
+F
+B
+F
+******
+
+0
+0
+3
+0
+******
+3
+
+B+
+******
+
+3
+******
+3
+
+F
+C
+B
+******
+
+0
+4
+3
+******
+7
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 1 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12216017
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+KOTA MAHITHA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+
+23
+11
+26
+23
+
+14
+29
+25
+17
+
+37
+40
+51
+40
+
+F
+P
+P
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+83
+
+85
+
+168
+
+12216019
+
+M NIKHIL
+
+7-0-2-01R20
+
+MATHEMATICS - II
+
+22
+
+15
+
+37
+
+F
+
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+22
+
+15
+
+37
+
+12216024
+
+RISHIL SREE P
+
+7-0-1-06R20
+
+ENGINEERING CHEMISTRY
+
+9
+
+48
+
+57
+
+F
+
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+9
+
+48
+
+57
+
+12216026
+
+SHAIK AHAMED SAHIR
+
+7-0-1-05R20
+
+ENGINEERING GRAPHICS AND DESIGN
+
+28
+
+37
+
+65
+
+P
+
+P
+
+***** ***** ***** ******
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+28
+
+37
+
+65
+
+12216028
+
+THATIGUTLA ROHITH KUMAR REDDY
+
+7-0-1-06R20
+
+ENGINEERING CHEMISTRY
+
+13
+
+36
+
+49
+
+P
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+13
+
+36
+
+49
+
+12216031
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+VULLIPAYALA PREM
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+
+27
+21
+
+24
+41
+
+51
+62
+
+P
+
+P
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+
+48
+
+65
+
+113
+
+P
+
+F
+P
+B
+F
+******
+
+0
+4
+3
+0
+******
+7
+
+F
+******
+
+0
+******
+0
+
+B
+******
+
+4
+******
+4
+
+B+
+******
+
+3.5
+******
+3.5
+
+C
+******
+
+4
+******
+4
+
+B
+B+
+******
+
+4
+4
+******
+8
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 2 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316001
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316002
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316003
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+ADIBOINA MANISH
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.66                **TOTAL**
+
+ANJURU UMESH CHANDRA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.16                **TOTAL**
+
+ARIGALA JAGRUTHI
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.11                **TOTAL**
+
+30
+40
+36
+26
+37
+38
+30
+
+28
+41
+29
+32
+51
+55
+38
+
+58
+81
+65
+58
+88
+93
+68
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+237
+
+274
+
+511
+
+P
+
+33
+21
+35
+21
+33
+37
+32
+
+46
+35
+25
+24
+55
+50
+39
+
+79
+56
+60
+45
+88
+87
+71
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+212
+
+486
+
+274
+
+P
+
+24
+24
+36
+28
+33
+18
+30
+
+37
+30
+30
+35
+47
+55
+42
+
+61
+54
+66
+63
+80
+73
+72
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+193
+
+469
+
+276
+
+P
+
+B
+A+
+B+
+B
+A+
+O
+B+
+******
+
+A
+B
+B
+C
+A+
+A+
+A
+******
+
+B+
+B
+B+
+B+
+A
+A
+A
+******
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 3 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316004
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316005
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316006
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+ARLA YASWITHA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+BAVISETTI AKHIL
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.32                **TOTAL**
+
+BEKKAM VARUN KUMAR SINGH
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.79                **TOTAL**
+
+24
+19
+37
+24
+24
+35
+28
+
+41
+34
+26
+32
+17
+55
+46
+
+65
+53
+63
+56
+41
+90
+74
+
+P
+P
+P
+P
+F
+P
+P
+
+***** ***** ***** ******
+191
+
+442
+
+251
+
+F
+
+21
+32
+37
+28
+30
+38
+28
+
+28
+26
+32
+28
+29
+55
+49
+
+49
+58
+69
+56
+59
+93
+77
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+214
+
+247
+
+461
+
+P
+
+22
+30
+35
+24
+37
+36
+28
+
+24
+25
+31
+27
+45
+50
+51
+
+46
+55
+66
+51
+82
+86
+79
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+212
+
+253
+
+465
+
+P
+
+B+
+B
+B+
+B
+F
+A+
+A
+******
+
+C
+B
+B+
+B
+B
+O
+A
+******
+
+C
+B
+B+
+B
+A+
+A+
+A
+******
+
+4
+4
+2
+3
+0
+1.5
+1
+******
+15.5
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 4 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316007
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316008
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316009
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+BODIPEDDA ANAND BLESSON
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.53                **TOTAL**
+
+BOKAM HARI CHARAN
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 8.76                **TOTAL**
+
+C G ABHAY KRISHNA NAIDU
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+23
+18
+35
+29
+25
+37
+26
+
+30
+32
+24
+26
+49
+54
+43
+
+53
+50
+59
+55
+74
+91
+69
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+193
+
+258
+
+451
+
+P
+
+33
+40
+36
+30
+37
+37
+32
+
+60
+51
+29
+28
+47
+56
+45
+
+93
+91
+65
+58
+84
+93
+77
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+245
+
+316
+
+561
+
+P
+
+17
+26
+36
+19
+14
+35
+25
+
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+
+17
+26
+36
+19
+14
+35
+25
+
+F
+F
+F
+F
+F
+F
+F
+
+***** ***** ***** ******
+172
+
+172
+
+0
+
+F
+
+B
+C
+B
+B
+A
+O
+B+
+******
+
+O
+O
+B+
+B
+A+
+O
+A
+******
+
+Ab
+Ab
+Ab
+Ab
+Ab
+Ab
+Ab
+******
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+0
+0
+0
+0
+0
+0
+0
+******
+0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 5 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316011
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316012
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316014
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+CHINNATAMBI ASWITHA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+CIRANDUR SARATH CHANDRA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.37                **TOTAL**
+
+ELLELCHERU MUBASSHIRA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.34                **TOTAL**
+
+16
+21
+38
+20
+16
+38
+33
+
+17
+18
+11
+24
+6
+58
+43
+
+33
+39
+49
+44
+22
+96
+76
+
+F
+F
+F
+P
+F
+P
+P
+
+***** ***** ***** ******
+182
+
+359
+
+177
+
+F
+
+25
+32
+38
+17
+31
+38
+27
+
+42
+43
+24
+24
+46
+56
+46
+
+67
+75
+62
+41
+77
+94
+73
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+208
+
+281
+
+489
+
+P
+
+18
+28
+37
+26
+24
+38
+27
+
+27
+34
+25
+26
+25
+54
+48
+
+45
+62
+62
+52
+49
+92
+75
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+198
+
+437
+
+239
+
+P
+
+F
+F
+F
+C
+F
+O
+A
+******
+
+B+
+A
+B+
+C
+A
+O
+A
+******
+
+C
+B+
+B+
+B
+C
+O
+A
+******
+
+0
+0
+0
+3
+0
+1.5
+1
+******
+5.5
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 6 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316015
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316017
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316018
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+ENDLA JAYAPRAKASH
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.79                **TOTAL**
+
+HASAVATH MADHU MOHAN NAIK
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.47                **TOTAL**
+
+JANJARAPU ALBERT JUSTIN
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 5.82                **TOTAL**
+
+22
+30
+38
+26
+20
+35
+26
+
+31
+44
+29
+24
+35
+58
+47
+
+53
+74
+67
+50
+55
+93
+73
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+197
+
+465
+
+268
+
+P
+
+17
+20
+37
+28
+27
+38
+26
+
+30
+28
+25
+31
+44
+56
+49
+
+47
+48
+62
+59
+71
+94
+75
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+193
+
+263
+
+456
+
+P
+
+23
+23
+36
+21
+13
+35
+27
+
+26
+34
+28
+30
+27
+55
+43
+
+49
+57
+64
+51
+40
+90
+70
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+178
+
+421
+
+243
+
+P
+
+B
+A
+B+
+C
+B
+O
+A
+******
+
+C
+C
+B+
+B
+A
+O
+A
+******
+
+C
+B
+B+
+B
+P
+A+
+B+
+******
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 7 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316019
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316021
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316022
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+JARUGU VENKATA HEMANTH REDDY
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KANDUKURI HARINI
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 8.63                **TOTAL**
+
+KATARU RAM SAI CHARAN
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 8.29                **TOTAL**
+
+6
+2
+35
+17
+17
+38
+25
+
+3
+2
+9
+2
+34
+56
+46
+
+9
+4
+44
+19
+51
+94
+71
+
+F
+F
+F
+F
+P
+P
+P
+
+***** ***** ***** ******
+140
+
+152
+
+292
+
+F
+
+35
+36
+36
+35
+31
+38
+32
+
+57
+47
+24
+40
+42
+54
+50
+
+92
+83
+60
+75
+73
+92
+82
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+243
+
+557
+
+314
+
+P
+
+29
+32
+35
+29
+33
+37
+32
+
+53
+40
+27
+34
+52
+57
+43
+
+82
+72
+62
+63
+85
+94
+75
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+227
+
+306
+
+533
+
+P
+
+F
+F
+F
+F
+B
+O
+A
+******
+
+O
+A+
+B
+A
+A
+O
+A+
+******
+
+A+
+A
+B+
+B+
+A+
+O
+A
+******
+
+0
+0
+0
+0
+3.5
+1.5
+1
+******
+6.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 8 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316025
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316026
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316027
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+KUDICHETI YOGEESWAR PRASAD
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+MATAM DEEKSHITHA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.16                **TOTAL**
+
+MATTAM YUKTHA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.61                **TOTAL**
+
+13
+20
+39
+22
+14
+38
+29
+
+16
+19
+14
+28
+27
+58
+42
+
+29
+39
+53
+50
+41
+96
+71
+
+F
+F
+F
+P
+P
+P
+P
+
+***** ***** ***** ******
+175
+
+204
+
+379
+
+F
+
+25
+29
+35
+21
+25
+35
+30
+
+44
+26
+27
+31
+48
+56
+54
+
+69
+55
+62
+52
+73
+91
+84
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+200
+
+286
+
+486
+
+P
+
+20
+22
+38
+19
+24
+38
+30
+
+34
+27
+33
+40
+41
+58
+48
+
+54
+49
+71
+59
+65
+96
+78
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+191
+
+472
+
+281
+
+P
+
+F
+F
+F
+C
+C
+O
+A
+******
+
+B+
+B
+B+
+B
+A
+O
+A+
+******
+
+B
+C
+A
+B
+B+
+O
+A
+******
+
+0
+0
+0
+3
+3.5
+1.5
+1
+******
+9.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 9 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316029
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316030
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316032
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+MODUGALA LAKSHINYA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+MUSUKU MALLIKARJUNA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.66                **TOTAL**
+
+PALANENI DHANU NAIDU
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.92                **TOTAL**
+
+21
+25
+35
+20
+25
+37
+26
+
+32
+33
+18
+36
+35
+54
+46
+
+53
+58
+53
+56
+60
+91
+72
+
+P
+P
+F
+P
+P
+P
+P
+
+***** ***** ***** ******
+189
+
+443
+
+254
+
+F
+
+30
+26
+35
+32
+29
+36
+27
+
+53
+36
+29
+38
+33
+56
+43
+
+83
+62
+64
+70
+62
+92
+70
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+215
+
+503
+
+288
+
+P
+
+16
+23
+36
+26
+27
+36
+28
+
+34
+40
+29
+35
+48
+54
+41
+
+50
+63
+65
+61
+75
+90
+69
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+192
+
+281
+
+473
+
+P
+
+B
+B
+F
+B
+B
+O
+A
+******
+
+A+
+B+
+B+
+B+
+B+
+O
+B+
+******
+
+C
+B+
+B+
+B+
+A
+A+
+B+
+******
+
+4
+4
+0
+3
+3.5
+1.5
+1
+******
+17.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 10 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316033
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316034
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316035
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+PEDDA PALLI NIKHILESH
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+0
+0
+0
+0
+0
+0
+0
+
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+
+0
+0
+0
+0
+0
+0
+0
+
+F
+F
+F
+F
+F
+F
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+0
+
+0
+
+0
+
+POTHURI ABHISHEK NAIDU
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+2
+2
+35
+6
+24
+17
+0
+
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+
+2
+2
+35
+6
+24
+17
+0
+
+F
+
+F
+F
+F
+F
+F
+F
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+86
+
+0
+
+86
+
+PREETHAM VISTHRI
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.42                **TOTAL**
+
+F
+
+P
+P
+P
+P
+P
+P
+P
+
+19
+16
+35
+14
+22
+36
+29
+
+40
+32
+41
+26
+49
+55
+40
+
+59
+48
+76
+40
+71
+91
+69
+
+***** ***** ***** ******
+171
+
+454
+
+283
+
+P
+
+Ab
+Ab
+Ab
+Ab
+Ab
+Ab
+Ab
+******
+
+Ab
+Ab
+Ab
+Ab
+Ab
+Ab
+Ab
+******
+
+B
+C
+A
+P
+A
+O
+B+
+******
+
+0
+0
+0
+0
+0
+0
+0
+******
+0
+
+0
+0
+0
+0
+0
+0
+0
+******
+0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 11 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316036
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316037
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316038
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+PULUGUJJU AJAY KUMAR
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+SAI TARUN KUNANI
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 8.87                **TOTAL**
+
+SANGU HARI KRISHNA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+11
+16
+38
+22
+22
+38
+33
+
+13
+10
+26
+29
+18
+54
+44
+
+24
+26
+64
+51
+40
+92
+77
+
+F
+F
+P
+P
+F
+P
+P
+
+***** ***** ***** ******
+180
+
+374
+
+194
+
+F
+
+36
+39
+36
+31
+37
+35
+30
+
+59
+48
+27
+45
+51
+57
+45
+
+95
+87
+63
+76
+88
+92
+75
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+244
+
+576
+
+332
+
+P
+
+18
+11
+35
+24
+19
+35
+29
+
+40
+12
+24
+28
+48
+54
+39
+
+58
+23
+59
+52
+67
+89
+68
+
+P
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+171
+
+416
+
+245
+
+F
+
+F
+F
+B+
+B
+F
+O
+A
+******
+
+O
+A+
+B+
+A
+A+
+O
+A
+******
+
+B
+F
+B
+B
+B+
+A+
+B+
+******
+
+0
+0
+2
+3
+0
+1.5
+1
+******
+7.5
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+0
+2
+3
+3.5
+1.5
+1
+******
+15.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 12 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316039
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316040
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316041
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+SREERAM SIVA HARSHITHA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.97                **TOTAL**
+
+THANDRA MANIKANTA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.18                **TOTAL**
+
+UPPARA ACHYUTHA SAI
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+29
+23
+35
+30
+28
+36
+31
+
+26
+32
+26
+43
+33
+58
+36
+
+55
+55
+61
+73
+61
+94
+67
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+212
+
+254
+
+466
+
+P
+
+23
+25
+36
+18
+36
+37
+30
+
+40
+31
+24
+33
+47
+55
+43
+
+63
+56
+60
+51
+83
+92
+73
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+205
+
+273
+
+478
+
+P
+
+10
+16
+29
+12
+11
+18
+25
+
+14
+37
+32
+29
+4
+56
+35
+
+24
+53
+61
+41
+15
+74
+60
+
+F
+P
+P
+P
+F
+P
+P
+
+***** ***** ***** ******
+121
+
+328
+
+207
+
+F
+
+B
+B
+B+
+A
+B+
+O
+B+
+******
+
+B+
+B
+B
+B
+A+
+O
+A
+******
+
+F
+B
+B+
+C
+F
+A
+B
+******
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+0
+4
+2
+3
+0
+1.5
+1
+******
+11.5
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 13 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316043
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316044
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316045
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+VENKATESWARA RAO AMANCHI
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.74                **TOTAL**
+
+YEKULA HARSHAVARDHAN
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+YELLAMPALLI DEVI PRIYANKA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+31
+31
+35
+31
+29
+35
+26
+
+41
+48
+24
+52
+41
+54
+34
+
+72
+79
+59
+83
+70
+89
+60
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+218
+
+512
+
+294
+
+P
+
+19
+16
+36
+22
+25
+36
+27
+
+15
+16
+19
+27
+6
+55
+38
+
+34
+32
+55
+49
+31
+91
+65
+
+F
+F
+F
+P
+F
+P
+P
+
+***** ***** ***** ******
+181
+
+357
+
+176
+
+F
+
+20
+27
+36
+24
+22
+35
+28
+
+26
+27
+27
+42
+16
+58
+42
+
+46
+54
+63
+66
+38
+93
+70
+
+P
+P
+P
+P
+F
+P
+P
+
+***** ***** ***** ******
+192
+
+430
+
+238
+
+F
+
+A
+A
+B
+A+
+B+
+A+
+B
+******
+
+F
+F
+F
+C
+F
+O
+B+
+******
+
+C
+B
+B+
+B+
+F
+O
+B+
+******
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+0
+0
+0
+3
+0
+1.5
+1
+******
+5.5
+
+4
+4
+2
+3
+0
+1.5
+1
+******
+15.5
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 14 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech Second Semester(R20) Regular_Supple Examination, August 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316046
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+12316047
+
+7-0-2-01R20
+
+7-0-1-06R20
+
+7-0-1-03R20
+
+7-0-2-10R20
+
+7-0-1-05R20
+
+7-0-1-R20P1
+
+7-0-1-R20P4
+
+MOKATI JAYANTH
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 7.00                **TOTAL**
+
+G. SANJANA
+
+MATHEMATICS - II
+ENGINEERING CHEMISTRY
+ENGLISH
+DATA STRUCTURES
+ENGINEERING GRAPHICS AND DESIGN
+ENGLISH COMMUNICATION LAB
+DATA STRUCTURES LAB
+
+CGPA : -
+
+   SGPA : 6.66                **TOTAL**
+
+24
+23
+35
+24
+36
+36
+25
+
+24
+35
+35
+28
+55
+57
+44
+
+48
+58
+70
+52
+91
+93
+69
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+203
+
+481
+
+278
+
+P
+
+21
+19
+36
+28
+32
+36
+26
+
+25
+41
+33
+37
+37
+58
+54
+
+46
+60
+69
+65
+69
+94
+80
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+198
+
+483
+
+285
+
+P
+
+C
+B
+B+
+B
+O
+O
+B+
+******
+
+C
+B
+B+
+B+
+B+
+O
+A
+******
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+4
+4
+2
+3
+3.5
+1.5
+1
+******
+19.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Wednesday 19 March 2025
+
+Page 15 of  15
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+
+
+==============================
+FILE: sem1.pdf
+==============================
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12116001
+
+A M VAISHNAVI
+
+7-0-1-01R20
+
+MATHEMATICS - I
+
+18
+
+14
+
+32
+
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+18
+
+14
+
+32
+
+12116002
+
+CHINNA SANJEEVAPPAGARI SWAROOP KUMAR
+
+7-0-1-07R20
+
+MODERN PHYSICS
+
+5
+
+16
+
+21
+
+F
+
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+5
+
+16
+
+21
+
+12116009
+
+DUDDU BHANU YASWANTH REDDY
+
+7-0-1-08R20
+
+PROGRAMMING FOR PROBLEM SOLVING
+
+34
+
+47
+
+81
+
+F
+
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+34
+
+47
+
+81
+
+12116010
+
+BOMMANA HARSHAVARDHAN
+
+7-0-1-07R20
+
+MODERN PHYSICS
+
+8
+
+7
+
+15
+
+P
+
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+12116011
+
+BOVILLA SAKETH SIMHA REDDY
+
+7-0-1-07R20
+
+MODERN PHYSICS
+
+***** ***** ***** ******
+
+8
+
+36
+
+7
+
+2
+
+15
+
+38
+
+F
+
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+36
+
+2
+
+38
+
+12116024
+
+J M HARSHAVARDHAN
+
+7-0-1-07R20
+
+MODERN PHYSICS
+
+22
+
+24
+
+46
+
+F
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+22
+
+24
+
+46
+
+12116035
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+KOTRAMANGALAM DIL VENKAT SAI
+
+MATHEMATICS - I
+MODERN PHYSICS
+
+27
+5
+
+12
+2
+
+39
+7
+
+P
+
+F
+F
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+
+32
+
+14
+
+46
+
+F
+
+F
+******
+
+0
+******
+0
+
+F
+******
+
+0
+******
+0
+
+A+
+******
+
+3
+******
+3
+
+F
+******
+
+0
+******
+0
+
+F
+******
+
+0
+******
+0
+
+C
+******
+
+4
+******
+4
+
+F
+F
+******
+
+0
+0
+******
+0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 1 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12216002
+
+7-0-1-01R20
+
+7-0-1-08R20
+
+ADIGOUNI VENKAT PARTHIV
+
+MATHEMATICS - I
+PROGRAMMING FOR PROBLEM SOLVING
+
+24
+26
+
+13
+33
+
+37
+59
+
+F
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+50
+
+46
+
+96
+
+12216006
+
+BUKKE DEEKSHITH NAIK
+
+7-0-1-01R20
+
+MATHEMATICS - I
+
+8
+
+26
+
+34
+
+F
+
+F
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+
+8
+
+26
+
+34
+
+F
+
+F
+B
+******
+
+0
+3
+******
+3
+
+F
+******
+
+0
+******
+0
+
+12216007
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+CHADUVULA RAHUL
+
+MATHEMATICS - I
+MODERN PHYSICS
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+12216008
+
+DANDU LAKSHMI PRASAD
+
+7-0-1-01R20
+
+MATHEMATICS - I
+
+16
+16
+
+-
+0
+
+-
+16
+
+AL
+F
+
+***** ***** ***** ******
+
+32
+
+0
+
+16
+
+AL
+
+0
+0
+******
+0
+
+-
+-
+******
+
+24
+
+26
+
+50
+
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+24
+
+26
+
+50
+
+12216011
+
+GURUDAPURI KEERTHI
+
+7-0-1-01R20
+
+MATHEMATICS - I
+
+7
+
+18
+
+25
+
+P
+
+F
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+7
+
+18
+
+25
+
+12216012
+
+INTURU LAKSHMINARAYANA
+
+7-0-1-01R20
+
+MATHEMATICS - I
+
+17
+
+33
+
+50
+
+F
+
+P
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+17
+
+33
+
+50
+
+12216013
+
+K C BHARGAVI
+
+7-0-1-07R20
+
+MODERN PHYSICS
+
+16
+
+5
+
+21
+
+P
+
+F
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+
+16
+
+5
+
+21
+
+F
+
+***** ***** ***** ******
+
+C
+******
+
+4
+******
+4
+
+F
+******
+
+0
+******
+0
+
+C
+******
+
+4
+******
+4
+
+F
+******
+
+0
+******
+0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 2 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12216015
+
+7-0-1-01R20
+
+7-0-1-R20P3
+
+12216016
+
+7-0-1-01R20
+
+7-0-1-11R20
+
+12216017
+
+7-0-1-01R20
+
+7-0-1-08R20
+
+KAVANURU CHANDISHKUMAR
+
+MATHEMATICS - I
+PROGRAMMING FOR PROBLEM SOLVING LAB
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KOLLATHURU MUNI VISHNU
+
+MATHEMATICS - I
+PROBABILITY & STATISTICS
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KOTA MAHITHA
+
+MATHEMATICS - I
+PROGRAMMING FOR PROBLEM SOLVING
+
+7
+27
+
+14
+48
+
+21
+75
+
+F
+P
+
+***** ***** ***** ******
+
+34
+
+62
+
+96
+
+F
+
+3
+16
+
+0
+-
+
+3
+-
+
+F
+AL
+
+***** ***** ***** ******
+
+19
+
+0
+
+3
+
+AL
+
+18
+8
+
+18
+49
+
+36
+57
+
+F
+P
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+26
+
+67
+
+93
+
+12216019
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+M NIKHIL
+
+MATHEMATICS - I
+MODERN PHYSICS
+
+10
+10
+
+18
+4
+
+28
+14
+
+F
+
+F
+F
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+20
+
+22
+
+42
+
+12216022
+
+MANNEPALLI ABHILASH
+
+7-0-1-01R20
+
+MATHEMATICS - I
+
+21
+
+18
+
+39
+
+F
+
+F
+
+***** ***** ***** ******
+
+***** ***** ***** ******
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+21
+
+18
+
+39
+
+12216024
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+RISHIL SREE P
+
+MATHEMATICS - I
+MODERN PHYSICS
+
+16
+9
+
+17
+4
+
+33
+13
+
+F
+
+F
+F
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+***** ***** ***** ******
+
+25
+
+21
+
+46
+
+F
+
+F
+A
+******
+
+-
+-
+******
+
+F
+B
+******
+
+F
+F
+******
+
+0
+1.5
+******
+1.5
+
+0
+0
+******
+0
+
+0
+3
+******
+3
+
+0
+0
+******
+0
+
+F
+******
+
+0
+******
+0
+
+F
+F
+******
+
+0
+0
+******
+0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 3 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316001
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316002
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316003
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+ADIBOINA MANISH
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 7.53                **TOTAL**
+
+ANJURU UMESH CHANDRA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.42                **TOTAL**
+
+ARIGALA JAGRUTHI
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.33                **TOTAL**
+
+28
+23
+30
+24
+33
+28
+94
+
+47
+49
+32
+40
+54
+30
+0
+
+75
+72
+62
+64
+87
+58
+94
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+260
+
+512
+
+252
+
+P
+
+28
+16
+28
+20
+36
+35
+69
+
+31
+38
+29
+33
+52
+44
+0
+
+59
+54
+57
+53
+88
+79
+69
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+232
+
+227
+
+459
+
+P
+
+20
+25
+30
+19
+35
+30
+76
+
+24
+30
+28
+44
+51
+38
+0
+
+44
+55
+58
+63
+86
+68
+76
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+235
+
+215
+
+450
+
+P
+
+A
+A
+B+
+B+
+A+
+B
+O
+******
+
+B
+B
+B
+B
+A+
+A
+B+
+******
+
+C
+B
+B
+B+
+A+
+B+
+A
+******
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 4 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316004
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316005
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316006
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+ARLA YASWITHA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.47                **TOTAL**
+
+BAVISETTI AKHIL
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 7.44                **TOTAL**
+
+BEKKAM VARUN KUMAR SINGH
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.89                **TOTAL**
+
+17
+21
+32
+26
+36
+28
+90
+
+30
+31
+28
+50
+53
+32
+0
+
+47
+52
+60
+76
+89
+60
+90
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+250
+
+224
+
+474
+
+P
+
+27
+27
+30
+27
+34
+30
+89
+
+50
+37
+25
+53
+50
+38
+0
+
+77
+64
+55
+80
+84
+68
+89
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+264
+
+253
+
+517
+
+P
+
+27
+24
+34
+24
+36
+35
+86
+
+36
+24
+32
+40
+54
+48
+0
+
+63
+48
+66
+64
+90
+83
+86
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+266
+
+234
+
+500
+
+P
+
+C
+B
+B
+A
+A+
+B
+A+
+******
+
+A
+B+
+B
+A
+A+
+B+
+A+
+******
+
+B+
+C
+B+
+B+
+A+
+A+
+A+
+******
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 5 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316007
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316008
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316009
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+BODIPEDDA ANAND BLESSON
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+BOKAM HARI CHARAN
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 9.44                **TOTAL**
+
+C G ABHAY KRISHNA NAIDU
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+16
+19
+32
+16
+36
+32
+73
+
+37
+8
+24
+50
+49
+40
+0
+
+53
+27
+56
+66
+85
+72
+73
+
+P
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+224
+
+208
+
+432
+
+F
+
+39
+39
+34
+37
+36
+35
+91
+
+54
+50
+48
+55
+50
+50
+0
+
+93
+89
+82
+92
+86
+85
+91
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+311
+
+307
+
+618
+
+P
+
+16
+21
+26
+16
+36
+30
+48
+
+24
+11
+35
+52
+51
+34
+0
+
+40
+32
+61
+68
+87
+64
+48
+
+P
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+193
+
+400
+
+207
+
+F
+
+B
+F
+B
+B+
+A+
+A
+A
+******
+
+O
+A+
+A+
+O
+A+
+A+
+O
+******
+
+P
+F
+B+
+B+
+A+
+B+
+C
+******
+
+4
+0
+3
+4
+1.5
+1.5
+0
+******
+14.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+0
+3
+4
+1.5
+1.5
+0
+******
+14.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 6 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316010
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316011
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316012
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+CHANDAMURI HARSHA VARDHAN REDDY
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+CHINNATAMBI ASWITHA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+CIRANDUR SARATH CHANDRA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.89                **TOTAL**
+
+9
+18
+28
+13
+35
+28
+84
+
+9
+10
+30
+35
+54
+28
+0
+
+18
+28
+58
+48
+89
+56
+84
+
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+215
+
+381
+
+166
+
+F
+
+10
+16
+31
+28
+36
+30
+66
+
+15
+14
+24
+28
+52
+32
+0
+
+25
+30
+55
+56
+88
+62
+66
+
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+217
+
+165
+
+382
+
+F
+
+20
+30
+31
+24
+36
+35
+60
+
+24
+40
+37
+45
+54
+48
+0
+
+44
+70
+68
+69
+90
+83
+60
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+236
+
+248
+
+484
+
+P
+
+F
+F
+B
+C
+A+
+B
+A+
+******
+
+F
+F
+B
+B
+A+
+B+
+B+
+******
+
+C
+B+
+B+
+B+
+A+
+A+
+B
+******
+
+0
+0
+3
+4
+1.5
+1.5
+0
+******
+10.0
+
+0
+0
+3
+4
+1.5
+1.5
+0
+******
+10.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 7 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316014
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316015
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316017
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+ELLELCHERU MUBASSHIRA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+ENDLA JAYAPRAKASH
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+HASAVATH MADHU MOHAN NAIK
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 5.97                **TOTAL**
+
+11
+21
+30
+10
+36
+30
+81
+
+17
+19
+18
+38
+52
+34
+0
+
+28
+40
+48
+48
+88
+64
+81
+
+F
+F
+F
+P
+P
+P
+P
+
+***** ***** ***** ******
+219
+
+178
+
+397
+
+F
+
+11
+16
+29
+12
+35
+28
+80
+
+29
+24
+14
+31
+53
+28
+0
+
+40
+40
+43
+43
+88
+56
+80
+
+P
+P
+F
+P
+P
+P
+P
+
+***** ***** ***** ******
+211
+
+390
+
+179
+
+F
+
+20
+16
+32
+23
+36
+30
+85
+
+28
+26
+28
+35
+55
+38
+0
+
+48
+42
+60
+58
+91
+68
+85
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+242
+
+452
+
+210
+
+P
+
+F
+F
+F
+C
+A+
+B+
+A+
+******
+
+P
+P
+F
+C
+A+
+B
+A
+******
+
+C
+C
+B
+B
+O
+B+
+A+
+******
+
+0
+0
+0
+4
+1.5
+1.5
+0
+******
+7.0
+
+4
+4
+0
+4
+1.5
+1.5
+0
+******
+15.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 8 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316018
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316019
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316021
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+JANJARAPU ALBERT JUSTIN
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.28                **TOTAL**
+
+JARUGU VENKATA HEMANTH REDDY
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+KANDUKURI HARINI
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 8.42                **TOTAL**
+
+21
+20
+32
+30
+34
+30
+80
+
+29
+26
+29
+40
+52
+40
+0
+
+50
+46
+61
+70
+86
+70
+80
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+247
+
+216
+
+463
+
+P
+
+16
+14
+32
+7
+35
+28
+75
+
+24
+29
+19
+27
+54
+30
+0
+
+40
+43
+51
+34
+89
+58
+75
+
+P
+P
+F
+F
+P
+P
+P
+
+***** ***** ***** ******
+207
+
+390
+
+183
+
+F
+
+31
+31
+34
+30
+36
+28
+86
+
+54
+51
+36
+52
+53
+30
+0
+
+85
+82
+70
+82
+89
+58
+86
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+276
+
+552
+
+276
+
+P
+
+C
+C
+B+
+B+
+A+
+B+
+A
+******
+
+P
+C
+F
+F
+A+
+B
+A
+******
+
+A+
+A+
+B+
+A+
+A+
+B
+A+
+******
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+4
+0
+0
+1.5
+1.5
+0
+******
+11.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 9 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316022
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316025
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316026
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+KATARU RAM SAI CHARAN
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 7.53                **TOTAL**
+
+KUDICHETI YOGEESWAR PRASAD
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+MATAM DEEKSHITHA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+21
+24
+32
+25
+35
+28
+85
+
+51
+39
+37
+51
+52
+30
+0
+
+72
+63
+69
+76
+87
+58
+85
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+250
+
+510
+
+260
+
+P
+
+13
+18
+31
+22
+36
+30
+79
+
+18
+16
+32
+30
+54
+39
+0
+
+31
+34
+63
+52
+90
+69
+79
+
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+229
+
+189
+
+418
+
+F
+
+16
+17
+31
+6
+35
+28
+76
+
+18
+25
+12
+34
+55
+28
+0
+
+34
+42
+43
+40
+90
+56
+76
+
+F
+P
+F
+P
+P
+P
+P
+
+***** ***** ***** ******
+209
+
+381
+
+172
+
+F
+
+A
+B+
+B+
+A
+A+
+B
+A+
+******
+
+F
+F
+B+
+B
+A+
+B+
+A
+******
+
+F
+C
+F
+P
+A+
+B
+A
+******
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+0
+0
+3
+4
+1.5
+1.5
+0
+******
+10.0
+
+0
+4
+0
+4
+1.5
+1.5
+0
+******
+11.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 10 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316027
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316029
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316030
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+MATTAM YUKTHA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+MODUGALA LAKSHINYA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.06                **TOTAL**
+
+MUSUKU MALLIKARJUNA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 7.86                **TOTAL**
+
+17
+19
+34
+17
+36
+35
+76
+
+18
+14
+24
+35
+55
+40
+0
+
+35
+33
+58
+52
+91
+75
+76
+
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+234
+
+186
+
+420
+
+F
+
+18
+18
+30
+16
+36
+28
+69
+
+25
+30
+33
+40
+56
+30
+0
+
+43
+48
+63
+56
+92
+58
+69
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+215
+
+429
+
+214
+
+P
+
+28
+28
+34
+37
+36
+32
+86
+
+38
+42
+43
+50
+54
+40
+0
+
+66
+70
+77
+87
+90
+72
+86
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+281
+
+267
+
+548
+
+P
+
+F
+F
+B
+B
+O
+A
+A
+******
+
+C
+C
+B+
+B
+O
+B
+B+
+******
+
+B+
+B+
+A
+A+
+A+
+A
+A+
+******
+
+0
+0
+3
+4
+1.5
+1.5
+0
+******
+10.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 11 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316032
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316033
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316034
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+PALANENI DHANU NAIDU
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.67                **TOTAL**
+
+PEDDA PALLI NIKHILESH
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 5.89                **TOTAL**
+
+POTHURI ABHISHEK NAIDU
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+20
+21
+31
+21
+36
+34
+84
+
+31
+24
+35
+40
+53
+49
+0
+
+51
+45
+66
+61
+89
+83
+84
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+247
+
+232
+
+479
+
+P
+
+18
+16
+24
+16
+35
+33
+73
+
+24
+24
+26
+45
+50
+48
+0
+
+42
+40
+50
+61
+85
+81
+73
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+215
+
+432
+
+217
+
+P
+
+21
+0
+30
+16
+36
+35
+75
+
+33
+24
+24
+51
+54
+50
+0
+
+54
+24
+54
+67
+90
+85
+75
+
+P
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+213
+
+449
+
+236
+
+F
+
+B
+C
+B+
+B+
+A+
+A+
+A+
+******
+
+C
+P
+C
+B+
+A+
+A+
+A
+******
+
+B
+F
+B
+B+
+A+
+A+
+A
+******
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+0
+3
+4
+1.5
+1.5
+0
+******
+14.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 12 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316035
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316036
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316037
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+PREETHAM VISTHRI
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.58                **TOTAL**
+
+PULUGUJJU AJAY KUMAR
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+SAI TARUN KUNANI
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 8.67                **TOTAL**
+
+22
+18
+31
+19
+36
+32
+89
+
+35
+28
+33
+44
+56
+38
+0
+
+57
+46
+64
+63
+92
+70
+89
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+247
+
+234
+
+481
+
+P
+
+16
+18
+27
+16
+35
+32
+48
+
+18
+8
+41
+45
+54
+40
+0
+
+34
+26
+68
+61
+89
+72
+48
+
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+192
+
+206
+
+398
+
+F
+
+36
+36
+32
+32
+36
+30
+85
+
+57
+41
+39
+50
+52
+36
+0
+
+93
+77
+71
+82
+88
+66
+85
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+287
+
+562
+
+275
+
+P
+
+B
+C
+B+
+B+
+O
+B+
+A+
+******
+
+F
+F
+B+
+B+
+A+
+A
+C
+******
+
+O
+A
+A
+A+
+A+
+B+
+A+
+******
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+0
+0
+3
+4
+1.5
+1.5
+0
+******
+10.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 13 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316038
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316039
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316040
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+SANGU HARI KRISHNA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 7.22                **TOTAL**
+
+SREERAM SIVA HARSHITHA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+THANDRA MANIKANTA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+24
+22
+31
+20
+36
+32
+85
+
+39
+28
+51
+45
+56
+40
+0
+
+63
+50
+82
+65
+92
+72
+85
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+250
+
+259
+
+509
+
+P
+
+19
+19
+32
+23
+36
+30
+89
+
+28
+10
+28
+52
+56
+35
+0
+
+47
+29
+60
+75
+92
+65
+89
+
+P
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+248
+
+209
+
+457
+
+F
+
+20
+16
+30
+17
+36
+28
+56
+
+32
+11
+32
+40
+55
+28
+0
+
+52
+27
+62
+57
+91
+56
+56
+
+P
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+203
+
+401
+
+198
+
+F
+
+B+
+C
+A+
+B+
+O
+A
+A+
+******
+
+C
+F
+B
+A
+O
+B+
+A+
+******
+
+B
+F
+B+
+B
+O
+B
+B
+******
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+0
+3
+4
+1.5
+1.5
+0
+******
+14.0
+
+4
+0
+3
+4
+1.5
+1.5
+0
+******
+14.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 14 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316041
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316043
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316044
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+UPPARA ACHYUTHA SAI
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+VENKATESWARA RAO AMANCHI
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 8.31                **TOTAL**
+
+YEKULA HARSHAVARDHAN
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+13
+16
+26
+16
+36
+28
+81
+
+18
+11
+50
+45
+53
+30
+0
+
+31
+27
+76
+61
+89
+58
+81
+
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+216
+
+207
+
+423
+
+F
+
+33
+32
+32
+37
+36
+28
+85
+
+31
+51
+53
+50
+52
+30
+0
+
+64
+83
+85
+87
+88
+58
+85
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+283
+
+550
+
+267
+
+P
+
+16
+16
+32
+16
+35
+34
+80
+
+18
+9
+51
+48
+51
+40
+0
+
+34
+25
+83
+64
+86
+74
+80
+
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+229
+
+446
+
+217
+
+F
+
+F
+F
+A
+B+
+A+
+B
+A+
+******
+
+B+
+A+
+A+
+A+
+A+
+B
+A+
+******
+
+F
+F
+A+
+B+
+A+
+A
+A
+******
+
+0
+0
+3
+4
+1.5
+1.5
+0
+******
+10.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+0
+0
+3
+4
+1.5
+1.5
+0
+******
+10.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 15 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+SRI VENKATESWARA UNIVERSITY , TIRUPATHI
+
+TIRUPATI-517502,(A. P.) INDIA
+     EXAMINATION BRANCH
+
+CSESS
+
+B.Tech First Semester(R20) Regular_Supple Examination, February 2024 Results
+
+SUBCODE
+
+SUBNAME
+
+IM EM
+
+TOTAL RESULT CREDITS
+
+GRADE
+
+12316045
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316046
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+12316047
+
+7-0-1-01R20
+
+7-0-1-07R20
+
+7-0-1-08R20
+
+7-0-1-11R20
+
+7-0-1-R20P2
+
+7-0-1-R20P3
+
+7-0-1-12R20
+
+YELLAMPALLI DEVI PRIYANKA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 6.56                **TOTAL**
+
+MOKATI JAYANTH
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : 7.28                **TOTAL**
+
+G. SANJANA
+
+MATHEMATICS - I
+MODERN PHYSICS
+PROGRAMMING FOR PROBLEM SOLVING
+PROBABILITY & STATISTICS
+WORKSHOP / MANUFACTURING PRACTICES
+PROGRAMMING FOR PROBLEM SOLVING LAB
+ENVIRONMENTAL SCIENCE
+
+CGPA : -
+
+   SGPA : -                **TOTAL**
+
+18
+19
+31
+20
+35
+30
+93
+
+31
+44
+29
+50
+52
+35
+0
+
+49
+63
+60
+70
+87
+65
+93
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+246
+
+487
+
+241
+
+P
+
+20
+30
+32
+23
+35
+34
+89
+
+26
+44
+40
+45
+52
+48
+0
+
+46
+74
+72
+68
+87
+82
+89
+
+P
+P
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+263
+
+518
+
+255
+
+P
+
+11
+10
+30
+12
+35
+28
+75
+
+16
+12
+24
+37
+55
+28
+0
+
+27
+22
+54
+49
+90
+56
+75
+
+F
+F
+P
+P
+P
+P
+P
+
+***** ***** ***** ******
+201
+
+373
+
+172
+
+F
+
+C
+B+
+B
+B+
+A+
+B+
+O
+******
+
+C
+A
+A
+B+
+A+
+A+
+A+
+******
+
+F
+F
+B
+C
+A+
+B
+A
+******
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+4
+4
+3
+4
+1.5
+1.5
+0
+******
+18.0
+
+0
+0
+3
+4
+1.5
+1.5
+0
+******
+10.0
+
+Read By :
+
+Checked By :
+
+C E :
+
+Thursday 05 September 2024
+
+Page 16 of  16
+
+Note: Any discrepancy in the above entries or between the results published and the marks noted above must be brought
+to the notice of the Controller of Examinations, IMMEDIATELY.
+
+
