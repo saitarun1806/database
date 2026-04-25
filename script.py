@@ -6,6 +6,9 @@ from pdfminer.high_level import extract_text
 PREFIX = "1231"
 
 def parse_pdf(file_path, semester):
+    from pdfminer.high_level import extract_text
+    import re
+
     text = extract_text(file_path)
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 
@@ -13,78 +16,76 @@ def parse_pdf(file_path, semester):
     i = 0
 
     while i < len(lines):
-        line = lines[i]
 
-        # =========================
-        # 🎓 DETECT ONLY 1231 ROLL
-        # =========================
-        if line.startswith(PREFIX) and line.isdigit() and len(line) == 8:
-            roll = line
+        # 🎓 Detect only 1231 roll
+        if re.match(r'^1231\d{4}$', lines[i]):
+            roll = lines[i]
             i += 1
 
-            codes = []
-            names = []
-            im = []
-            em = []
-            total = []
-            result = []
+            block = []
 
-            student_name = "UNKNOWN"
-
-            # =========================
-            # 📘 READ STUDENT BLOCK
-            # =========================
-            while i < len(lines) and not (lines[i].startswith(PREFIX) and lines[i].isdigit()):
-                current = lines[i]
-
-                # subject codes
-                if re.match(r'\d+-\d+-\d+-\w+', current):
-                    codes.append(current)
-
-                # detect student name (long uppercase)
-                elif re.match(r'^[A-Z ]+$', current) and len(current.split()) >= 2:
-                    # ignore headers
-                    if current not in ["SUBCODE", "SUBNAME", "GRADE", "RESULT"]:
-                        student_name = current
-
-                # subject names
-                elif re.match(r'^[A-Z ]+$', current):
-                    names.append(current)
-
-                # numeric values
-                elif current.isdigit():
-                    num = int(current)
-
-                    if len(im) < len(codes):
-                        im.append(num)
-                    elif len(em) < len(codes):
-                        em.append(num)
-                    else:
-                        total.append(num)
-
-                # result values
-                elif current in ["P", "F"]:
-                    result.append(current)
-
+            # 📦 Collect full student block
+            while i < len(lines) and not re.match(r'^1231\d{4}$', lines[i]):
+                block.append(lines[i])
                 i += 1
 
             # =========================
-            # 🔗 COMBINE SUBJECT DATA
+            # 🔍 Extract student name
+            # =========================
+            name = "UNKNOWN"
+            for line in block:
+                if re.match(r'^[A-Z ]+$', line) and len(line.split()) >= 2:
+                    if "CGPA" not in line and "SGPA" not in line:
+                        name = line
+                        break
+
+            # =========================
+            # 🔍 Extract codes
+            # =========================
+            codes = [l for l in block if re.match(r'\d+-\d+-\d+-\w+', l)]
+
+            # =========================
+            # 🔍 Extract subject names
+            # =========================
+            subject_names = []
+            for line in block:
+                if re.match(r'^[A-Z ]+$', line) and len(line.split()) > 1:
+                    if line != name:
+                        subject_names.append(line)
+
+            # =========================
+            # 🔍 Extract numbers
+            # =========================
+            numbers = [int(l) for l in block if l.isdigit()]
+
+            # split numbers into IM, EM, TOTAL
+            n = len(codes)
+            im = numbers[:n]
+            em = numbers[n:2*n]
+            total = numbers[2*n:3*n]
+
+            # =========================
+            # 🔍 Extract result
+            # =========================
+            results = [l for l in block if l in ["P", "F"]]
+
+            # =========================
+            # 🔗 Combine all
             # =========================
             subjects = []
-            for idx in range(len(codes)):
+            for idx in range(n):
                 subjects.append({
                     "code": codes[idx],
-                    "name": names[idx] if idx < len(names) else "",
+                    "name": subject_names[idx] if idx < len(subject_names) else "",
                     "internal": im[idx] if idx < len(im) else 0,
                     "external": em[idx] if idx < len(em) else 0,
                     "total": total[idx] if idx < len(total) else 0,
-                    "result": result[idx] if idx < len(result) else ""
+                    "result": results[idx] if idx < len(results) else ""
                 })
 
             students.append({
                 "roll": roll,
-                "name": student_name,
+                "name": name,
                 "subjects": subjects
             })
 
