@@ -7,7 +7,7 @@ PREFIX = "1231"
 
 
 # =========================
-# 🔹 Extract only relevant pages
+# 🔹 Extract relevant text
 # =========================
 def extract_text_from_pdf(pdf_path):
     text_data = ""
@@ -15,7 +15,6 @@ def extract_text_from_pdf(pdf_path):
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             text = page.extract_text()
-
             if text and PREFIX in text:
                 text_data += "\n" + text
 
@@ -23,7 +22,7 @@ def extract_text_from_pdf(pdf_path):
 
 
 # =========================
-# 🔹 Parse text → students
+# 🔹 Parse one semester
 # =========================
 def parse_text(text):
     lines = [l.strip() for l in text.split("\n") if l.strip()]
@@ -33,7 +32,6 @@ def parse_text(text):
 
     while i < len(lines):
 
-        # 🎓 detect student
         if re.match(r'^1231\d{4}', lines[i]):
 
             parts = lines[i].split(" ", 1)
@@ -47,16 +45,13 @@ def parse_text(text):
 
                 line = lines[i]
 
-                # next student
                 if re.match(r'^1231\d{4}', line):
                     break
 
-                # stop at summary
                 if "CGPA" in line:
                     i += 1
                     break
 
-                # subject row
                 if re.match(r'\d+-\d+-\d+-', line):
 
                     parts = line.split()
@@ -69,7 +64,7 @@ def parse_text(text):
 
                     subject_name = " ".join(parts[1:-6])
 
-                    # 🔥 AL → F
+                    # AL → F
                     if result == "AL":
                         result = "F"
 
@@ -97,79 +92,43 @@ def parse_text(text):
 
 
 # =========================
-# 🔹 MAIN FUNCTION (FIXED)
+# 🔹 MAIN MERGE LOGIC
 # =========================
 def main():
     pdf_folder = "pdfs"
-    data_file = "data.json"
+    all_students = {}
 
-    # =========================
-    # 🔹 Load existing JSON
-    # =========================
-    if os.path.exists(data_file):
-        with open(data_file, "r") as f:
-            existing_data = json.load(f)
-            all_students = {
-                s["roll"]: s for s in existing_data.get("students", [])
-            }
-    else:
-        all_students = {}
+    for file in os.listdir(pdf_folder):
+        if file.endswith(".pdf"):
 
-    # =========================
-    # 🔹 Process ALL PDFs (including subfolders)
-    # =========================
-    for root, dirs, files in os.walk(pdf_folder):
-        for file in files:
-            if file.endswith(".pdf"):
+            semester = file.replace(".pdf", "")
+            file_path = os.path.join(pdf_folder, file)
 
-                # 🔥 detect section (folder name)
-                section = os.path.basename(root)
-                if root == pdf_folder:
-                    section = "MAIN"
+            print(f"Processing {file}...")
 
-                # 🔥 unique semester name (prevents collision)
-                semester = f"{section}_{file.replace('.pdf', '')}"
+            text = extract_text_from_pdf(file_path)
+            students = parse_text(text)
 
-                file_path = os.path.join(root, file)
+            for student in students:
+                roll = student["roll"]
 
-                print(f"📄 Processing {file_path} as {semester}...")
+                if roll not in all_students:
+                    all_students[roll] = {
+                        "roll": roll,
+                        "name": student["name"],
+                        "semesters": {}
+                    }
 
-                text = extract_text_from_pdf(file_path)
-                students = parse_text(text)
+                all_students[roll]["semesters"][semester] = {
+                    "subjects": student["subjects"]
+                }
 
-                for student in students:
-                    roll = student["roll"]
-
-                    # create student if not exists
-                    if roll not in all_students:
-                        all_students[roll] = {
-                            "roll": roll,
-                            "name": student["name"],
-                            "semesters": {}
-                        }
-
-                    # =========================
-                    # 🔥 SAFE MERGE
-                    # =========================
-                    if semester not in all_students[roll]["semesters"]:
-                        all_students[roll]["semesters"][semester] = {
-                            "subjects": student["subjects"]
-                        }
-                        print(f"✅ Added {roll} {semester}")
-                    else:
-                        print(f"⏭ Skipped {roll} {semester}")
-
-    # =========================
-    # 💾 Save final JSON
-    # =========================
-    with open(data_file, "w") as f:
+    # save final JSON
+    with open("data.json", "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("\n🎉 All PDFs processed correctly (including AI)!")
+    print("🎉 All semesters merged successfully!")
 
 
-# =========================
-# 🔹 RUN
-# =========================
 if __name__ == "__main__":
     main()
