@@ -5,105 +5,103 @@ from pdfminer.high_level import extract_text
 
 PREFIX = "1231"
 
-# ✅ Keep AL / - and convert numbers only
-def clean_value(x):
-    x = x.strip()
-
-    if x in ["AL", "-"]:
-        return x
-
-    if x.isdigit():
-        return int(x)
-
-    return x
-
-
 def parse_pdf(file_path, semester):
     text = extract_text(file_path)
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 
-    # 🔍 Find all roll numbers (only 1231)
-    roll_indices = []
-    for i, line in enumerate(lines):
-        if line.startswith(PREFIX) and line.isdigit():
-            roll_indices.append(i)
-
     students = []
+    i = 0
 
-    # =========================
-    # 🔄 Process each student block
-    # =========================
-    for idx in range(len(roll_indices)):
-        start = roll_indices[idx]
-        end = roll_indices[idx + 1] if idx + 1 < len(roll_indices) else len(lines)
-
-        block = lines[start:end]
-        roll = block[0]
+    while i < len(lines):
 
         # =========================
-        # 🧑‍🎓 Extract name
+        # 🎯 Detect two students
         # =========================
-        name = "UNKNOWN"
-        for l in block:
-            if re.match(r'^[A-Z .]+$', l) and len(l.split()) >= 2:
-                if not any(x in l for x in ["CGPA", "SGPA", "TOTAL", "GRADE"]):
-                    name = l
-                    break
+        if (
+            i + 1 < len(lines)
+            and lines[i].startswith(PREFIX)
+            and lines[i+1].startswith(PREFIX)
+        ):
+            roll1 = lines[i]
+            roll2 = lines[i+1]
+            i += 2
 
-        # =========================
-        # 📘 Extract subjects
-        # =========================
-        subjects = []
-        for l in block:
-            if re.match(r'^[A-Z ]+$', l) and l != name:
-                if not any(x in l for x in ["CGPA", "SGPA", "TOTAL", "GRADE"]):
-                    subjects.append(l)
+            # =========================
+            # 📘 Detect SUBJECT COUNT dynamically
+            # =========================
+            codes1 = []
+            while i < len(lines) and re.match(r'\d+-\d+-\d+-\w+', lines[i]):
+                codes1.append(lines[i])
+                i += 1
 
-        n = len(subjects)
+            subject_count = len(codes1)
 
-        # =========================
-        # 🔢 Extract values (IM, EM, TOTAL)
-        # =========================
-        values = [
-            clean_value(l)
-            for l in block
-            if l.isdigit() or l in ["AL", "-"]
-        ]
+            # next same count belongs to student 2
+            codes2 = lines[i:i+subject_count]
+            i += subject_count
 
-        im = values[:n]
-        em = values[n:2*n]
-        total = values[2*n:3*n]
+            # =========================
+            # 🧑‍🎓 NAME + SUBJECTS
+            # =========================
+            name1 = lines[i]; i += 1
+            subjects1 = lines[i:i+subject_count]; i += subject_count
 
-        # =========================
-        # 🔤 Extract results
-        # =========================
-        results = [l for l in block if l in ["P", "F"]]
+            name2 = lines[i]; i += 1
+            subjects2 = lines[i:i+subject_count]; i += subject_count
 
-        # =========================
-        # 🔗 Combine everything
-        # =========================
-        subs = []
-        for i in range(n):
-            subs.append({
-                "name": subjects[i] if i < len(subjects) else "",
-                "internal": im[i] if i < len(im) else "",
-                "external": em[i] if i < len(em) else "",
-                "total": total[i] if i < len(total) else "",
-                "result": results[i] if i < len(results) else ""
-            })
+            # =========================
+            # 🔢 STUDENT 1 MARKS
+            # =========================
+            im1 = lines[i:i+subject_count]; i += subject_count
+            em1 = lines[i:i+subject_count]; i += subject_count
+            total1 = lines[i:i+subject_count]; i += subject_count
+            res1 = lines[i:i+subject_count]; i += subject_count
 
-        students.append({
-            "roll": roll,
-            "name": name,
-            "subjects": subs
-        })
+            # =========================
+            # ⏭️ SKIP TOTAL BLOCK
+            # =========================
+            while i < len(lines) and not lines[i].isdigit():
+                i += 1
+
+            # =========================
+            # 🔢 STUDENT 2 MARKS
+            # =========================
+            im2 = lines[i:i+subject_count]; i += subject_count
+            em2 = lines[i:i+subject_count]; i += subject_count
+            total2 = lines[i:i+subject_count]; i += subject_count
+            res2 = lines[i:i+subject_count]; i += subject_count
+
+            # =========================
+            # 🔗 BUILD FUNCTION
+            # =========================
+            def build(roll, name, codes, subjects, im, em, total, res):
+                subs = []
+                for j in range(subject_count):
+                    subs.append({
+                        "code": codes[j] if j < len(codes) else "",
+                        "name": subjects[j] if j < len(subjects) else "",
+                        "internal": im[j] if j < len(im) else "",
+                        "external": em[j] if j < len(em) else "",
+                        "total": total[j] if j < len(total) else "",
+                        "result": res[j] if j < len(res) else ""
+                    })
+                return {
+                    "roll": roll,
+                    "name": name,
+                    "subjects": subs
+                }
+
+            students.append(build(roll1, name1, codes1, subjects1, im1, em1, total1, res1))
+            students.append(build(roll2, name2, codes2, subjects2, im2, em2, total2, res2))
+
+        else:
+            i += 1
 
     return students
 
 
 def main():
     all_students = {}
-
     pdf_folder = "pdfs"
 
     for file in os.listdir(pdf_folder):
@@ -129,11 +127,10 @@ def main():
                     "subjects": student["subjects"]
                 }
 
-    # 💾 Save final JSON
     with open("data.json", "w") as f:
         json.dump({"students": list(all_students.values())}, f, indent=2)
 
-    print("✅ FINAL data.json generated successfully!")
+    print("✅ data.json generated successfully!")
 
 
 if __name__ == "__main__":
