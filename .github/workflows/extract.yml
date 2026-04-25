@@ -1,11 +1,36 @@
-name: Test Workflow
+name: Extract PDF Data
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'pdfs/*.pdf'
+      - 'script.py'
 
 jobs:
-  test:
+  extract:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Print Hello
-        run: echo "Hello Workflow"
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          pip install pdfplumber
+
+      - name: Run Extraction Script
+        run: python script.py
+
+      - name: Commit JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data.json
+          git commit -m "Auto update data.json" || echo "No changes"
+          git push
