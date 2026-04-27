@@ -1,6 +1,21 @@
 {
   "students": [
     {
+      "roll": "12117012",
+      "name": "CHEKKA SHAIK KHALANDAR",
+      "semesters": {}
+    },
+    {
+      "roll": "12117029",
+      "name": "MELAM AKASH",
+      "semesters": {}
+    },
+    {
+      "roll": "12117044",
+      "name": "S SATHYA RITHVIKAA",
+      "semesters": {}
+    },
+    {
       "roll": "12316001",
       "name": "ADIBOINA MANISH",
       "semesters": {
