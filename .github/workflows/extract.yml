@@ -6,6 +6,7 @@ on:
     paths:
       - 'pdfs/**/*.pdf'   # ✅ includes subfolders like pdfs/ai
       - 'script.py'
+      - 'data.json'
 
 jobs:
   extract:
