@@ -3,12 +3,23 @@ import json
 import re
 import os
 
-
 # =========================
-# 🔹 Accept both roll types
+# 🔹 Accept any 8-digit roll number starting with 12
+# Examples:
+# 12345678
+# 12456789
+# 12999999
 # =========================
 def is_valid_roll(line):
-    return re.match(r'^1231[67]\d+', line)
+    line = line.strip()
+
+    if not line:
+        return False
+
+    # Extract only the first token (roll number)
+    roll = line.split()[0]
+
+    return bool(re.fullmatch(r'12\d{6}', roll))
 
 
 # =========================
@@ -172,7 +183,21 @@ def main():
 
             file_path = os.path.join(root, file)
 
-            semester = os.path.splitext(file)[0]
+            filename = os.path.splitext(file)[0].lower()
+
+            # Extract semester from filenames like:
+            # sem1.pdf
+            # sem1_juniors.pdf
+            # sem1_supply.pdf
+            # sem1_2026.pdf
+            # sem1_juniors_supply.pdf
+            match = re.match(r'^(sem[1-8])', filename)
+            
+            if match:
+                semester = match.group(1)
+            else:
+                # If no semX is found, use the filename as-is
+                semester = filename
 
             print(f"Processing {file_path}...")
 
