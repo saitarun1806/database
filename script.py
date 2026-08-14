@@ -3,7 +3,10 @@ import json
 import re
 import os
 
-# Accept both roll types
+
+# =========================
+# 🔹 Accept both roll types
+# =========================
 def is_valid_roll(line):
     return re.match(r'^1231[67]\d+', line)
 
@@ -54,7 +57,11 @@ def parse_text(text):
                     i += 1
                     break
 
-                if re.match(r'^(?:\d+-\d+-\d+-|R20M\d+)', line):
+                # Supports:
+                # 20-1-101-M
+                # R20M29
+                # R21M45
+                if re.match(r'^(?:\d+-\d+-\d+-|R\d+M\d+)', line):
 
                     parts = line.split()
 
@@ -79,7 +86,7 @@ def parse_text(text):
                             "result": result
                         })
 
-                    except:
+                    except Exception:
                         pass
 
                 i += 1
@@ -97,45 +104,127 @@ def parse_text(text):
 
 
 # =========================
+# 🔹 Merge Subjects
+# Update only if NEW external > OLD external
+# =========================
+def merge_subjects(old_subjects, new_subjects):
+
+    subject_map = {s["code"]: s for s in old_subjects}
+
+    for new in new_subjects:
+
+        code = new["code"]
+
+        if code not in subject_map:
+            subject_map[code] = new
+            continue
+
+        old = subject_map[code]
+
+        try:
+            old_external = int(old["external"])
+        except:
+            old_external = -1
+
+        try:
+            new_external = int(new["external"])
+        except:
+            new_external = -1
+
+        if new_external > old_external:
+            subject_map[code] = new
+
+    return list(subject_map.values())
+
+
+# =========================
 # 🔹 MAIN
 # =========================
 def main():
+
     pdf_folder = "pdfs"
-    all_students = {}
 
+    # -----------------------
+    # Load existing JSON
+    # -----------------------
+    if os.path.exists("data.json"):
+        with open("data.json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        all_students = {
+            s["roll"]: s
+            for s in data.get("students", [])
+        }
+
+        print("Loaded existing data.json")
+    else:
+        all_students = {}
+
+    # -----------------------
+    # Read PDFs
+    # -----------------------
     for root, dirs, files in os.walk(pdf_folder):
+
         for file in files:
-            if file.endswith(".pdf"):
 
-                file_path = os.path.join(root, file)
+            if not file.lower().endswith(".pdf"):
+                continue
 
-                # ✅ Keep semester SAME (sem1, sem2)
-                semester = file.replace(".pdf", "")
+            file_path = os.path.join(root, file)
 
-                print(f"Processing {file_path}...")
+            semester = os.path.splitext(file)[0]
 
-                text = extract_text_from_pdf(file_path)
-                students = parse_text(text)
+            print(f"Processing {file_path}...")
 
-                for student in students:
-                    roll = student["roll"]
+            text = extract_text_from_pdf(file_path)
 
-                    if roll not in all_students:
-                        all_students[roll] = {
-                            "roll": roll,
-                            "name": student["name"],
-                            "semesters": {}
-                        }
+            students = parse_text(text)
 
-                    all_students[roll]["semesters"][semester] = {
+            for student in students:
+
+                roll = student["roll"]
+
+                if roll not in all_students:
+
+                    all_students[roll] = {
+                        "roll": roll,
+                        "name": student["name"],
+                        "semesters": {}
+                    }
+
+                # Update name if empty
+                if all_students[roll].get("name", "") == "UNKNOWN":
+                    all_students[roll]["name"] = student["name"]
+
+                semesters = all_students[roll]["semesters"]
+
+                if semester not in semesters:
+
+                    semesters[semester] = {
                         "subjects": student["subjects"]
                     }
 
-    # Save JSON
-    with open("data.json", "w") as f:
-        json.dump({"students": list(all_students.values())}, f, indent=2)
+                else:
 
-    print("🎉 Done! Both AI & Regular merged correctly.")
+                    old_subjects = semesters[semester]["subjects"]
+
+                    semesters[semester]["subjects"] = merge_subjects(
+                        old_subjects,
+                        student["subjects"]
+                    )
+
+    # -----------------------
+    # Save JSON
+    # -----------------------
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(
+            {"students": list(all_students.values())},
+            f,
+            indent=2,
+            ensure_ascii=False
+        )
+
+    print("🎉 Done! data.json updated successfully.")
 
 
 if __name__ == "__main__":
