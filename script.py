@@ -54,7 +54,7 @@ def parse_text(text):
                     i += 1
                     break
 
-                if re.match(r'\d+-\d+-\d+-', line):
+                if re.match(r'^(?:\d+-\d+-\d+-|R20M\d+)', line):
 
                     parts = line.split()
 
