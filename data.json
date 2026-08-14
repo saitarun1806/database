@@ -349,6 +349,14 @@
               "external": "0",
               "total": "96",
               "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "90",
+              "total": "90",
+              "result": "P"
             }
           ]
         }
@@ -702,6 +710,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "64",
+              "total": "64",
               "result": "P"
             }
           ]
@@ -1057,6 +1073,14 @@
               "external": "0",
               "total": "94",
               "result": "P"
+            },
+            {
+              "code": "R20M29",
+              "name": "THE JOY OF COMPUTING USING PYTHON",
+              "internal": "0",
+              "external": "72",
+              "total": "72",
+              "result": "P"
             }
           ]
         }
@@ -1411,6 +1435,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "68",
+              "total": "68",
+              "result": "P"
             }
           ]
         }
@@ -1764,6 +1796,14 @@
               "internal": "94",
               "external": "0",
               "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "61",
+              "total": "61",
               "result": "P"
             }
           ]
@@ -2321,6 +2361,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "84",
+              "total": "84",
+              "result": "P"
             }
           ]
         }
@@ -2675,6 +2723,14 @@
               "external": "0",
               "total": "94",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "81",
+              "total": "81",
+              "result": "P"
             }
           ]
         }
@@ -3028,6 +3084,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "65",
+              "total": "65",
               "result": "P"
             }
           ]
@@ -3803,6 +3867,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "75",
+              "total": "75",
+              "result": "P"
             }
           ]
         }
@@ -4156,6 +4228,14 @@
               "internal": "94",
               "external": "0",
               "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "85",
+              "total": "85",
               "result": "P"
             }
           ]
@@ -4511,6 +4591,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "76",
+              "total": "76",
+              "result": "P"
             }
           ]
         }
@@ -4864,6 +4952,14 @@
               "internal": "94",
               "external": "0",
               "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "67",
+              "total": "67",
               "result": "P"
             }
           ]
@@ -5927,6 +6023,14 @@
               "external": "0",
               "total": "96",
               "result": "P"
+            },
+            {
+              "code": "R20M29",
+              "name": "THE JOY OF COMPUTING USING PYTHON",
+              "internal": "0",
+              "external": "64",
+              "total": "64",
+              "result": "P"
             }
           ]
         }
@@ -6280,6 +6384,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "78",
+              "total": "78",
               "result": "P"
             }
           ]
@@ -6635,6 +6747,14 @@
               "external": "0",
               "total": "96",
               "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "50",
+              "total": "50",
+              "result": "P"
             }
           ]
         }
@@ -6988,6 +7108,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "48",
+              "total": "48",
               "result": "P"
             }
           ]
@@ -7343,6 +7471,14 @@
               "external": "0",
               "total": "94",
               "result": "P"
+            },
+            {
+              "code": "R20M13",
+              "name": "FORESTS AND THEIR MANAGEMENT",
+              "internal": "0",
+              "external": "75",
+              "total": "75",
+              "result": "P"
             }
           ]
         }
@@ -7696,6 +7832,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M182",
+              "name": "HUMAN COMPUTER INTERACTION (IN ENGLISH)",
+              "internal": "0",
+              "external": "65",
+              "total": "65",
               "result": "P"
             }
           ]
@@ -8051,6 +8195,14 @@
               "external": "0",
               "total": "94",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "69",
+              "total": "69",
+              "result": "P"
             }
           ]
         }
@@ -8404,6 +8556,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "87",
+              "total": "87",
               "result": "P"
             }
           ]
@@ -8759,6 +8919,14 @@
               "external": "0",
               "total": "96",
               "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "78",
+              "total": "78",
+              "result": "P"
             }
           ]
         }
@@ -9112,6 +9280,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "63",
+              "total": "63",
               "result": "P"
             }
           ]
@@ -9467,6 +9643,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "84",
+              "total": "84",
+              "result": "P"
             }
           ]
         }
@@ -9820,6 +10004,14 @@
               "internal": "96",
               "external": "0",
               "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "R20M28",
+              "name": "SOFT SKILLS",
+              "internal": "0",
+              "external": "61",
+              "total": "61",
               "result": "P"
             }
           ]
@@ -10175,6 +10367,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "70",
+              "total": "70",
+              "result": "P"
             }
           ]
         }
@@ -10528,6 +10728,14 @@
               "internal": "96",
               "external": "0",
               "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "56",
+              "total": "56",
               "result": "P"
             }
           ]
@@ -10883,6 +11091,14 @@
               "external": "0",
               "total": "94",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "69",
+              "total": "69",
+              "result": "P"
             }
           ]
         }
@@ -11236,6 +11452,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "57",
+              "total": "57",
               "result": "P"
             }
           ]
@@ -11591,6 +11815,14 @@
               "external": "0",
               "total": "92",
               "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "81",
+              "total": "81",
+              "result": "P"
             }
           ]
         }
@@ -11944,6 +12176,14 @@
               "internal": "93",
               "external": "0",
               "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "82",
+              "total": "82",
               "result": "P"
             }
           ]
@@ -12299,6 +12539,14 @@
               "external": "0",
               "total": "94",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "55",
+              "total": "55",
+              "result": "P"
             }
           ]
         }
@@ -12652,6 +12900,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "64",
+              "total": "64",
               "result": "P"
             }
           ]
@@ -13007,6 +13263,14 @@
               "external": "0",
               "total": "96",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "65",
+              "total": "65",
+              "result": "P"
             }
           ]
         }
@@ -13360,6 +13624,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "46",
+              "total": "46",
               "result": "P"
             }
           ]
@@ -13829,6 +14101,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M07",
+              "name": "DATA ANALYTICS WITH PYTHON",
+              "internal": "0",
+              "external": "55",
+              "total": "55",
+              "result": "P"
             }
           ]
         }
@@ -14062,6 +14342,14 @@
               "internal": "94",
               "external": "0",
               "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "67",
+              "total": "67",
               "result": "P"
             }
           ]
@@ -14297,6 +14585,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "63",
+              "total": "63",
+              "result": "P"
             }
           ]
         }
@@ -14530,6 +14826,14 @@
               "internal": "94",
               "external": "0",
               "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "78",
+              "total": "78",
               "result": "P"
             }
           ]
@@ -14999,6 +15303,14 @@
               "external": "0",
               "total": "95",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "54",
+              "total": "54",
+              "result": "P"
             }
           ]
         }
@@ -15233,6 +15545,14 @@
               "external": "0",
               "total": "94",
               "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "57",
+              "total": "57",
+              "result": "P"
             }
           ]
         }
@@ -15466,6 +15786,14 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "76",
+              "total": "76",
               "result": "P"
             }
           ]
