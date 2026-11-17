@@ -359,6 +359,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "40",
+              "external": "60",
+              "total": "100",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "50",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "41",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "38",
+              "external": "39",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "58",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "85",
+              "external": "0",
+              "total": "85",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -718,6 +802,90 @@
               "internal": "0",
               "external": "64",
               "total": "64",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "34",
+              "external": "52",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "33",
+              "external": "37",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "31",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "32",
+              "external": "32",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "31",
+              "external": "53",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "53",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "51",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "75",
+              "external": "0",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -1083,6 +1251,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "38",
+              "external": "50",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "38",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "36",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "35",
+              "external": "39",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "23",
+              "external": "49",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -1445,6 +1697,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "50",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "46",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "38",
+              "external": "37",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "33",
+              "external": "48",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "58",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "59",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "90",
+              "external": "0",
+              "total": "90",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -1804,6 +2140,90 @@
               "internal": "0",
               "external": "61",
               "total": "61",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "38",
+              "external": "50",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "29",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "36",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "33",
+              "external": "36",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "33",
+              "external": "43",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "81",
+              "external": "0",
+              "total": "81",
               "result": "P"
             }
           ]
@@ -2371,6 +2791,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "36",
+              "external": "45",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "37",
+              "external": "33",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "31",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "32",
+              "external": "40",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "29",
+              "external": "47",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "91",
+              "external": "0",
+              "total": "91",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -2733,6 +3237,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "40",
+              "external": "60",
+              "total": "100",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "39",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "41",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "37",
+              "external": "40",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "35",
+              "external": "52",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "85",
+              "external": "0",
+              "total": "85",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -3092,6 +3680,90 @@
               "internal": "0",
               "external": "65",
               "total": "65",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "45",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "48",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "35",
+              "external": "42",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "35",
+              "external": "47",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "58",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
               "result": "P"
             }
           ]
@@ -3515,6 +4187,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "19",
+              "external": "36",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "35",
+              "external": "29",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "30",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "26",
+              "external": "29",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "22",
+              "external": "33",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "51",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "64",
+              "external": "0",
+              "total": "64",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -3877,6 +4633,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "36",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "0",
+              "total": "39",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "31",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "31",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "52",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "58",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "52",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "70",
+              "external": "-",
+              "total": "-",
+              "result": "F"
+            }
+          ]
         }
       }
     },
@@ -4236,6 +5076,90 @@
               "internal": "0",
               "external": "85",
               "total": "85",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "35",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "42",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "34",
+              "external": "30",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "32",
+              "external": "49",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "56",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "78",
+              "external": "0",
+              "total": "78",
               "result": "P"
             }
           ]
@@ -4601,6 +5525,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "34",
+              "external": "47",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "31",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "33",
+              "external": "43",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "33",
+              "external": "38",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "30",
+              "external": "44",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "33",
+              "external": "52",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -4963,6 +5971,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "39",
+              "external": "51",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "26",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "46",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "39",
+              "external": "36",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "31",
+              "external": "46",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "56",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "58",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "52",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "79",
+              "external": "0",
+              "total": "79",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -5317,6 +6409,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "32",
+              "external": "44",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "32",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "31",
+              "external": "29",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "33",
+              "external": "36",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "28",
+              "external": "41",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "33",
+              "external": "55",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "56",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -5668,6 +6844,90 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "30",
+              "external": "48",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "24",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "27",
+              "external": "31",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "30",
+              "external": "37",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "20",
+              "external": "29",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "32",
+              "external": "54",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "52",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "52",
+              "external": "0",
+              "total": "52",
               "result": "P"
             }
           ]
@@ -6033,6 +7293,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "40",
+              "external": "50",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "51",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "36",
+              "external": "51",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "29",
+              "external": "53",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "88",
+              "external": "0",
+              "total": "88",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -6392,6 +7736,90 @@
               "internal": "0",
               "external": "78",
               "total": "78",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "30",
+              "external": "46",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "31",
+              "external": "43",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "29",
+              "external": "46",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "35",
+              "external": "43",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "32",
+              "external": "53",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "33",
+              "external": "56",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "57",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "79",
+              "external": "0",
+              "total": "79",
               "result": "P"
             }
           ]
@@ -6757,6 +8185,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "34",
+              "external": "32",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "30",
+              "external": "16",
+              "total": "46",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "19",
+              "external": "29",
+              "total": "48",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "18",
+              "external": "24",
+              "total": "42",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "18",
+              "external": "33",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "53",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "61",
+              "external": "0",
+              "total": "61",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -7116,6 +8628,90 @@
               "internal": "0",
               "external": "48",
               "total": "48",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "40",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "44",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "35",
+              "external": "44",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "23",
+              "external": "30",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "52",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "57",
+              "external": "0",
+              "total": "57",
               "result": "P"
             }
           ]
@@ -7481,6 +9077,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "38",
+              "external": "42",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "40",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "38",
+              "external": "37",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "34",
+              "external": "50",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "24",
+              "external": "49",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "81",
+              "external": "0",
+              "total": "81",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -7840,6 +9520,90 @@
               "internal": "0",
               "external": "65",
               "total": "65",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "32",
+              "external": "48",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "39",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "38",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "32",
+              "external": "37",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "29",
+              "external": "45",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "32",
+              "external": "53",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "86",
+              "external": "0",
+              "total": "86",
               "result": "P"
             }
           ]
@@ -8205,6 +9969,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "39",
+              "external": "52",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "37",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "38",
+              "external": "38",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "34",
+              "external": "47",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "33",
+              "external": "58",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "90",
+              "external": "0",
+              "total": "90",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -8564,6 +10412,90 @@
               "internal": "0",
               "external": "87",
               "total": "87",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "39",
+              "external": "55",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "38",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "38",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "39",
+              "external": "49",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "32",
+              "external": "57",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "54",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "75",
+              "external": "0",
+              "total": "75",
               "result": "P"
             }
           ]
@@ -8929,6 +10861,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "40",
+              "external": "40",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "32",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "32",
+              "external": "34",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "36",
+              "external": "44",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "31",
+              "external": "38",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -9288,6 +11304,90 @@
               "internal": "0",
               "external": "63",
               "total": "63",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "14",
+              "external": "26",
+              "total": "40",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "7",
+              "total": "45",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "17",
+              "external": "33",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "16",
+              "external": "25",
+              "total": "41",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "14",
+              "external": "47",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "59",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
               "result": "P"
             }
           ]
@@ -9653,6 +11753,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "37",
+              "external": "45",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "37",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "46",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "35",
+              "external": "35",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "38",
+              "external": "53",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "59",
+              "total": "97",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -10012,6 +12196,90 @@
               "internal": "0",
               "external": "61",
               "total": "61",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "35",
+              "external": "40",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "37",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "32",
+              "external": "36",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "33",
+              "external": "31",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "30",
+              "external": "46",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "58",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "72",
+              "external": "0",
+              "total": "72",
               "result": "P"
             }
           ]
@@ -10377,6 +12645,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "40",
+              "external": "52",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "26",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "35",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "38",
+              "external": "33",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "34",
+              "external": "51",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "87",
+              "external": "0",
+              "total": "87",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -10736,6 +13088,90 @@
               "internal": "0",
               "external": "56",
               "total": "56",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "36",
+              "external": "49",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "37",
+              "external": "27",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "32",
+              "external": "40",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "32",
+              "external": "39",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "29",
+              "external": "48",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
               "result": "P"
             }
           ]
@@ -11101,6 +13537,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "40",
+              "external": "55",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "40",
+              "external": "43",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "36",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "38",
+              "external": "45",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "39",
+              "external": "56",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "58",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "81",
+              "external": "0",
+              "total": "81",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -11460,6 +13980,90 @@
               "internal": "0",
               "external": "57",
               "total": "57",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "33",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "32",
+              "external": "37",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "35",
+              "external": "39",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "29",
+              "external": "43",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "56",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "73",
+              "external": "0",
+              "total": "73",
               "result": "P"
             }
           ]
@@ -11825,6 +14429,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "36",
+              "external": "51",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "34",
+              "external": "33",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "23",
+              "external": "27",
+              "total": "50",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "28",
+              "external": "39",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "21",
+              "external": "44",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "58",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "42",
+              "external": "0",
+              "total": "42",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -12184,6 +14872,90 @@
               "internal": "0",
               "external": "82",
               "total": "82",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "38",
+              "external": "47",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "34",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "38",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "34",
+              "external": "38",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "32",
+              "external": "52",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "53",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "78",
+              "external": "0",
+              "total": "78",
               "result": "P"
             }
           ]
@@ -12549,6 +15321,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "42",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "44",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "32",
+              "external": "40",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "29",
+              "external": "44",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -12908,6 +15764,90 @@
               "internal": "0",
               "external": "64",
               "total": "64",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "39",
+              "external": "46",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "41",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "35",
+              "external": "50",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "83",
+              "external": "0",
+              "total": "83",
               "result": "P"
             }
           ]
@@ -13273,6 +16213,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "32",
+              "external": "43",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "16",
+              "total": "52",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "32",
+              "external": "34",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "35",
+              "external": "41",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "30",
+              "external": "42",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "56",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "52",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "84",
+              "external": "0",
+              "total": "84",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -13635,6 +16659,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "31",
+              "external": "33",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "39",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "35",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "25",
+              "external": "24",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "24",
+              "external": "35",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "53",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "73",
+              "external": "0",
+              "total": "73",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -13866,6 +16974,90 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "26",
+              "external": "28",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "24",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "33",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "21",
+              "external": "28",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "25",
+              "external": "34",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "77",
+              "external": "0",
+              "total": "77",
               "result": "P"
             }
           ]
@@ -14111,6 +17303,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "34",
+              "external": "41",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "38",
+              "external": "38",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "34",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "26",
+              "external": "32",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "28",
+              "external": "33",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "53",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "79",
+              "external": "0",
+              "total": "79",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -14350,6 +17626,90 @@
               "internal": "0",
               "external": "67",
               "total": "67",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "40",
+              "external": "53",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "24",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "30",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "37",
+              "external": "32",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "36",
+              "external": "47",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "37",
+              "external": "57",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "51",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "82",
+              "external": "0",
+              "total": "82",
               "result": "P"
             }
           ]
@@ -14595,6 +17955,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "38",
+              "external": "54",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "37",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "46",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "20",
+              "external": "39",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "31",
+              "external": "50",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "53",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "53",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "71",
+              "external": "0",
+              "total": "71",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -14837,6 +18281,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "40",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "38",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "34",
+              "external": "44",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "35",
+              "external": "50",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "58",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "84",
+              "external": "0",
+              "total": "84",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -15068,6 +18596,90 @@
               "internal": "93",
               "external": "0",
               "total": "93",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "26",
+              "external": "36",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "37",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "28",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "16",
+              "external": "29",
+              "total": "45",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "25",
+              "external": "36",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "53",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "57",
+              "external": "0",
+              "total": "57",
               "result": "P"
             }
           ]
@@ -15313,6 +18925,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "37",
+              "external": "46",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "38",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "32",
+              "external": "34",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "23",
+              "external": "26",
+              "total": "49",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "25",
+              "external": "36",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "81",
+              "external": "0",
+              "total": "81",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -15555,6 +19251,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "33",
+              "external": "38",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "31",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "30",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "29",
+              "external": "31",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "31",
+              "external": "33",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "38",
+              "external": "56",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "76",
+              "external": "0",
+              "total": "76",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -15794,6 +19574,90 @@
               "internal": "0",
               "external": "76",
               "total": "76",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-01R20",
+              "name": "COMPILER DESIGN",
+              "internal": "39",
+              "external": "54",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-02R20",
+              "name": "ARTIFICIAL INTELLIGENCE",
+              "internal": "36",
+              "external": "51",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "32",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-04R20",
+              "name": "COMPUTER GRAPHICS",
+              "internal": "23",
+              "external": "38",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-05R20",
+              "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+              "internal": "36",
+              "external": "38",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P1",
+              "name": "ARTIFICIAL INTELLIGENCE AND COMPILER DESIGN",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P3",
+              "name": "COMPUTER GRAPHICS LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "59",
+              "total": "96",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
               "result": "P"
             }
           ]
