@@ -20023,6 +20023,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "28",
+              "external": "38",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "32",
+              "external": "35",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "28",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "36",
+              "external": "30",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "30",
+              "external": "40",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "34",
+              "external": "52",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "50",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "70",
+              "external": "0",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "61",
+              "total": "61",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -20385,6 +20469,82 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "13",
+              "external": "AB",
+              "total": "13",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "19",
+              "external": "AB",
+              "total": "19",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "24",
+              "external": "AB",
+              "total": "24",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "22",
+              "external": "AB",
+              "total": "22",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "AB",
+              "total": "35",
+              "result": "F"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "30",
+              "external": "AB",
+              "total": "30",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "AB",
+              "total": "30",
+              "result": "F"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "0",
+              "external": "AB",
+              "total": "0",
+              "result": "F"
+            }
+          ]
         }
       }
     },
@@ -20744,6 +20904,90 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "36",
+              "external": "41",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "36",
+              "external": "38",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "38",
+              "external": "46",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "32",
+              "external": "46",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "34",
+              "external": "58",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "36",
+              "external": "53",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "31",
+              "external": "50",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "R20M191",
+              "name": "INTRODUCTION TO LARGE LANGUAGE MODELS (LLMS)",
+              "internal": "0",
+              "external": "64",
+              "total": "64",
               "result": "P"
             }
           ]
@@ -21109,6 +21353,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "29",
+              "external": "48",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "46",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "36",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "28",
+              "external": "44",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "26",
+              "external": "45",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "34",
+              "external": "57",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "79",
+              "external": "0",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "67",
+              "total": "67",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -21468,6 +21796,90 @@
               "internal": "89",
               "external": "0",
               "total": "89",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "27",
+              "external": "40",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "34",
+              "external": "35",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "36",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "31",
+              "external": "43",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "31",
+              "external": "49",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "31",
+              "external": "54",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "64",
+              "total": "64",
               "result": "P"
             }
           ]
@@ -21833,6 +22245,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "35",
+              "external": "40",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "39",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "26",
+              "external": "46",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "33",
+              "external": "46",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "30",
+              "external": "50",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "29",
+              "external": "50",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "0",
+              "external": "0",
+              "total": "0",
+              "result": "F"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "55",
+              "total": "55",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -22192,6 +22688,90 @@
               "internal": "90",
               "external": "0",
               "total": "90",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "29",
+              "external": "48",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "25",
+              "external": "33",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "28",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "34",
+              "external": "39",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "27",
+              "external": "40",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "32",
+              "external": "54",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "49",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "65",
+              "external": "0",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "60",
+              "total": "60",
               "result": "P"
             }
           ]
@@ -22557,6 +23137,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "22",
+              "external": "56",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "27",
+              "external": "26",
+              "total": "53",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "33",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "32",
+              "external": "30",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "24",
+              "external": "42",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "53",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "72",
+              "external": "0",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "64",
+              "total": "64",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -22916,6 +23580,90 @@
               "internal": "91",
               "external": "0",
               "total": "91",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "27",
+              "external": "46",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "35",
+              "external": "42",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "28",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "27",
+              "external": "32",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "29",
+              "external": "40",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "74",
+              "external": "0",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "88",
+              "total": "88",
               "result": "P"
             }
           ]
@@ -23281,6 +24029,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "32",
+              "external": "47",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "34",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "35",
+              "external": "43",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "29",
+              "external": "39",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "38",
+              "external": "54",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "51",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "73",
+              "external": "0",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "60",
+              "total": "60",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -23640,6 +24472,90 @@
               "internal": "89",
               "external": "0",
               "total": "89",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "27",
+              "external": "45",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "32",
+              "external": "46",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "31",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "34",
+              "external": "34",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "30",
+              "external": "38",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "54",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "30",
+              "external": "54",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "58",
+              "total": "58",
               "result": "P"
             }
           ]
@@ -24005,6 +24921,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "32",
+              "external": "44",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "35",
+              "external": "45",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "41",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "34",
+              "external": "40",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "32",
+              "external": "44",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "32",
+              "external": "55",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "76",
+              "external": "0",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "77",
+              "total": "77",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -24364,6 +25364,90 @@
               "internal": "90",
               "external": "0",
               "total": "90",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "27",
+              "external": "34",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "28",
+              "external": "35",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "33",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "28",
+              "external": "30",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "32",
+              "external": "35",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "31",
+              "external": "53",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "53",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "83",
+              "total": "83",
               "result": "P"
             }
           ]
@@ -24729,6 +25813,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "36",
+              "external": "48",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "50",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "43",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "32",
+              "external": "47",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "38",
+              "external": "57",
+              "total": "95",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "76",
+              "external": "0",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "R20M29",
+              "name": "THE JOY OF COMPUTING USING PYTHON",
+              "internal": "0",
+              "external": "91",
+              "total": "91",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -25088,6 +26256,90 @@
               "internal": "89",
               "external": "0",
               "total": "89",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "34",
+              "external": "50",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "34",
+              "external": "36",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "27",
+              "external": "36",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "36",
+              "external": "29",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "25",
+              "external": "36",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "0",
+              "external": "55",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "32",
+              "external": "54",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "53",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "76",
+              "external": "0",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "64",
+              "total": "64",
               "result": "P"
             }
           ]
@@ -25453,6 +26705,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "33",
+              "external": "52",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "38",
+              "external": "40",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "31",
+              "external": "44",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "38",
+              "external": "51",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "35",
+              "external": "50",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "32",
+              "external": "55",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "53",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "R20M29",
+              "name": "THE JOY OF COMPUTING USING PYTHON",
+              "internal": "0",
+              "external": "61",
+              "total": "61",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -25812,6 +27148,90 @@
               "internal": "92",
               "external": "0",
               "total": "92",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "24",
+              "external": "45",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "34",
+              "external": "41",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "33",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "32",
+              "external": "30",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "31",
+              "external": "45",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "32",
+              "external": "50",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "53",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "61",
+              "total": "61",
               "result": "P"
             }
           ]
@@ -26177,6 +27597,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "36",
+              "external": "58",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "32",
+              "external": "42",
+              "total": "74",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "37",
+              "external": "54",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "38",
+              "external": "48",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "56",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "62",
+              "total": "62",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -26536,6 +28040,82 @@
               "internal": "89",
               "external": "0",
               "total": "89",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "25",
+              "external": "45",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "30",
+              "external": "36",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "27",
+              "external": "31",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "29",
+              "external": "28",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "27",
+              "external": "33",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "34",
+              "external": "54",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "55",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
               "result": "P"
             }
           ]
@@ -27103,6 +28683,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "32",
+              "external": "32",
+              "total": "64",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "32",
+              "external": "40",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "31",
+              "external": "31",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "33",
+              "external": "32",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "30",
+              "external": "42",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "57",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "52",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "80",
+              "external": "0",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "78",
+              "total": "78",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -27462,6 +29126,90 @@
               "internal": "94",
               "external": "0",
               "total": "94",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "30",
+              "external": "48",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "42",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "45",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "32",
+              "external": "36",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "28",
+              "external": "40",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "33",
+              "external": "56",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "33",
+              "external": "53",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "72",
+              "external": "0",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "R20M07",
+              "name": "DATA ANALYTICS WITH PYTHON",
+              "internal": "0",
+              "external": "62",
+              "total": "62",
               "result": "P"
             }
           ]
@@ -27827,6 +29575,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "31",
+              "external": "48",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "38",
+              "external": "46",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "31",
+              "external": "39",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "33",
+              "external": "35",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "27",
+              "external": "42",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "37",
+              "external": "55",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "79",
+              "external": "0",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "R20M29",
+              "name": "THE JOY OF COMPUTING USING PYTHON",
+              "internal": "0",
+              "external": "65",
+              "total": "65",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -28186,6 +30018,90 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "32",
+              "external": "50",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "38",
+              "external": "52",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "33",
+              "external": "39",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "36",
+              "external": "48",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "37",
+              "external": "50",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "34",
+              "external": "56",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "52",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "77",
+              "external": "0",
+              "total": "77",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "60",
+              "total": "60",
               "result": "P"
             }
           ]
@@ -28617,6 +30533,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "38",
+              "external": "55",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "34",
+              "external": "50",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "37",
+              "external": "52",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "37",
+              "external": "57",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "36",
+              "external": "56",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "79",
+              "external": "0",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "58",
+              "total": "58",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -28976,6 +30976,90 @@
               "internal": "91",
               "external": "0",
               "total": "91",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "26",
+              "external": "41",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "23",
+              "external": "32",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "32",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "24",
+              "external": "30",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "26",
+              "external": "32",
+              "total": "58",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "34",
+              "external": "53",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "52",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "49",
+              "total": "49",
               "result": "P"
             }
           ]
@@ -29341,6 +31425,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "28",
+              "external": "48",
+              "total": "76",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "30",
+              "external": "33",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "31",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "26",
+              "external": "28",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "28",
+              "external": "35",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "34",
+              "external": "53",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "53",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "R20M88",
+              "name": "PRIVACY AND SECURITY IN ONLINE SOCIAL MEDIA",
+              "internal": "0",
+              "external": "72",
+              "total": "72",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -29700,6 +31868,90 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "33",
+              "external": "48",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "55",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "33",
+              "external": "40",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "35",
+              "external": "49",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "31",
+              "external": "38",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "34",
+              "external": "56",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "34",
+              "external": "50",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "73",
+              "external": "0",
+              "total": "73",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "55",
+              "total": "55",
               "result": "P"
             }
           ]
@@ -30065,6 +32317,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "32",
+              "external": "47",
+              "total": "79",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "31",
+              "external": "44",
+              "total": "75",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "32",
+              "external": "40",
+              "total": "72",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "35",
+              "external": "30",
+              "total": "65",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "30",
+              "external": "50",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "33",
+              "external": "54",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "52",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "71",
+              "external": "0",
+              "total": "71",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "63",
+              "total": "63",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -30424,6 +32760,90 @@
               "internal": "92",
               "external": "0",
               "total": "92",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "25",
+              "external": "32",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "26",
+              "external": "36",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "34",
+              "total": "62",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "28",
+              "external": "28",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "29",
+              "external": "40",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "53",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "60",
+              "external": "0",
+              "total": "60",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "69",
+              "total": "69",
               "result": "P"
             }
           ]
@@ -30789,6 +33209,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "25",
+              "external": "42",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "32",
+              "external": "31",
+              "total": "63",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "28",
+              "external": "31",
+              "total": "59",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "27",
+              "external": "28",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "34",
+              "external": "32",
+              "total": "66",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "57",
+              "total": "93",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "34",
+              "external": "52",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "30",
+              "external": "54",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "54",
+              "external": "0",
+              "total": "54",
+              "result": "P"
+            },
+            {
+              "code": "R20M17",
+              "name": "INTRODUCTION TO INTERNET OF THINGS",
+              "internal": "0",
+              "external": "87",
+              "total": "87",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -31028,6 +33532,90 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "35",
+              "external": "47",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "52",
+              "total": "88",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "31",
+              "external": "51",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "37",
+              "external": "53",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "39",
+              "external": "48",
+              "total": "87",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "57",
+              "total": "92",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "56",
+              "total": "91",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "50",
+              "total": "85",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "69",
+              "external": "0",
+              "total": "69",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "54",
+              "total": "54",
               "result": "P"
             }
           ]
@@ -31273,6 +33861,90 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "32",
+              "external": "46",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "46",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "30",
+              "external": "48",
+              "total": "78",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "37",
+              "external": "45",
+              "total": "82",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "33",
+              "external": "48",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "32",
+              "external": "54",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "32",
+              "external": "54",
+              "total": "86",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "70",
+              "external": "0",
+              "total": "70",
+              "result": "P"
+            },
+            {
+              "code": "R20M05",
+              "name": "CLOUD COMPUTING",
+              "internal": "0",
+              "external": "73",
+              "total": "73",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -31515,6 +34187,82 @@
               "result": "P"
             }
           ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "22",
+              "external": "33",
+              "total": "55",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "26",
+              "external": "35",
+              "total": "61",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "24",
+              "external": "32",
+              "total": "56",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "23",
+              "external": "28",
+              "total": "51",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "27",
+              "external": "40",
+              "total": "67",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "34",
+              "external": "55",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "32",
+              "external": "51",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "58",
+              "external": "0",
+              "total": "58",
+              "result": "P"
+            }
+          ]
         }
       }
     },
@@ -31754,6 +34502,90 @@
               "internal": "95",
               "external": "0",
               "total": "95",
+              "result": "P"
+            }
+          ]
+        },
+        "sem6": {
+          "subjects": [
+            {
+              "code": "7-8-6-06R20",
+              "name": "DATA SCIENCE",
+              "internal": "32",
+              "external": "48",
+              "total": "80",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-07R20",
+              "name": "WEB TECHNOLOGY",
+              "internal": "36",
+              "external": "47",
+              "total": "83",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-03R20",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY",
+              "internal": "31",
+              "external": "37",
+              "total": "68",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-08R20",
+              "name": "MACHINE LEARNING",
+              "internal": "35",
+              "external": "49",
+              "total": "84",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-09R20",
+              "name": "SOFTWARE ENGINERING",
+              "internal": "34",
+              "external": "47",
+              "total": "81",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20P2",
+              "name": "CRYPTOGRAPHY AND NETWORK SECURITY LABORATORY",
+              "internal": "36",
+              "external": "58",
+              "total": "94",
+              "result": "P"
+            },
+            {
+              "code": "7-7-6-R20P2",
+              "name": "DATA SCIENCE LABORATORY",
+              "internal": "35",
+              "external": "55",
+              "total": "90",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20S1",
+              "name": "ADVANCED PYTHON PROGRAMMING",
+              "internal": "35",
+              "external": "54",
+              "total": "89",
+              "result": "P"
+            },
+            {
+              "code": "7-8-6-R20A1",
+              "name": "PROFESSIONAL ETHICS",
+              "internal": "57",
+              "external": "0",
+              "total": "57",
+              "result": "P"
+            },
+            {
+              "code": "R20M191",
+              "name": "INTRODUCTION TO LARGE LANGUAGE MODELS (LLMS)",
+              "internal": "0",
+              "external": "66",
+              "total": "66",
               "result": "P"
             }
           ]
